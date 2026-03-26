@@ -1,0 +1,108 @@
+BENCH_ID,EMPLOYEE_ID,BENCH_START_DATE,BENCH_END_DATE,LAST_PROJECT,LAST_CLIENT,BENCH_REASON,AVAILABILITY_STATUS,PREFERRED_ROLE,BENCH_DURATION_DAYS,REMARKS,CREATED_AT
+4,1129,2026-01-28,,POC Development,MediaStream,Client Budget Cut,In Interview Pipeline,DevOps Engineer,43,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+5,1137,2026-01-27,2026-03-22,ETL Modernization,EduSpark,Internal Transfer,Immediately Available,DevOps Engineer,53,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+6,1137,2025-12-30,2026-03-22,API Integration,RetailMax,Project Ramp Down,Available in 1 Week,Solution Architect,39,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+7,1137,2026-03-07,2026-03-22,Data Governance Setup,BankRight,Project Completed,Available in 2 Weeks,Data Engineer,35,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+8,1177,2026-02-04,,Data Lake Build,CloudScale,Project Completed,Upskilling - Limited Availability,BI Developer,21,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+9,1177,2025-12-31,,Snowflake Migration,HealthTech Solutions,Redeployment in Progress,In Interview Pipeline,Solution Architect,7,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+10,1177,2026-01-29,,Cost Optimization,InsurePro,Project Delayed,Available in 2 Weeks,QA Lead,42,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+11,1249,2026-02-22,,Data Lake Build,AutoDrive Inc,Client Budget Cut,Upskilling - Limited Availability,Data Analyst,23,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+12,1273,2026-01-31,2026-03-28,ETL Modernization,FinServ Global,Visa Processing,Available in 1 Week,QA Lead,30,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+13,1305,2026-03-14,,Data Governance Setup,HealthTech Solutions,Project Completed,Available in 2 Weeks,Cloud Architect,11,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+14,1345,2026-02-21,,Snowflake Migration,EduSpark,Redeployment in Progress,In Interview Pipeline,Data Engineer,13,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+15,1345,2026-02-07,2026-03-25,Security Audit,HealthTech Solutions,Redeployment in Progress,Available in 2 Weeks,Full Stack Developer,27,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+101,1393,2026-01-16,2026-04-10,Real-time Analytics,TechNova Inc,Project Delayed,Available in 1 Week,Project Manager,77,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+102,1433,2025-12-30,2026-04-08,ETL Modernization,FinServ Global,Skill Gap - Upskilling,Upskilling - Limited Availability,DevOps Engineer,79,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+103,1489,2026-02-14,,ETL Modernization,TechNova Inc,Client Onboarding Pending,Upskilling - Limited Availability,QA Lead,75,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+104,1489,2026-01-11,,API Integration,AutoDrive Inc,Client Onboarding Pending,Upskilling - Limited Availability,ML Engineer,73,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+105,1489,2026-01-29,,Data Governance Setup,FoodChain Co,Redeployment in Progress,In Interview Pipeline,Full Stack Developer,73,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+106,1038,2026-01-18,,ETL Modernization,EnergyOne,Client Onboarding Pending,Upskilling - Limited Availability,ML Engineer,82,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+107,1038,2026-02-01,,ML Pipeline,FoodChain Co,Project Ramp Down,Available in 2 Weeks,Project Manager,43,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+108,1062,2025-12-26,,Data Warehouse Redesign,TravelEase,Client Onboarding Pending,Immediately Available,Project Manager,5,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+109,1062,2026-01-31,,Data Governance Setup,TravelEase,Project Completed,Upskilling - Limited Availability,Full Stack Developer,17,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+110,1078,2025-12-29,,Data Governance Setup,EnergyOne,Project Ramp Down,Upskilling - Limited Availability,ML Engineer,32,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+1,1049,2026-01-03,2026-03-23,API Integration,EnergyOne,Internal Transfer,In Interview Pipeline,BI Developer,42,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+2,1049,2026-02-21,2026-03-23,ML Pipeline,EnergyOne,Project Completed,Upskilling - Limited Availability,DevOps Engineer,73,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+3,1049,2026-02-14,2026-03-23,Real-time Analytics,AutoDrive Inc,Between Assignments,In Interview Pipeline,DevOps Engineer,55,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+111,1110,2026-01-25,2026-03-23,Security Audit,EduSpark,Project Completed,Available in 1 Week,Project Manager,28,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+112,1110,2026-02-24,2026-03-23,POC Development,FoodChain Co,Client Budget Cut,In Interview Pipeline,DevOps Engineer,5,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+113,1150,2025-12-26,,Data Lake Build,FinServ Global,Project Ramp Down,Immediately Available,BI Developer,41,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+114,1190,2026-02-08,,API Integration,RetailMax,Project Ramp Down,In Interview Pipeline,Solution Architect,85,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+115,1254,2026-01-06,,Data Warehouse Redesign,HealthTech Solutions,Project Completed,Upskilling - Limited Availability,DevOps Engineer,8,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+116,1334,2026-02-17,,Cloud Migration,MediaStream,Project Ramp Down,Available in 1 Week,Project Manager,21,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+117,1342,2025-12-28,,Data Warehouse Redesign,TechNova Inc,Project Completed,In Interview Pipeline,QA Lead,32,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+118,1342,2026-01-03,,Data Warehouse Redesign,DataFirst LLC,Between Assignments,Immediately Available,Project Manager,84,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+119,1390,2026-03-10,2026-03-21,Cost Optimization,DataFirst LLC,Redeployment in Progress,Available in 2 Weeks,Project Manager,75,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+120,1390,2026-03-03,2026-04-08,Cost Optimization,EnergyOne,Project Delayed,Available in 2 Weeks,Project Manager,85,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+121,1406,2026-01-23,,Data Lake Build,EnergyOne,Visa Processing,Immediately Available,ML Engineer,68,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+122,1438,2026-02-12,2026-04-05,Data Lake Build,FoodChain Co,Skill Gap - Upskilling,Available in 2 Weeks,Full Stack Developer,84,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+123,1438,2026-01-10,,ML Pipeline,TechNova Inc,Project Ramp Down,Immediately Available,ML Engineer,79,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+124,1462,2026-03-06,,Dashboard Development,InsurePro,Project Ramp Down,In Interview Pipeline,DevOps Engineer,52,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+125,1015,2026-03-05,2026-03-30,Dashboard Development,EnergyOne,Between Assignments,Upskilling - Limited Availability,Full Stack Developer,56,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+126,1031,2026-01-05,,POC Development,FinServ Global,Skill Gap - Upskilling,Upskilling - Limited Availability,ML Engineer,23,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+127,1119,2026-01-14,2026-04-15,Data Lake Build,EnergyOne,Client Onboarding Pending,Available in 2 Weeks,Data Engineer,35,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+128,1247,2026-03-15,,POC Development,EduSpark,Between Assignments,In Interview Pipeline,Full Stack Developer,7,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+129,1463,2025-12-29,2026-04-06,Cloud Migration,FoodChain Co,Client Budget Cut,Available in 2 Weeks,ML Engineer,15,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+130,1012,2026-03-06,2026-03-28,Data Warehouse Redesign,CloudScale,Project Delayed,In Interview Pipeline,Cloud Architect,44,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+131,1148,2026-01-06,,ETL Modernization,InsurePro,Internal Transfer,Immediately Available,Solution Architect,41,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+132,1148,2026-02-08,,API Integration,TechNova Inc,Project Delayed,Available in 1 Week,Full Stack Developer,41,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+133,1148,2026-02-24,2026-04-04,Real-time Analytics,TravelEase,Client Budget Cut,Available in 2 Weeks,BI Developer,59,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+134,1236,2026-02-21,2026-04-02,Dashboard Development,MediaStream,Skill Gap - Upskilling,Available in 1 Week,Project Manager,88,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+135,1236,2026-01-10,,Dashboard Development,InsurePro,Internal Transfer,In Interview Pipeline,Data Engineer,82,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+136,1236,2026-01-24,,POC Development,FoodChain Co,Skill Gap - Upskilling,Immediately Available,Project Manager,85,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+137,1252,2026-01-30,,Dashboard Development,EduSpark,Skill Gap - Upskilling,In Interview Pipeline,Full Stack Developer,25,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+139,1268,2026-01-02,2026-04-12,ETL Modernization,CloudScale,Project Ramp Down,In Interview Pipeline,Full Stack Developer,67,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+140,1268,2026-01-12,2026-04-10,Dashboard Development,InsurePro,Client Budget Cut,Available in 2 Weeks,Cloud Architect,52,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+141,1268,2026-02-08,,Data Warehouse Redesign,DataFirst LLC,Between Assignments,In Interview Pipeline,Data Engineer,11,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+142,1268,2026-01-28,,Snowflake Migration,TechNova Inc,Client Onboarding Pending,Available in 1 Week,Cloud Architect,23,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+143,1428,2026-01-17,2026-04-04,Real-time Analytics,DataFirst LLC,Between Assignments,In Interview Pipeline,ML Engineer,83,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+144,1005,2026-02-28,2026-04-08,ETL Modernization,TravelEase,Client Budget Cut,Immediately Available,BI Developer,52,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+145,1005,2026-01-18,,Data Warehouse Redesign,RetailMax,Internal Transfer,Available in 2 Weeks,Project Manager,77,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+146,1061,2026-02-04,,Data Lake Build,EduSpark,Skill Gap - Upskilling,In Interview Pipeline,DevOps Engineer,29,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+147,1069,2026-02-28,,Platform Upgrade,DataFirst LLC,Skill Gap - Upskilling,Available in 1 Week,Project Manager,78,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+148,1069,2026-03-02,,Platform Upgrade,MediaStream,Redeployment in Progress,Upskilling - Limited Availability,Solution Architect,74,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+149,1133,2026-01-30,,ML Pipeline,TravelEase,Between Assignments,Available in 2 Weeks,QA Lead,38,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+150,1133,2026-03-12,,Data Warehouse Redesign,EduSpark,Redeployment in Progress,Available in 1 Week,Solution Architect,53,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+151,1133,2026-01-31,2026-04-18,Cost Optimization,DataFirst LLC,Between Assignments,In Interview Pipeline,Data Analyst,29,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+152,1165,2026-03-08,,ML Pipeline,Acme Corp,Skill Gap - Upskilling,Upskilling - Limited Availability,QA Lead,66,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+153,1189,2026-01-05,2026-03-25,ETL Modernization,TechNova Inc,Client Budget Cut,Upskilling - Limited Availability,Project Manager,86,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+154,1189,2026-02-23,,Data Warehouse Redesign,HealthTech Solutions,Project Delayed,Upskilling - Limited Availability,Data Analyst,34,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+155,1453,2025-12-30,,Snowflake Migration,AutoDrive Inc,Skill Gap - Upskilling,Upskilling - Limited Availability,Full Stack Developer,50,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+156,1477,2026-01-24,2026-03-28,Data Lake Build,AutoDrive Inc,Project Delayed,Available in 1 Week,QA Lead,83,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+157,1477,2026-02-07,,API Integration,MediaStream,Project Delayed,Available in 1 Week,Project Manager,68,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+158,1019,2026-03-01,,Data Lake Build,TechNova Inc,Project Delayed,Immediately Available,Data Analyst,13,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+159,1107,2026-02-27,,Cost Optimization,InsurePro,Skill Gap - Upskilling,Immediately Available,QA Lead,87,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+160,1179,2026-02-08,,Data Governance Setup,EduSpark,Client Onboarding Pending,Available in 2 Weeks,QA Lead,63,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+161,1315,2026-01-09,,Snowflake Migration,Acme Corp,Between Assignments,In Interview Pipeline,Full Stack Developer,52,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+162,1363,2026-02-28,,Data Lake Build,MediaStream,Project Completed,Available in 1 Week,ML Engineer,41,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+163,1379,2026-01-07,,Platform Upgrade,Acme Corp,Redeployment in Progress,In Interview Pipeline,Solution Architect,17,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+164,1427,2026-01-18,2026-04-03,Dashboard Development,MediaStream,Internal Transfer,Upskilling - Limited Availability,Solution Architect,64,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+165,1483,2026-01-03,,ETL Modernization,EnergyOne,Project Ramp Down,Available in 1 Week,BI Developer,89,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+166,1483,2025-12-22,,Dashboard Development,Acme Corp,Project Completed,Available in 2 Weeks,Data Engineer,89,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+167,1016,2026-02-13,,Reporting Automation,FoodChain Co,Visa Processing,Available in 2 Weeks,QA Lead,33,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+168,1040,2025-12-20,,ML Pipeline,CloudScale,Client Budget Cut,In Interview Pipeline,Data Analyst,68,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+169,1128,2026-01-18,,ML Pipeline,FinServ Global,Client Budget Cut,Upskilling - Limited Availability,QA Lead,50,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+170,1128,2026-02-21,,Data Warehouse Redesign,BankRight,Redeployment in Progress,Available in 1 Week,Project Manager,83,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+171,1296,2026-01-24,2026-04-11,Data Lake Build,TechNova Inc,Client Onboarding Pending,In Interview Pipeline,DevOps Engineer,63,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+172,1296,2026-02-05,,Cost Optimization,FoodChain Co,Project Completed,Available in 2 Weeks,QA Lead,75,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+173,1472,2026-02-27,,Security Audit,InsurePro,Project Completed,Available in 1 Week,Cloud Architect,84,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+174,1058,2026-02-26,,Data Governance Setup,BankRight,Project Ramp Down,Available in 1 Week,Solution Architect,65,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+176,1194,2026-02-18,,POC Development,RetailMax,Client Budget Cut,Available in 1 Week,Data Engineer,79,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+177,1250,2026-01-21,,Cost Optimization,RetailMax,Client Onboarding Pending,Available in 2 Weeks,Solution Architect,27,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+178,1290,2026-01-26,2026-04-10,Data Governance Setup,FinServ Global,Client Budget Cut,Available in 2 Weeks,ML Engineer,7,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+179,1298,2026-01-29,,Dashboard Development,Acme Corp,Redeployment in Progress,Immediately Available,Cloud Architect,18,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+180,1298,2026-01-04,2026-04-06,Security Audit,AutoDrive Inc,Between Assignments,Immediately Available,QA Lead,45,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+181,1322,2025-12-22,,Data Lake Build,TravelEase,Client Budget Cut,Upskilling - Limited Availability,Solution Architect,42,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+182,1322,2025-12-26,,Snowflake Migration,FoodChain Co,Project Completed,Immediately Available,Cloud Architect,38,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+183,1322,2026-01-01,2026-03-28,Real-time Analytics,InsurePro,Redeployment in Progress,In Interview Pipeline,Data Analyst,12,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+184,1330,2026-01-08,,ML Pipeline,MediaStream,Visa Processing,In Interview Pipeline,BI Developer,88,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+185,1338,2026-01-22,2026-04-09,Data Warehouse Redesign,EduSpark,Client Onboarding Pending,Available in 2 Weeks,Full Stack Developer,73,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+186,1418,2026-03-12,2026-03-26,Security Audit,BankRight,Project Delayed,Immediately Available,Data Engineer,60,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+1101,1516,2026-02-15,,AI Chatbot Platform,EduSpark,Project Completed,Immediately Available,Solutions Architect,34,Available for new architecture engagement,2026-03-21 04:06:27.369
+1102,1518,2026-03-01,2026-03-23,BI Dashboard Suite,MediaStream,Between Assignments,Immediately Available,Solutions Architect,20,Ready for new data science architecture role,2026-03-21 04:06:27.369
+1103,1522,2026-02-20,,NLP Analytics Engine,InsurePro,Project Completed,Immediately Available,Principal Architect,29,Seeking strategic architecture engagement,2026-03-21 04:06:27.369
+1201,1528,2026-02-25,,AI Chatbot Platform,EduSpark,Project Completed,Immediately Available,Project Manager,24,Available for new PM engagement,2026-03-21 06:44:57.933
+138,1260,2026-01-10,2026-03-23,Reporting Automation,DataFirst LLC,Project Ramp Down,Upskilling - Limited Availability,DevOps Engineer,82,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+1202,1530,2026-03-05,2026-03-23,MLOps Pipeline,CloudScale,Between Assignments,Immediately Available,Sr. Project Manager,16,Seeking strategic program management role,2026-03-21 06:44:57.933
+175,1122,2026-02-02,2026-03-23,Data Governance Setup,DataFirst LLC,Visa Processing,Available in 1 Week,Data Analyst,25,"Employee on bench, actively looking for new assignment",2026-03-20 06:58:02.460
+1301,1004,2026-03-10,2026-03-23,Analytics Migration,FinServe,Project Completed,Available,Data Modeller,13,Available for data modelling engagements,2026-03-23 01:58:43.064
