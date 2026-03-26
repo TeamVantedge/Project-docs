@@ -1,0 +1,433 @@
+MARGIN_ID,EMPLOYEE_ID,PROJECT_NAME,CLIENT_NAME,BILLING_START_DATE,BILLING_END_DATE,BILLING_RATE_PER_HOUR,COST_RATE_PER_HOUR,MARGIN_AMOUNT_PER_HOUR,MARGIN_PERCENTAGE,MONTHLY_BILLED_HOURS,MONTHLY_REVENUE,MONTHLY_COST,MONTHLY_MARGIN,BILLING_TYPE,CURRENCY,ENGAGEMENT_TYPE,IS_ACTIVE,CREATED_AT
+1,1001,Security Audit,AutoDrive Inc,2025-06-13,2026-04-26,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Consulting,false,2026-03-20 07:01:48.136
+2,1001,Data Governance Setup,FoodChain Co,2025-10-29,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Consulting,true,2026-03-20 07:01:48.136
+3,1001,ETL Modernization,TravelEase,2025-12-02,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Managed Services,false,2026-03-20 07:01:48.136
+4,1009,Platform Upgrade,EnergyOne,2025-11-01,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+5,1017,ML Pipeline,RetailMax,2025-11-26,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Consulting,true,2026-03-20 07:01:48.136
+6,1033,Reporting Automation,Acme Corp,2025-11-10,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+7,1041,Data Warehouse Redesign,TechNova Inc,2025-11-09,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Staff Augmentation,false,2026-03-20 07:01:48.136
+8,1057,ETL Modernization,BankRight,2026-01-25,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Consulting,true,2026-03-20 07:01:48.136
+9,1065,Security Audit,EduSpark,2026-01-17,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Project Based,true,2026-03-20 07:01:48.136
+10,1073,Security Audit,HealthTech Solutions,2025-08-12,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Managed Services,false,2026-03-20 07:01:48.136
+11,1081,Data Governance Setup,Acme Corp,2025-04-12,2026-04-30,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Consulting,false,2026-03-20 07:01:48.136
+12,1081,Cloud Migration,AutoDrive Inc,2025-06-28,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Support & Maintenance,false,2026-03-20 07:01:48.136
+13,1097,POC Development,TechNova Inc,2026-02-10,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+14,1105,Reporting Automation,FinServ Global,2025-06-08,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+15,1113,API Integration,EduSpark,2025-05-22,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Consulting,true,2026-03-20 07:01:48.136
+16,1145,Platform Upgrade,AutoDrive Inc,2025-10-29,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+17,1145,Data Lake Build,EduSpark,2025-07-26,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Consulting,false,2026-03-20 07:01:48.136
+18,1153,API Integration,TechNova Inc,2026-02-17,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+19,1153,Data Governance Setup,FoodChain Co,2025-09-20,2026-08-17,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+20,1161,Data Governance Setup,RetailMax,2025-07-23,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Project Based,true,2026-03-20 07:01:48.136
+21,1161,Data Warehouse Redesign,TechNova Inc,2025-06-16,2026-07-29,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Managed Services,true,2026-03-20 07:01:48.136
+101,1169,ETL Modernization,HealthTech Solutions,2025-07-04,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+102,1185,Data Warehouse Redesign,HealthTech Solutions,2025-06-04,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+103,1193,ETL Modernization,InsurePro,2025-04-04,2026-05-10,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Staff Augmentation,false,2026-03-20 07:01:48.136
+104,1241,ETL Modernization,InsurePro,2025-10-19,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Managed Services,false,2026-03-20 07:01:48.136
+105,1241,ML Pipeline,FoodChain Co,2025-11-02,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+106,1257,Reporting Automation,AutoDrive Inc,2025-06-20,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Consulting,true,2026-03-20 07:01:48.136
+107,1257,Cost Optimization,DataFirst LLC,2026-02-06,2026-07-30,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Managed Services,true,2026-03-20 07:01:48.136
+108,1257,ETL Modernization,RetailMax,2025-08-15,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+109,1257,Data Warehouse Redesign,Acme Corp,2025-11-29,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+110,1265,Real-time Analytics,MediaStream,2025-12-17,2026-05-05,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+111,1289,Dashboard Development,DataFirst LLC,2025-06-03,2026-07-30,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Staff Augmentation,false,2026-03-20 07:01:48.136
+112,1297,ML Pipeline,EduSpark,2025-07-22,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Support & Maintenance,false,2026-03-20 07:01:48.136
+113,1297,Cloud Migration,TechNova Inc,2025-04-06,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Project Based,true,2026-03-20 07:01:48.136
+114,1297,ETL Modernization,BankRight,2025-06-07,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Managed Services,true,2026-03-20 07:01:48.136
+115,1337,Data Governance Setup,BankRight,2025-09-01,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Project Based,true,2026-03-20 07:01:48.136
+116,1337,Platform Upgrade,HealthTech Solutions,2025-06-20,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Managed Services,false,2026-03-20 07:01:48.136
+117,1353,Dashboard Development,FinServ Global,2025-07-24,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+118,1361,ML Pipeline,TechNova Inc,2025-08-09,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Managed Services,true,2026-03-20 07:01:48.136
+119,1401,Cost Optimization,FinServ Global,2025-12-12,2026-09-12,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+120,1409,ETL Modernization,CloudScale,2025-08-13,2026-04-27,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Managed Services,true,2026-03-20 07:01:48.136
+121,1417,Snowflake Migration,InsurePro,2025-05-18,2026-08-11,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Project Based,true,2026-03-20 07:01:48.136
+122,1417,ML Pipeline,TechNova Inc,2025-11-13,2026-08-09,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+123,1441,Snowflake Migration,DataFirst LLC,2025-03-21,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Project Based,true,2026-03-20 07:01:48.136
+124,1441,Cloud Migration,TechNova Inc,2025-10-11,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+125,1449,POC Development,HealthTech Solutions,2026-01-02,2026-06-18,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Consulting,true,2026-03-20 07:01:48.136
+126,1457,Dashboard Development,BankRight,2026-01-12,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+127,1457,POC Development,TravelEase,2025-07-24,2026-08-28,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+128,1457,API Integration,EnergyOne,2025-03-23,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Managed Services,true,2026-03-20 07:01:48.136
+129,1465,Data Lake Build,EnergyOne,2025-05-31,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Project Based,true,2026-03-20 07:01:48.136
+130,1465,Data Governance Setup,EduSpark,2025-05-16,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Project Based,true,2026-03-20 07:01:48.136
+131,1473,ETL Modernization,EduSpark,2025-10-08,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Consulting,true,2026-03-20 07:01:48.136
+132,1481,ML Pipeline,CloudScale,2026-02-06,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Project Based,true,2026-03-20 07:01:48.136
+133,1505,POC Development,RetailMax,2025-05-19,2026-07-02,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+134,1505,Cloud Migration,MediaStream,2026-01-14,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Project Based,false,2026-03-20 07:01:48.136
+135,1006,Reporting Automation,TechNova Inc,2025-10-05,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Project Based,false,2026-03-20 07:01:48.136
+136,1006,Snowflake Migration,EnergyOne,2025-06-24,2026-09-04,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Consulting,false,2026-03-20 07:01:48.136
+137,1006,Data Lake Build,RetailMax,2025-04-21,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+138,1014,API Integration,EnergyOne,2025-06-04,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+139,1014,ETL Modernization,DataFirst LLC,2026-02-12,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Consulting,true,2026-03-20 07:01:48.136
+140,1022,Platform Upgrade,MediaStream,2025-07-05,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Managed Services,true,2026-03-20 07:01:48.136
+141,1030,Data Lake Build,MediaStream,2025-06-08,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+142,1030,Platform Upgrade,DataFirst LLC,2025-07-24,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+143,1046,Cost Optimization,InsurePro,2025-03-23,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Managed Services,true,2026-03-20 07:01:48.136
+144,1094,Data Lake Build,FoodChain Co,2026-02-04,2026-06-24,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Consulting,true,2026-03-20 07:01:48.136
+145,1102,Reporting Automation,EnergyOne,2025-08-02,2026-07-05,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+146,1102,API Integration,BankRight,2025-09-11,2026-07-21,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Consulting,true,2026-03-20 07:01:48.136
+147,1118,Data Governance Setup,DataFirst LLC,2025-10-27,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Project Based,false,2026-03-20 07:01:48.136
+148,1126,Data Warehouse Redesign,HealthTech Solutions,2025-11-29,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Project Based,true,2026-03-20 07:01:48.136
+149,1126,Dashboard Development,FinServ Global,2025-06-23,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+150,1166,Snowflake Migration,AutoDrive Inc,2026-02-17,2026-09-10,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Consulting,true,2026-03-20 07:01:48.136
+151,1174,Dashboard Development,Acme Corp,2025-04-28,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+152,1174,POC Development,InsurePro,2025-08-09,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Consulting,true,2026-03-20 07:01:48.136
+153,1174,Reporting Automation,AutoDrive Inc,2025-09-13,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Managed Services,false,2026-03-20 07:01:48.136
+154,1198,Reporting Automation,AutoDrive Inc,2025-11-11,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Managed Services,false,2026-03-20 07:01:48.136
+155,1206,Dashboard Development,TechNova Inc,2026-01-01,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Project Based,false,2026-03-20 07:01:48.136
+156,1206,API Integration,AutoDrive Inc,2025-12-24,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Consulting,true,2026-03-20 07:01:48.136
+157,1206,Real-time Analytics,MediaStream,2025-06-01,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Consulting,true,2026-03-20 07:01:48.136
+158,1222,Security Audit,RetailMax,2025-05-25,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Project Based,true,2026-03-20 07:01:48.136
+159,1238,Reporting Automation,EduSpark,2025-10-26,2026-04-27,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+160,1238,Cloud Migration,DataFirst LLC,2025-12-30,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+161,1238,Platform Upgrade,EnergyOne,2025-07-10,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Consulting,false,2026-03-20 07:01:48.136
+162,1238,Reporting Automation,RetailMax,2025-06-24,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+163,1262,ETL Modernization,TechNova Inc,2025-12-02,2026-07-17,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Project Based,false,2026-03-20 07:01:48.136
+164,1270,POC Development,RetailMax,2025-11-05,2026-08-27,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+165,1270,Snowflake Migration,TechNova Inc,2025-08-07,2026-08-20,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Managed Services,true,2026-03-20 07:01:48.136
+166,1270,Reporting Automation,FoodChain Co,2025-08-21,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Consulting,true,2026-03-20 07:01:48.136
+167,1270,Reporting Automation,RetailMax,2025-06-18,2026-08-23,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Staff Augmentation,false,2026-03-20 07:01:48.136
+168,1286,API Integration,MediaStream,2025-11-01,2026-06-15,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+169,1286,Platform Upgrade,MediaStream,2025-07-19,2026-05-03,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+170,1302,Security Audit,DataFirst LLC,2025-10-31,2026-08-12,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Project Based,false,2026-03-20 07:01:48.136
+171,1310,Snowflake Migration,TravelEase,2025-11-17,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+172,1310,Snowflake Migration,TechNova Inc,2026-01-15,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Consulting,true,2026-03-20 07:01:48.136
+173,1310,Real-time Analytics,DataFirst LLC,2025-04-11,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Consulting,true,2026-03-20 07:01:48.136
+174,1326,Real-time Analytics,RetailMax,2025-09-21,2026-05-24,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Consulting,true,2026-03-20 07:01:48.136
+175,1350,Data Governance Setup,TravelEase,2025-09-29,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+176,1366,Dashboard Development,HealthTech Solutions,2025-12-15,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Managed Services,true,2026-03-20 07:01:48.136
+177,1374,Cloud Migration,RetailMax,2025-05-28,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Managed Services,true,2026-03-20 07:01:48.136
+178,1374,Data Warehouse Redesign,RetailMax,2025-10-08,2026-07-01,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Project Based,true,2026-03-20 07:01:48.136
+179,1414,Data Lake Build,DataFirst LLC,2026-01-03,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Project Based,true,2026-03-20 07:01:48.136
+180,1422,Cloud Migration,CloudScale,2025-09-18,2026-07-18,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+181,1422,Platform Upgrade,TravelEase,2025-07-03,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+182,1422,Reporting Automation,HealthTech Solutions,2025-09-11,2026-05-20,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Project Based,true,2026-03-20 07:01:48.136
+183,1454,Platform Upgrade,TechNova Inc,2025-12-09,2026-05-13,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+184,1470,Data Governance Setup,TravelEase,2025-11-25,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+185,1007,Snowflake Migration,CloudScale,2025-07-07,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+186,1047,Real-time Analytics,MediaStream,2025-04-02,2026-04-20,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Staff Augmentation,false,2026-03-20 07:01:48.136
+187,1047,Data Warehouse Redesign,HealthTech Solutions,2025-12-22,2026-07-27,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Managed Services,true,2026-03-20 07:01:48.136
+188,1055,Data Warehouse Redesign,FoodChain Co,2025-07-05,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Managed Services,false,2026-03-20 07:01:48.136
+189,1063,Security Audit,FoodChain Co,2025-07-07,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+190,1071,Cloud Migration,FoodChain Co,2025-12-12,2026-05-07,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+191,1103,Reporting Automation,CloudScale,2025-10-17,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Consulting,true,2026-03-20 07:01:48.136
+192,1111,API Integration,FoodChain Co,2025-12-20,2026-05-31,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Managed Services,true,2026-03-20 07:01:48.136
+193,1143,Platform Upgrade,FoodChain Co,2025-11-04,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Managed Services,true,2026-03-20 07:01:48.136
+194,1159,ML Pipeline,Acme Corp,2025-06-05,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+195,1167,Data Warehouse Redesign,InsurePro,2025-04-24,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Consulting,false,2026-03-20 07:01:48.136
+196,1167,POC Development,EnergyOne,2025-05-28,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Consulting,true,2026-03-20 07:01:48.136
+197,1175,ETL Modernization,EduSpark,2026-02-12,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Consulting,true,2026-03-20 07:01:48.136
+198,1175,ETL Modernization,InsurePro,2025-09-03,2026-07-30,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Project Based,true,2026-03-20 07:01:48.136
+199,1175,POC Development,TechNova Inc,2025-08-02,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Consulting,true,2026-03-20 07:01:48.136
+200,1183,ETL Modernization,TravelEase,2025-03-20,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Consulting,true,2026-03-20 07:01:48.136
+201,1191,ML Pipeline,FinServ Global,2025-07-09,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Project Based,true,2026-03-20 07:01:48.136
+202,1207,Reporting Automation,TechNova Inc,2025-05-29,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Project Based,true,2026-03-20 07:01:48.136
+203,1215,Dashboard Development,TravelEase,2025-06-03,2026-05-27,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Managed Services,true,2026-03-20 07:01:48.136
+204,1215,Cost Optimization,AutoDrive Inc,2025-08-08,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+205,1311,API Integration,TechNova Inc,2025-03-26,2026-07-03,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Project Based,true,2026-03-20 07:01:48.136
+206,1311,API Integration,DataFirst LLC,2025-10-13,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Consulting,true,2026-03-20 07:01:48.136
+207,1311,ML Pipeline,TechNova Inc,2025-05-21,2026-09-03,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Managed Services,false,2026-03-20 07:01:48.136
+208,1319,Data Governance Setup,MediaStream,2025-11-21,2026-04-22,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Project Based,true,2026-03-20 07:01:48.136
+209,1319,POC Development,FinServ Global,2025-04-23,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Consulting,true,2026-03-20 07:01:48.136
+210,1351,ML Pipeline,FoodChain Co,2025-12-16,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+211,1359,Snowflake Migration,RetailMax,2025-04-19,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Project Based,true,2026-03-20 07:01:48.136
+212,1359,Dashboard Development,MediaStream,2025-10-26,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Managed Services,true,2026-03-20 07:01:48.136
+213,1359,Data Lake Build,MediaStream,2026-02-15,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+214,1383,Cost Optimization,TravelEase,2025-09-22,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Consulting,true,2026-03-20 07:01:48.136
+215,1399,Snowflake Migration,EduSpark,2025-11-27,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Support & Maintenance,false,2026-03-20 07:01:48.136
+216,1399,ML Pipeline,TravelEase,2025-04-22,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+217,1407,Security Audit,Acme Corp,2026-01-05,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Managed Services,true,2026-03-20 07:01:48.136
+218,1407,Platform Upgrade,AutoDrive Inc,2026-01-21,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Project Based,true,2026-03-20 07:01:48.136
+219,1407,Dashboard Development,Acme Corp,2025-07-26,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Project Based,true,2026-03-20 07:01:48.136
+220,1431,Real-time Analytics,TechNova Inc,2025-05-07,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Consulting,true,2026-03-20 07:01:48.136
+221,1447,API Integration,Acme Corp,2025-11-08,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Staff Augmentation,false,2026-03-20 07:01:48.136
+222,1455,Platform Upgrade,FoodChain Co,2025-07-22,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Consulting,true,2026-03-20 07:01:48.136
+223,1455,Cost Optimization,AutoDrive Inc,2025-03-28,2026-07-08,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Consulting,true,2026-03-20 07:01:48.136
+224,1455,Data Governance Setup,TechNova Inc,2025-06-20,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Project Based,false,2026-03-20 07:01:48.136
+225,1479,Cost Optimization,RetailMax,2025-06-10,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Project Based,true,2026-03-20 07:01:48.136
+226,1479,Real-time Analytics,EnergyOne,2025-09-18,2026-05-20,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+227,1487,POC Development,AutoDrive Inc,2025-10-06,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+228,1487,ETL Modernization,CloudScale,2025-07-27,2026-07-10,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+229,1004,Snowflake Migration,RetailMax,2026-01-16,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Consulting,false,2026-03-20 07:01:48.136
+230,1004,Security Audit,RetailMax,2025-08-17,2026-05-03,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Consulting,false,2026-03-20 07:01:48.136
+231,1004,API Integration,TravelEase,2025-08-23,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Project Based,true,2026-03-20 07:01:48.136
+232,1020,POC Development,RetailMax,2025-12-15,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Managed Services,false,2026-03-20 07:01:48.136
+233,1028,ETL Modernization,EduSpark,2025-11-22,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+234,1036,ETL Modernization,TravelEase,2025-11-04,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+235,1044,ML Pipeline,AutoDrive Inc,2025-08-08,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Managed Services,true,2026-03-20 07:01:48.136
+236,1044,Cloud Migration,InsurePro,2026-01-06,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+237,1044,ETL Modernization,EnergyOne,2025-05-29,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+238,1052,Data Warehouse Redesign,EduSpark,2025-04-06,2026-09-14,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Consulting,true,2026-03-20 07:01:48.136
+239,1052,Data Governance Setup,EnergyOne,2025-04-29,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Consulting,false,2026-03-20 07:01:48.136
+240,1068,Snowflake Migration,CloudScale,2026-02-02,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Consulting,true,2026-03-20 07:01:48.136
+241,1068,ML Pipeline,RetailMax,2025-12-02,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+242,1076,Cost Optimization,HealthTech Solutions,2025-07-06,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Project Based,false,2026-03-20 07:01:48.136
+243,1084,ML Pipeline,InsurePro,2025-10-09,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Project Based,true,2026-03-20 07:01:48.136
+244,1084,Reporting Automation,Acme Corp,2025-08-17,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Consulting,false,2026-03-20 07:01:48.136
+245,1092,Reporting Automation,BankRight,2025-07-06,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Project Based,true,2026-03-20 07:01:48.136
+246,1092,Data Lake Build,InsurePro,2025-07-29,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Project Based,true,2026-03-20 07:01:48.136
+247,1100,Cost Optimization,EnergyOne,2025-09-10,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+248,1100,Snowflake Migration,DataFirst LLC,2025-05-14,2026-07-11,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Consulting,false,2026-03-20 07:01:48.136
+249,1116,API Integration,HealthTech Solutions,2025-10-11,2026-08-19,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Consulting,true,2026-03-20 07:01:48.136
+250,1124,Security Audit,DataFirst LLC,2025-06-14,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Project Based,true,2026-03-20 07:01:48.136
+251,1156,Cost Optimization,AutoDrive Inc,2025-06-13,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Consulting,true,2026-03-20 07:01:48.136
+252,1156,ML Pipeline,FoodChain Co,2025-10-18,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Project Based,true,2026-03-20 07:01:48.136
+253,1164,ETL Modernization,CloudScale,2025-05-10,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+254,1164,POC Development,EnergyOne,2025-11-01,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+255,1172,Cloud Migration,HealthTech Solutions,2025-05-08,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Staff Augmentation,false,2026-03-20 07:01:48.136
+256,1180,API Integration,MediaStream,2026-02-13,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Managed Services,true,2026-03-20 07:01:48.136
+257,1220,ETL Modernization,DataFirst LLC,2025-11-19,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Project Based,false,2026-03-20 07:01:48.136
+258,1276,Platform Upgrade,TechNova Inc,2025-10-09,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Consulting,true,2026-03-20 07:01:48.136
+259,1300,Cost Optimization,Acme Corp,2025-09-21,2026-07-31,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+260,1316,Data Governance Setup,AutoDrive Inc,2025-07-21,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+261,1332,Reporting Automation,BankRight,2025-07-02,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Project Based,false,2026-03-20 07:01:48.136
+262,1372,Cloud Migration,InsurePro,2025-10-14,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Managed Services,true,2026-03-20 07:01:48.136
+263,1404,Security Audit,InsurePro,2025-10-03,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Project Based,true,2026-03-20 07:01:48.136
+264,1412,Cloud Migration,CloudScale,2025-06-27,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+265,1420,ETL Modernization,EduSpark,2026-01-22,2026-08-11,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+266,1444,Security Audit,TravelEase,2025-05-14,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Consulting,false,2026-03-20 07:01:48.136
+267,1013,Security Audit,MediaStream,2025-11-20,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Consulting,true,2026-03-20 07:01:48.136
+268,1021,Cost Optimization,Acme Corp,2025-05-28,2026-05-27,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Project Based,false,2026-03-20 07:01:48.136
+269,1029,Data Warehouse Redesign,DataFirst LLC,2025-03-29,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Staff Augmentation,false,2026-03-20 07:01:48.136
+270,1045,Cost Optimization,DataFirst LLC,2025-04-09,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Consulting,true,2026-03-20 07:01:48.136
+271,1077,Platform Upgrade,DataFirst LLC,2025-06-21,2026-07-18,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Project Based,true,2026-03-20 07:01:48.136
+272,1085,API Integration,BankRight,2025-09-20,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Support & Maintenance,false,2026-03-20 07:01:48.136
+273,1085,API Integration,AutoDrive Inc,2025-12-02,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Project Based,true,2026-03-20 07:01:48.136
+274,1093,Data Lake Build,AutoDrive Inc,2026-01-30,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Project Based,false,2026-03-20 07:01:48.136
+275,1109,Security Audit,EduSpark,2025-09-08,2026-08-14,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Managed Services,true,2026-03-20 07:01:48.136
+276,1109,Snowflake Migration,MediaStream,2025-09-04,2026-07-11,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+277,1117,Cost Optimization,Acme Corp,2025-11-21,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Project Based,true,2026-03-20 07:01:48.136
+278,1117,Cost Optimization,TravelEase,2025-06-06,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Support & Maintenance,false,2026-03-20 07:01:48.136
+279,1125,Dashboard Development,MediaStream,2026-02-16,2026-05-15,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Project Based,true,2026-03-20 07:01:48.136
+280,1141,Cost Optimization,MediaStream,2025-12-25,2026-05-31,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+281,1141,Cloud Migration,InsurePro,2026-02-09,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Project Based,true,2026-03-20 07:01:48.136
+282,1141,Dashboard Development,TravelEase,2025-04-02,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Consulting,false,2026-03-20 07:01:48.136
+283,1149,Reporting Automation,InsurePro,2025-06-27,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Managed Services,true,2026-03-20 07:01:48.136
+284,1149,POC Development,EduSpark,2025-09-05,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Consulting,true,2026-03-20 07:01:48.136
+285,1149,API Integration,BankRight,2025-04-02,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+286,1197,ETL Modernization,TravelEase,2025-10-24,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Managed Services,true,2026-03-20 07:01:48.136
+287,1197,Reporting Automation,EnergyOne,2025-04-25,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Consulting,true,2026-03-20 07:01:48.136
+288,1221,Real-time Analytics,FoodChain Co,2025-09-05,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Staff Augmentation,false,2026-03-20 07:01:48.136
+289,1229,Reporting Automation,FoodChain Co,2025-05-02,2026-07-04,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+290,1229,API Integration,HealthTech Solutions,2025-05-08,2026-08-13,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+291,1253,Snowflake Migration,TravelEase,2025-08-13,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Consulting,true,2026-03-20 07:01:48.136
+292,1261,Real-time Analytics,BankRight,2026-01-11,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+293,1269,Platform Upgrade,DataFirst LLC,2026-01-07,2026-08-01,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Staff Augmentation,false,2026-03-20 07:01:48.136
+294,1269,Cloud Migration,HealthTech Solutions,2025-11-11,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Support & Maintenance,false,2026-03-20 07:01:48.136
+295,1269,Cost Optimization,Acme Corp,2025-09-29,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Project Based,true,2026-03-20 07:01:48.136
+296,1285,Snowflake Migration,EduSpark,2025-06-25,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Consulting,false,2026-03-20 07:01:48.136
+297,1293,Data Governance Setup,DataFirst LLC,2025-04-01,2026-04-21,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+298,1317,Reporting Automation,RetailMax,2025-04-24,2026-06-25,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+299,1325,Data Lake Build,RetailMax,2025-08-14,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+300,1333,Reporting Automation,FoodChain Co,2025-09-17,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Consulting,false,2026-03-20 07:01:48.136
+301,1357,Snowflake Migration,RetailMax,2025-03-23,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+302,1365,Dashboard Development,Acme Corp,2025-08-17,2026-05-05,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Managed Services,true,2026-03-20 07:01:48.136
+303,1389,Dashboard Development,DataFirst LLC,2025-04-30,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+304,1397,POC Development,TravelEase,2026-02-10,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+305,1405,Data Lake Build,Acme Corp,2025-11-16,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+306,1405,Data Warehouse Redesign,FinServ Global,2025-09-10,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Consulting,true,2026-03-20 07:01:48.136
+307,1405,Data Governance Setup,DataFirst LLC,2025-08-15,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+308,1421,Real-time Analytics,EduSpark,2025-05-14,2026-05-07,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Staff Augmentation,false,2026-03-20 07:01:48.136
+309,1429,Snowflake Migration,InsurePro,2025-09-24,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Managed Services,true,2026-03-20 07:01:48.136
+310,1429,API Integration,MediaStream,2025-07-05,2026-08-02,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+311,1437,API Integration,EnergyOne,2025-04-23,2026-05-04,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+312,1469,API Integration,AutoDrive Inc,2025-11-30,2026-06-07,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Project Based,true,2026-03-20 07:01:48.136
+313,1469,Cloud Migration,MediaStream,2025-08-25,2026-08-09,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+314,1509,Data Lake Build,AutoDrive Inc,2025-09-02,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Consulting,true,2026-03-20 07:01:48.136
+315,1003,ML Pipeline,FinServ Global,2025-09-19,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+316,1003,Cloud Migration,InsurePro,2025-03-28,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Managed Services,true,2026-03-20 07:01:48.136
+317,1011,ML Pipeline,InsurePro,2025-05-04,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Managed Services,false,2026-03-20 07:01:48.136
+318,1011,Security Audit,AutoDrive Inc,2025-11-22,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Managed Services,true,2026-03-20 07:01:48.136
+319,1011,Platform Upgrade,InsurePro,2025-06-01,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Project Based,true,2026-03-20 07:01:48.136
+320,1027,POC Development,HealthTech Solutions,2025-07-31,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Consulting,true,2026-03-20 07:01:48.136
+321,1027,Snowflake Migration,InsurePro,2025-05-21,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+322,1043,Data Warehouse Redesign,RetailMax,2025-09-29,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Support & Maintenance,false,2026-03-20 07:01:48.136
+323,1083,Data Lake Build,Acme Corp,2025-07-04,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Managed Services,true,2026-03-20 07:01:48.136
+324,1083,Platform Upgrade,DataFirst LLC,2026-01-12,2026-07-27,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Managed Services,true,2026-03-20 07:01:48.136
+325,1091,Real-time Analytics,HealthTech Solutions,2025-11-19,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Consulting,false,2026-03-20 07:01:48.136
+326,1091,Reporting Automation,Acme Corp,2025-05-10,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Project Based,true,2026-03-20 07:01:48.136
+327,1099,Cost Optimization,Acme Corp,2025-12-04,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Project Based,true,2026-03-20 07:01:48.136
+328,1139,Cost Optimization,RetailMax,2025-07-01,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Project Based,true,2026-03-20 07:01:48.136
+329,1139,Cost Optimization,HealthTech Solutions,2026-02-08,2026-07-24,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+330,1155,Data Governance Setup,FoodChain Co,2025-05-23,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+331,1187,Data Lake Build,CloudScale,2025-10-09,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Consulting,true,2026-03-20 07:01:48.136
+332,1195,Cloud Migration,CloudScale,2025-05-06,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Managed Services,true,2026-03-20 07:01:48.136
+333,1219,Reporting Automation,TechNova Inc,2026-01-15,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+334,1219,Security Audit,CloudScale,2025-12-28,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Project Based,true,2026-03-20 07:01:48.136
+335,1235,API Integration,DataFirst LLC,2025-07-22,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Consulting,true,2026-03-20 07:01:48.136
+336,1251,Dashboard Development,BankRight,2026-01-05,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+337,1259,Real-time Analytics,TravelEase,2025-06-07,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+338,1267,POC Development,TravelEase,2025-06-20,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+339,1307,ETL Modernization,Acme Corp,2025-03-23,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Project Based,true,2026-03-20 07:01:48.136
+340,1323,Snowflake Migration,Acme Corp,2025-03-27,2026-05-24,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+341,1323,API Integration,TravelEase,2025-07-11,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+342,1323,POC Development,DataFirst LLC,2025-07-12,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Project Based,true,2026-03-20 07:01:48.136
+343,1331,Platform Upgrade,InsurePro,2025-07-11,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Managed Services,true,2026-03-20 07:01:48.136
+344,1331,ETL Modernization,BankRight,2025-09-08,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Consulting,true,2026-03-20 07:01:48.136
+345,1339,Data Warehouse Redesign,DataFirst LLC,2025-05-22,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+346,1347,Cloud Migration,TechNova Inc,2025-08-30,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Consulting,true,2026-03-20 07:01:48.136
+347,1347,ML Pipeline,AutoDrive Inc,2025-10-29,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Managed Services,true,2026-03-20 07:01:48.136
+348,1355,Data Lake Build,FinServ Global,2025-03-21,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Managed Services,true,2026-03-20 07:01:48.136
+349,1371,ETL Modernization,MediaStream,2025-10-19,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+350,1371,Reporting Automation,EnergyOne,2025-09-08,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+351,1387,Platform Upgrade,HealthTech Solutions,2025-12-18,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Staff Augmentation,false,2026-03-20 07:01:48.136
+352,1387,Platform Upgrade,MediaStream,2025-05-26,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Project Based,true,2026-03-20 07:01:48.136
+353,1411,Cloud Migration,FoodChain Co,2025-04-29,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Managed Services,true,2026-03-20 07:01:48.136
+354,1419,Reporting Automation,FoodChain Co,2025-11-08,2026-05-24,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Managed Services,false,2026-03-20 07:01:48.136
+355,1451,Security Audit,HealthTech Solutions,2025-12-01,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+356,1467,Dashboard Development,FoodChain Co,2025-04-17,2026-08-22,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+357,1008,Security Audit,TechNova Inc,2025-07-12,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Consulting,true,2026-03-20 07:01:48.136
+358,1048,Dashboard Development,AutoDrive Inc,2026-02-03,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Consulting,true,2026-03-20 07:01:48.136
+359,1048,Snowflake Migration,InsurePro,2025-05-03,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Consulting,true,2026-03-20 07:01:48.136
+360,1056,Cloud Migration,DataFirst LLC,2026-02-01,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Project Based,true,2026-03-20 07:01:48.136
+361,1056,Data Warehouse Redesign,HealthTech Solutions,2025-04-02,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Project Based,true,2026-03-20 07:01:48.136
+362,1064,API Integration,HealthTech Solutions,2025-09-30,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+363,1080,Dashboard Development,TravelEase,2026-02-18,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+364,1096,Platform Upgrade,FinServ Global,2026-02-08,2026-06-22,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+365,1096,Real-time Analytics,EnergyOne,2025-06-13,2026-06-17,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+366,1104,POC Development,Acme Corp,2025-03-22,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+367,1112,Dashboard Development,AutoDrive Inc,2025-10-22,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+368,1112,Platform Upgrade,HealthTech Solutions,2025-12-21,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Project Based,true,2026-03-20 07:01:48.136
+369,1120,Snowflake Migration,FinServ Global,2025-05-23,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Consulting,false,2026-03-20 07:01:48.136
+370,1144,ETL Modernization,Acme Corp,2025-06-12,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Managed Services,true,2026-03-20 07:01:48.136
+371,1152,Cost Optimization,EnergyOne,2025-06-28,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Project Based,true,2026-03-20 07:01:48.136
+372,1168,Data Governance Setup,DataFirst LLC,2026-02-16,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Support & Maintenance,false,2026-03-20 07:01:48.136
+373,1176,POC Development,AutoDrive Inc,2025-11-23,2026-04-23,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+374,1176,API Integration,FinServ Global,2025-12-26,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Consulting,true,2026-03-20 07:01:48.136
+375,1184,ML Pipeline,Acme Corp,2026-02-16,2026-05-14,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+376,1192,Cost Optimization,TechNova Inc,2025-12-25,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+377,1208,ETL Modernization,InsurePro,2025-10-19,2026-06-11,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Staff Augmentation,false,2026-03-20 07:01:48.136
+378,1208,POC Development,FinServ Global,2026-02-05,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+379,1216,Snowflake Migration,InsurePro,2025-05-23,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Project Based,false,2026-03-20 07:01:48.136
+380,1232,API Integration,InsurePro,2025-08-30,2026-08-26,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+381,1248,Data Governance Setup,FinServ Global,2025-08-07,2026-06-29,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Staff Augmentation,false,2026-03-20 07:01:48.136
+382,1280,Cloud Migration,TechNova Inc,2026-01-20,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+383,1288,Data Lake Build,EnergyOne,2025-05-10,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+384,1304,Reporting Automation,DataFirst LLC,2025-08-19,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Consulting,true,2026-03-20 07:01:48.136
+385,1312,Reporting Automation,FinServ Global,2025-06-27,2026-06-27,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Consulting,false,2026-03-20 07:01:48.136
+386,1320,Platform Upgrade,InsurePro,2025-03-22,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Project Based,true,2026-03-20 07:01:48.136
+387,1328,Real-time Analytics,FinServ Global,2025-11-14,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Support & Maintenance,false,2026-03-20 07:01:48.136
+388,1344,Data Lake Build,DataFirst LLC,2025-12-23,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Support & Maintenance,false,2026-03-20 07:01:48.136
+389,1344,Data Warehouse Redesign,Acme Corp,2025-07-15,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Consulting,false,2026-03-20 07:01:48.136
+390,1344,Platform Upgrade,InsurePro,2025-04-10,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Consulting,true,2026-03-20 07:01:48.136
+391,1360,Real-time Analytics,EnergyOne,2025-05-02,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Consulting,true,2026-03-20 07:01:48.136
+392,1368,Data Governance Setup,EduSpark,2025-09-13,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Support & Maintenance,false,2026-03-20 07:01:48.136
+393,1368,Security Audit,AutoDrive Inc,2025-09-14,2026-07-08,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Consulting,true,2026-03-20 07:01:48.136
+394,1376,Security Audit,EduSpark,2025-12-15,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Consulting,true,2026-03-20 07:01:48.136
+395,1384,Security Audit,CloudScale,2025-07-05,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+396,1384,Cloud Migration,AutoDrive Inc,2025-11-15,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Managed Services,true,2026-03-20 07:01:48.136
+397,1392,Cost Optimization,FinServ Global,2026-02-15,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+398,1416,Data Governance Setup,FinServ Global,2026-02-12,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Support & Maintenance,false,2026-03-20 07:01:48.136
+399,1424,Reporting Automation,BankRight,2025-04-17,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Project Based,true,2026-03-20 07:01:48.136
+400,1424,ML Pipeline,FinServ Global,2025-10-14,2026-04-30,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+401,1440,POC Development,FoodChain Co,2025-11-09,2026-06-14,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+402,1448,Data Governance Setup,BankRight,2025-08-16,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Project Based,true,2026-03-20 07:01:48.136
+403,1464,Platform Upgrade,RetailMax,2025-11-15,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Project Based,true,2026-03-20 07:01:48.136
+404,1464,API Integration,FinServ Global,2026-01-11,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Managed Services,true,2026-03-20 07:01:48.136
+405,1464,ML Pipeline,FoodChain Co,2025-07-11,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Consulting,true,2026-03-20 07:01:48.136
+406,1464,Dashboard Development,EduSpark,2026-01-10,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Consulting,true,2026-03-20 07:01:48.136
+407,1496,Reporting Automation,TravelEase,2025-05-31,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Project Based,false,2026-03-20 07:01:48.136
+408,1496,Data Lake Build,CloudScale,2025-11-13,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Support & Maintenance,false,2026-03-20 07:01:48.136
+409,1504,POC Development,TechNova Inc,2025-11-06,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Managed Services,true,2026-03-20 07:01:48.136
+410,1512,Security Audit,CloudScale,2026-02-09,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+411,1018,ETL Modernization,HealthTech Solutions,2025-11-29,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Managed Services,true,2026-03-20 07:01:48.136
+412,1042,Snowflake Migration,BankRight,2025-04-25,2026-09-08,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Project Based,true,2026-03-20 07:01:48.136
+413,1098,Real-time Analytics,FoodChain Co,2025-10-15,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Project Based,true,2026-03-20 07:01:48.136
+414,1130,API Integration,FinServ Global,2025-05-19,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Managed Services,true,2026-03-20 07:01:48.136
+415,1130,POC Development,MediaStream,2025-11-28,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+416,1138,Data Lake Build,FoodChain Co,2025-11-27,2026-05-30,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+417,1146,Data Lake Build,FinServ Global,2025-05-18,2026-07-31,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Project Based,false,2026-03-20 07:01:48.136
+418,1154,POC Development,FinServ Global,2025-12-15,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+419,1154,POC Development,FoodChain Co,2025-12-31,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Support & Maintenance,false,2026-03-20 07:01:48.136
+420,1162,API Integration,InsurePro,2025-04-14,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Consulting,true,2026-03-20 07:01:48.136
+421,1170,Cloud Migration,FinServ Global,2025-05-22,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+422,1178,Dashboard Development,RetailMax,2025-09-04,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Managed Services,true,2026-03-20 07:01:48.136
+423,1186,Reporting Automation,FoodChain Co,2025-11-25,2026-06-15,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Project Based,false,2026-03-20 07:01:48.136
+424,1202,Data Warehouse Redesign,EduSpark,2025-06-25,2026-08-28,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Managed Services,true,2026-03-20 07:01:48.136
+425,1202,Cloud Migration,TechNova Inc,2026-01-20,2026-05-23,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+426,1202,Dashboard Development,TravelEase,2026-02-04,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+427,1210,Data Governance Setup,InsurePro,2025-08-22,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+428,1218,Cost Optimization,TechNova Inc,2025-04-15,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+429,1234,Real-time Analytics,HealthTech Solutions,2025-09-26,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+430,1234,Cloud Migration,Acme Corp,2025-07-08,2026-06-16,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Support & Maintenance,false,2026-03-20 07:01:48.136
+431,1258,Data Warehouse Redesign,FoodChain Co,2025-11-10,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+432,1274,Dashboard Development,FoodChain Co,2025-11-23,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+433,1282,Data Warehouse Redesign,FinServ Global,2025-06-27,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Managed Services,true,2026-03-20 07:01:48.136
+434,1306,POC Development,AutoDrive Inc,2025-10-01,2026-09-12,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Project Based,false,2026-03-20 07:01:48.136
+435,1314,Data Governance Setup,EnergyOne,2025-11-05,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Consulting,false,2026-03-20 07:01:48.136
+436,1370,POC Development,FoodChain Co,2025-09-15,2026-07-10,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+437,1386,Snowflake Migration,RetailMax,2026-01-23,2026-07-24,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Consulting,true,2026-03-20 07:01:48.136
+438,1386,Reporting Automation,InsurePro,2026-01-18,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+439,1386,Data Lake Build,DataFirst LLC,2026-02-04,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Project Based,true,2026-03-20 07:01:48.136
+440,1386,Data Warehouse Redesign,RetailMax,2026-02-02,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Managed Services,true,2026-03-20 07:01:48.136
+441,1386,Snowflake Migration,BankRight,2026-02-05,2026-05-08,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+442,1386,POC Development,Acme Corp,2025-09-16,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Support & Maintenance,false,2026-03-20 07:01:48.136
+443,1394,Real-time Analytics,HealthTech Solutions,2025-07-13,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Consulting,true,2026-03-20 07:01:48.136
+444,1402,Real-time Analytics,EnergyOne,2026-01-02,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Time & Material,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+445,1402,Cost Optimization,EnergyOne,2025-11-23,2026-07-12,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Project Based,true,2026-03-20 07:01:48.136
+446,1434,Snowflake Migration,BankRight,2025-05-05,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Managed Services,true,2026-03-20 07:01:48.136
+447,1434,POC Development,FinServ Global,2025-10-19,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Managed Services,false,2026-03-20 07:01:48.136
+448,1442,Data Lake Build,FoodChain Co,2025-07-14,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Project Based,true,2026-03-20 07:01:48.136
+449,1442,Cost Optimization,TechNova Inc,2026-01-29,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Milestone Based,USD,Support & Maintenance,true,2026-03-20 07:01:48.136
+450,1450,Real-time Analytics,TechNova Inc,2025-08-17,,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Fixed Price,USD,Staff Augmentation,false,2026-03-20 07:01:48.136
+451,1450,ETL Modernization,RetailMax,2025-04-22,2026-08-12,102.00,32.00,70.00,68.63,106.0,10812.00,3392.00,7420.00,Retainer,USD,Staff Augmentation,true,2026-03-20 07:01:48.136
+1101,1513,Data Lake Migration,TechNova Inc,2025-06-01,,145.00,55.00,90.00,62.07,160.0,23200.00,8800.00,14400.00,Time & Material,USD,Staff Augmentation,true,2026-03-21 04:06:56.837
+1102,1514,ML Platform Build,HealthTech Solutions,2025-04-15,,150.00,58.00,92.00,61.33,160.0,24000.00,9280.00,14720.00,Time & Material,USD,Consulting,true,2026-03-21 04:06:56.837
+1103,1515,Real-time Analytics,FinServ Global,2025-07-01,,148.00,56.00,92.00,62.16,168.0,24864.00,9408.00,15456.00,Retainer,USD,Managed Services,true,2026-03-21 04:06:56.837
+1104,1516,AI Chatbot Platform,EduSpark,2025-03-10,2026-02-14,142.00,54.00,88.00,61.97,160.0,22720.00,8640.00,14080.00,Milestone Based,USD,Consulting,false,2026-03-21 04:06:56.837
+1105,1517,Data Warehouse Modernization,RetailMax,2025-08-20,,146.00,55.00,91.00,62.33,160.0,23360.00,8800.00,14560.00,Time & Material,USD,Staff Augmentation,true,2026-03-21 04:06:56.837
+1106,1518,BI Dashboard Suite,MediaStream,2025-05-01,2026-02-28,140.00,53.00,87.00,62.14,152.0,21280.00,8056.00,13224.00,Retainer,USD,Consulting,false,2026-03-21 04:06:56.837
+1107,1519,Enterprise Data Platform,BankRight,2025-01-15,,175.00,65.00,110.00,62.86,168.0,29400.00,10920.00,18480.00,Time & Material,USD,Consulting,true,2026-03-21 04:06:56.837
+1108,1519,Cloud Migration,Acme Corp,2024-06-01,2025-01-10,170.00,65.00,105.00,61.76,160.0,27200.00,10400.00,16800.00,Milestone Based,USD,Managed Services,false,2026-03-21 04:06:56.837
+1109,1520,MLOps Pipeline,CloudScale,2025-05-20,,180.00,68.00,112.00,62.22,160.0,28800.00,10880.00,17920.00,Time & Material,USD,Consulting,true,2026-03-21 04:06:56.837
+1110,1521,Streaming Data Platform,AutoDrive Inc,2025-03-01,,172.00,64.00,108.00,62.79,168.0,28896.00,10752.00,18144.00,Retainer,USD,Staff Augmentation,true,2026-03-21 04:06:56.837
+1111,1522,NLP Analytics Engine,InsurePro,2025-04-10,2026-02-19,178.00,67.00,111.00,62.36,160.0,28480.00,10720.00,17760.00,Time & Material,USD,Consulting,false,2026-03-21 04:06:56.837
+1112,1523,Data Governance Setup,FoodChain Co,2025-06-15,,170.00,63.00,107.00,62.94,160.0,27200.00,10080.00,17120.00,Time & Material,USD,Managed Services,true,2026-03-21 04:06:56.837
+1113,1524,Big Data Analytics,EnergyOne,2025-02-01,,176.00,66.00,110.00,62.50,168.0,29568.00,11088.00,18480.00,Retainer,USD,Staff Augmentation,true,2026-03-21 04:06:56.837
+1201,1525,Data Lake Migration,TechNova Inc,2025-05-01,,125.00,48.00,77.00,61.60,160.0,20000.00,7680.00,12320.00,Time & Material,USD,Staff Augmentation,true,2026-03-21 06:44:29.136
+1202,1526,BI Dashboard Suite,MediaStream,2025-06-15,,120.00,46.00,74.00,61.67,152.0,18240.00,6992.00,11248.00,Retainer,USD,Consulting,true,2026-03-21 06:44:29.136
+1203,1527,ETL Modernization,FinServ Global,2025-04-10,,128.00,49.00,79.00,61.72,160.0,20480.00,7840.00,12640.00,Time & Material,USD,Managed Services,true,2026-03-21 06:44:29.136
+1204,1528,AI Chatbot Platform,EduSpark,2025-03-20,2026-02-24,118.00,45.00,73.00,61.86,160.0,18880.00,7200.00,11680.00,Milestone Based,USD,Consulting,false,2026-03-21 06:44:29.136
+1205,1529,Enterprise Data Platform,BankRight,2025-01-10,,155.00,58.00,97.00,62.58,168.0,26040.00,9744.00,16296.00,Time & Material,USD,Consulting,true,2026-03-21 06:44:29.136
+1206,1529,Cloud Migration,Acme Corp,2024-05-15,2025-01-05,150.00,58.00,92.00,61.33,160.0,24000.00,9280.00,14720.00,Milestone Based,USD,Staff Augmentation,false,2026-03-21 06:44:29.136
+1207,1530,MLOps Pipeline,CloudScale,2025-04-01,2026-03-04,158.00,60.00,98.00,62.03,160.0,25280.00,9600.00,15680.00,Time & Material,USD,Consulting,false,2026-03-21 06:44:29.136
+1208,1531,Data Governance Setup,FoodChain Co,2025-03-15,,152.00,57.00,95.00,62.50,168.0,25536.00,9576.00,15960.00,Retainer,USD,Managed Services,true,2026-03-21 06:44:29.136
+1209,1532,Big Data Analytics,EnergyOne,2025-02-01,,156.00,59.00,97.00,62.18,168.0,26208.00,9912.00,16296.00,Time & Material,USD,Staff Augmentation,true,2026-03-21 06:44:29.136
+1114,1523,PTR,PTR,2026-03-21,,160.00,60.80,99.20,62.00,160.0,25600.00,9728.00,15872.00,Time & Material,USD,Consulting,true,2026-03-21 08:47:18.494
+1115,1304,PTR,PTR,2026-03-21,,120.00,45.60,74.40,62.00,160.0,19200.00,7296.00,11904.00,Time & Material,USD,Consulting,true,2026-03-21 08:47:18.494
+1116,1390,PTR,PTR,2026-03-21,,120.00,45.60,74.40,62.00,160.0,19200.00,7296.00,11904.00,Time & Material,USD,Consulting,true,2026-03-21 08:47:18.494
+1117,1529,PTR,PTR,2026-03-21,,140.00,53.20,86.80,62.00,160.0,22400.00,8512.00,13888.00,Time & Material,USD,Consulting,true,2026-03-21 08:47:18.494
+1301,1523,CityBBQ,City,2026-03-22,,160.00,60.80,99.20,62.00,160.0,25600.00,9728.00,15872.00,Time & Material,USD,Consulting,true,2026-03-22 10:42:29.033
+1302,1036,CityBBQ,City,2026-03-22,,120.00,45.60,74.40,62.00,160.0,19200.00,7296.00,11904.00,Time & Material,USD,Consulting,true,2026-03-22 10:42:29.033
+1303,1137,CityBBQ,City,2026-03-22,,120.00,45.60,74.40,62.00,160.0,19200.00,7296.00,11904.00,Time & Material,USD,Consulting,true,2026-03-22 10:42:29.033
+1304,1523,Test,TestClient,2026-03-22,,160.00,60.80,99.20,62.00,160.0,25600.00,9728.00,15872.00,Time & Material,USD,Consulting,true,2026-03-22 10:46:10.281
+1305,1036,Test,TestClient,2026-03-22,,120.00,45.60,74.40,62.00,160.0,19200.00,7296.00,11904.00,Time & Material,USD,Consulting,true,2026-03-22 10:46:10.281
+1306,1057,Test,TestClient,2026-03-22,,120.00,45.60,74.40,62.00,160.0,19200.00,7296.00,11904.00,Time & Material,USD,Consulting,true,2026-03-22 10:46:10.281
+1401,1523,TestProject,TestClient,2026-03-22,,160.00,60.80,99.20,62.00,160.0,25600.00,9728.00,15872.00,Time & Material,USD,Consulting,true,2026-03-22 23:21:18.418
+1402,1036,TestProject,TestClient,2026-03-22,,120.00,45.60,74.40,62.00,160.0,19200.00,7296.00,11904.00,Time & Material,USD,Consulting,true,2026-03-22 23:21:18.418
+1403,1057,TestProject,TestClient,2026-03-22,,120.00,45.60,74.40,62.00,160.0,19200.00,7296.00,11904.00,Time & Material,USD,Consulting,true,2026-03-22 23:21:18.418
+1501,1518,City BBQ,City BBQ,2026-03-23,,160.00,60.80,99.20,62.00,160.0,25600.00,9728.00,15872.00,Time & Material,USD,Consulting,true,2026-03-23 02:10:22.702
+1502,1304,City BBQ,City BBQ,2026-03-23,,120.00,45.60,74.40,62.00,160.0,19200.00,7296.00,11904.00,Time & Material,USD,Consulting,true,2026-03-23 02:10:22.702
+1503,1057,City BBQ,City BBQ,2026-03-23,,120.00,45.60,74.40,62.00,160.0,19200.00,7296.00,11904.00,Time & Material,USD,Consulting,true,2026-03-23 02:10:22.702
+1504,1531,City BBQ,City BBQ,2026-03-23,,140.00,53.20,86.80,62.00,160.0,22400.00,8512.00,13888.00,Time & Material,USD,Consulting,true,2026-03-23 02:10:22.702
+1505,1523,City BBQ,City BBQ,2026-03-23,,160.00,60.80,99.20,62.00,160.0,25600.00,9728.00,15872.00,Time & Material,USD,Consulting,true,2026-03-23 02:13:59.618
+1506,1036,City BBQ,City BBQ,2026-03-23,,120.00,45.60,74.40,62.00,160.0,19200.00,7296.00,11904.00,Time & Material,USD,Consulting,true,2026-03-23 02:13:59.618
+1507,1000,City BBQ,City BBQ,2026-03-23,,120.00,45.60,74.40,62.00,160.0,19200.00,7296.00,11904.00,Time & Material,USD,Consulting,true,2026-03-23 02:13:59.618
+1508,1529,City BBQ,City BBQ,2026-03-23,,140.00,53.20,86.80,62.00,160.0,22400.00,8512.00,13888.00,Time & Material,USD,Consulting,true,2026-03-23 02:13:59.618
+1509,1514,City BBQ,City BBQ,2026-03-23,,160.00,60.80,99.20,62.00,160.0,25600.00,9728.00,15872.00,Time & Material,USD,Consulting,true,2026-03-23 02:59:22.795
+1510,1122,City BBQ,City BBQ,2026-03-23,,120.00,45.60,74.40,62.00,160.0,19200.00,7296.00,11904.00,Time & Material,USD,Consulting,true,2026-03-23 02:59:22.795
+1511,1004,City BBQ,City BBQ,2026-03-23,,120.00,45.60,74.40,62.00,160.0,19200.00,7296.00,11904.00,Time & Material,USD,Consulting,true,2026-03-23 02:59:22.795
+1512,1523,City BBQ,City BBQ,2026-03-23,,160.00,60.80,99.20,62.00,160.0,25600.00,9728.00,15872.00,Time & Material,USD,Consulting,true,2026-03-23 03:42:49.466
+1513,1036,City BBQ,City BBQ,2026-03-23,,120.00,45.60,74.40,62.00,160.0,19200.00,7296.00,11904.00,Time & Material,USD,Consulting,true,2026-03-23 03:42:49.466
+1514,1000,City BBQ,City BBQ,2026-03-23,,120.00,45.60,74.40,62.00,160.0,19200.00,7296.00,11904.00,Time & Material,USD,Consulting,true,2026-03-23 03:42:49.466
+1515,1523,PTR,PTR,2026-03-23,,160.00,60.80,99.20,62.00,160.0,25600.00,9728.00,15872.00,Time & Material,USD,Consulting,true,2026-03-23 04:52:03.762
+1516,1036,PTR,PTR,2026-03-23,,120.00,45.60,74.40,62.00,160.0,19200.00,7296.00,11904.00,Time & Material,USD,Consulting,true,2026-03-23 04:52:03.762
+1517,1260,PTR,PTR,2026-03-23,,120.00,45.60,74.40,62.00,160.0,19200.00,7296.00,11904.00,Time & Material,USD,Consulting,true,2026-03-23 04:52:03.762
+1518,1530,PTR,PTR,2026-03-23,,140.00,53.20,86.80,62.00,160.0,22400.00,8512.00,13888.00,Time & Material,USD,Consulting,true,2026-03-23 04:52:03.762
+1519,1523,PTR1,PTR1,2026-03-23,,160.00,60.80,99.20,62.00,160.0,25600.00,9728.00,15872.00,Time & Material,USD,Consulting,true,2026-03-23 05:17:36.537
+1520,1304,PTR1,PTR1,2026-03-23,,120.00,45.60,74.40,62.00,160.0,19200.00,7296.00,11904.00,Time & Material,USD,Consulting,true,2026-03-23 05:17:36.537
+1521,1306,PTR1,PTR1,2026-03-23,,120.00,45.60,74.40,62.00,160.0,19200.00,7296.00,11904.00,Time & Material,USD,Consulting,true,2026-03-23 05:17:36.537
+1522,1529,PTR1,PTR1,2026-03-23,,140.00,53.20,86.80,62.00,160.0,22400.00,8512.00,13888.00,Time & Material,USD,Consulting,true,2026-03-23 05:17:36.537
+1523,1110,abc,abc,2026-03-23,,160.00,60.80,99.20,62.00,160.0,25600.00,9728.00,15872.00,Time & Material,USD,Consulting,true,2026-03-23 10:08:06.902
+1524,1498,abc,abc,2026-03-23,,120.00,45.60,74.40,62.00,160.0,19200.00,7296.00,11904.00,Time & Material,USD,Consulting,true,2026-03-23 10:08:06.902
+1525,1049,abc,abc,2026-03-23,,120.00,45.60,74.40,62.00,160.0,19200.00,7296.00,11904.00,Time & Material,USD,Consulting,true,2026-03-23 10:08:06.902

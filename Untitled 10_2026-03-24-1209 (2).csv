@@ -1,0 +1,1197 @@
+SKILL_ID,EMPLOYEE_ID,SKILL_NAME,SKILL_CATEGORY,PROFICIENCY_LEVEL,YEARS_OF_EXPERIENCE,IS_PRIMARY_SKILL,LAST_USED_DATE,SELF_RATING,VERIFIED_BY_MANAGER,CREATED_AT
+587,1485,Git,Version Control,Intermediate,10.8,false,2025-04-10,2.1,true,2026-03-20 06:58:39.498
+10,1332,NLP,AI/ML,Expert,12.5,true,2026-02-08,2.7,true,2026-03-20 06:58:39.498
+1304,1416,SQL,Database,Intermediate,0.8,false,2025-06-21,3.3,false,2026-03-20 06:58:39.498
+1140,1286,MongoDB,NoSQL,Intermediate,2.1,false,2025-11-16,4.3,true,2026-03-20 06:58:39.498
+1130,1458,JavaScript,Programming,Expert,12.6,false,2025-11-11,4.1,true,2026-03-20 06:58:39.498
+11118,1517,Airflow,Orchestration,Advanced,5.5,false,2026-03-08,4.3,true,2026-03-21 04:04:54.479
+1270,1331,Linux,Operating System,Expert,13.0,true,2025-04-13,5.0,false,2026-03-20 06:58:39.498
+384,1034,Python,Programming,Expert,9.5,false,2025-06-19,3.7,false,2026-03-20 06:58:39.498
+1261,1414,SSIS,ETL,Beginner,13.0,true,2025-08-07,2.7,false,2026-03-20 06:58:39.498
+11104,1513,dbt,ETL,Advanced,4.0,false,2026-02-28,4.3,true,2026-03-21 04:04:54.479
+1580,1469,PostgreSQL,Database,Advanced,8.4,true,2025-08-04,3.8,true,2026-03-20 06:58:39.498
+1998,1467,NLP,AI/ML,Expert,14.0,true,2026-02-26,3.4,true,2026-03-20 06:58:39.498
+1430,1049,SSIS,ETL,Beginner,4.9,false,2025-05-22,3.5,false,2026-03-20 06:58:39.498
+1268,1375,SQL,Database,Advanced,6.5,false,2025-12-08,4.9,false,2026-03-20 06:58:39.498
+1602,1336,Java,Programming,Expert,9.1,true,2025-04-24,3.6,false,2026-03-20 06:58:39.498
+1499,1482,Talend,ETL,Expert,7.2,true,2025-09-21,2.4,true,2026-03-20 06:58:39.498
+130,1205,MongoDB,NoSQL,Advanced,8.3,false,2025-05-14,3.4,false,2026-03-20 06:58:39.498
+125,1121,Python,Programming,Advanced,10.0,true,2025-11-09,4.7,true,2026-03-20 06:58:39.498
+1319,1106,Python,Programming,Advanced,13.5,false,2025-09-18,4.2,false,2026-03-20 06:58:39.498
+1897,1436,Informatica,ETL,Expert,1.7,false,2025-07-05,3.5,true,2026-03-20 06:58:39.498
+1973,1457,Azure,Cloud Platform,Advanced,8.8,false,2025-07-19,3.6,false,2026-03-20 06:58:39.498
+1954,1345,PostgreSQL,Database,Intermediate,2.3,true,2026-02-25,2.1,true,2026-03-20 06:58:39.498
+397,1212,Terraform,Infrastructure as Code,Intermediate,8.1,false,2025-11-30,4.4,false,2026-03-20 06:58:39.498
+499,1147,SSIS,ETL,Expert,2.5,true,2025-10-23,3.2,false,2026-03-20 06:58:39.498
+576,1198,MongoDB,NoSQL,Expert,4.7,true,2025-11-23,4.5,true,2026-03-20 06:58:39.498
+1985,1074,Linux,Operating System,Expert,5.7,false,2025-11-08,4.0,true,2026-03-20 06:58:39.498
+1831,1175,JavaScript,Programming,Advanced,8.8,true,2025-07-22,2.4,false,2026-03-20 06:58:39.498
+11140,1522,NLP,AI/ML,Expert,12.0,true,2026-03-18,5.0,true,2026-03-21 04:04:54.479
+1172,1069,Docker,Containerization,Beginner,9.4,false,2025-04-08,3.4,false,2026-03-20 06:58:39.498
+527,1400,NLP,AI/ML,Advanced,12.9,false,2025-10-27,4.9,false,2026-03-20 06:58:39.498
+1257,1277,PostgreSQL,Database,Beginner,14.6,false,2025-10-02,2.9,true,2026-03-20 06:58:39.498
+498,1172,Kubernetes,Container Orchestration,Beginner,7.6,true,2025-07-27,3.0,false,2026-03-20 06:58:39.498
+11120,1517,Docker,DevOps,Advanced,4.0,false,2026-02-25,4.0,true,2026-03-21 04:04:54.479
+1252,1136,R,Programming,Expert,4.9,false,2026-02-27,4.1,true,2026-03-20 06:58:39.498
+1829,1105,Databricks,Data Platform,Intermediate,7.6,false,2025-11-03,4.5,false,2026-03-20 06:58:39.498
+546,1228,Kafka,Streaming,Advanced,7.7,false,2025-08-26,2.3,true,2026-03-20 06:58:39.498
+1771,1204,Kafka,Streaming,Beginner,11.2,false,2025-07-20,4.4,true,2026-03-20 06:58:39.498
+1564,1377,Kubernetes,Container Orchestration,Beginner,7.0,false,2025-09-27,2.9,false,2026-03-20 06:58:39.498
+152,1108,R,Programming,Expert,12.4,false,2025-09-24,4.9,true,2026-03-20 06:58:39.498
+1271,1240,Tableau,Visualization,Intermediate,10.3,true,2026-02-07,4.9,true,2026-03-20 06:58:39.498
+1426,1049,Matillion,ETL,Expert,7.4,false,2025-05-24,3.2,true,2026-03-20 06:58:39.498
+479,1225,JavaScript,Programming,Intermediate,11.7,true,2026-02-07,2.0,true,2026-03-20 06:58:39.498
+398,1212,PostgreSQL,Database,Advanced,12.7,false,2025-04-18,4.3,true,2026-03-20 06:58:39.498
+2016,1159,Terraform,Infrastructure as Code,Expert,6.2,false,2025-06-07,2.4,true,2026-03-20 06:58:39.498
+11121,1518,Tableau,Visualization,Expert,9.0,true,2026-03-14,4.8,true,2026-03-21 04:04:54.479
+279,1048,Talend,ETL,Beginner,2.9,false,2026-02-08,3.9,false,2026-03-20 06:58:39.498
+372,1005,BigQuery,Cloud Data Platform,Expert,0.5,false,2026-02-26,2.8,true,2026-03-20 06:58:39.498
+179,1234,Tableau,Visualization,Intermediate,7.4,false,2025-07-08,4.4,false,2026-03-20 06:58:39.498
+1231,1035,Kafka,Streaming,Intermediate,14.8,false,2025-11-27,2.7,true,2026-03-20 06:58:39.498
+348,1287,CI/CD,DevOps,Intermediate,10.2,true,2026-02-28,3.2,false,2026-03-20 06:58:39.498
+1720,1168,dbt,Data Transformation,Expert,3.2,true,2025-12-03,4.5,false,2026-03-20 06:58:39.498
+1586,1160,Kubernetes,Container Orchestration,Expert,4.8,false,2025-03-26,4.9,false,2026-03-20 06:58:39.498
+199,1316,Snowflake,Cloud Data Platform,Advanced,3.6,false,2026-02-28,4.3,false,2026-03-20 06:58:39.498
+1177,1154,Machine Learning,AI/ML,Expert,9.4,true,2025-05-07,3.0,true,2026-03-20 06:58:39.498
+37,1326,NLP,AI/ML,Expert,9.8,true,2025-08-01,3.9,false,2026-03-20 06:58:39.498
+1916,1186,AWS,Cloud Platform,Advanced,11.7,true,2025-07-31,5.0,false,2026-03-20 06:58:39.498
+1904,1269,BigQuery,Cloud Data Platform,Intermediate,3.6,false,2025-09-10,2.7,false,2026-03-20 06:58:39.498
+429,1296,Looker,Visualization,Advanced,2.8,true,2026-01-12,3.7,false,2026-03-20 06:58:39.498
+1690,1271,Snowflake,Cloud Data Platform,Intermediate,11.6,false,2025-10-30,3.3,true,2026-03-20 06:58:39.498
+11152,1524,Python,Programming,Expert,16.0,false,2026-03-19,4.9,true,2026-03-21 04:04:54.479
+1111,1464,dbt,Data Transformation,Advanced,14.2,true,2025-08-29,3.1,false,2026-03-20 06:58:39.498
+1782,1014,GCP,Cloud Platform,Advanced,7.1,false,2025-07-08,2.8,false,2026-03-20 06:58:39.498
+1760,1152,MongoDB,NoSQL,Advanced,7.1,false,2025-11-22,3.8,true,2026-03-20 06:58:39.498
+11151,1524,Apache Spark,Big Data,Expert,12.0,false,2026-03-15,4.8,true,2026-03-21 04:04:54.479
+552,1249,Databricks,Data Platform,Expert,3.5,true,2025-10-01,4.4,true,2026-03-20 06:58:39.498
+1644,1146,SSIS,ETL,Expert,3.0,false,2025-03-21,2.9,false,2026-03-20 06:58:39.498
+366,1404,Machine Learning,AI/ML,Expert,2.5,false,2025-11-18,3.2,true,2026-03-20 06:58:39.498
+490,1036,SSIS,ETL,Advanced,10.0,false,2025-06-26,4.1,true,2026-03-20 06:58:39.498
+1290,1112,Deep Learning,AI/ML,Expert,7.0,false,2026-01-10,3.3,false,2026-03-20 06:58:39.498
+1890,1265,Redshift,Cloud Data Platform,Beginner,11.7,false,2025-08-18,4.7,true,2026-03-20 06:58:39.498
+2006,1174,Scala,Programming,Expert,12.1,true,2025-10-05,2.8,true,2026-03-20 06:58:39.498
+197,1316,R,Programming,Expert,1.7,false,2025-11-15,3.3,false,2026-03-20 06:58:39.498
+1581,1469,Kubernetes,Container Orchestration,Advanced,3.5,false,2026-01-14,3.9,true,2026-03-20 06:58:39.498
+1813,1256,Linux,Operating System,Advanced,6.8,false,2025-06-08,3.3,true,2026-03-20 06:58:39.498
+167,1355,JavaScript,Programming,Expert,10.1,false,2025-07-29,3.7,false,2026-03-20 06:58:39.498
+545,1228,Databricks,Data Platform,Intermediate,10.2,true,2025-07-11,2.0,true,2026-03-20 06:58:39.498
+1479,1315,NLP,AI/ML,Expert,5.7,false,2025-08-23,2.4,true,2026-03-20 06:58:39.498
+205,1060,Tableau,Visualization,Beginner,3.1,false,2025-05-24,2.3,true,2026-03-20 06:58:39.498
+137,1445,React,Frontend,Expert,2.6,false,2025-08-01,2.7,true,2026-03-20 06:58:39.498
+1778,1337,Streamlit,App Development,Intermediate,14.6,true,2025-05-02,2.8,false,2026-03-20 06:58:39.498
+1753,1312,GCP,Cloud Platform,Beginner,3.1,true,2026-02-01,3.8,true,2026-03-20 06:58:39.498
+2011,1329,Looker,Visualization,Expert,1.9,true,2025-05-07,3.3,true,2026-03-20 06:58:39.498
+11142,1522,Machine Learning,AI/ML,Expert,15.0,false,2026-03-16,4.9,true,2026-03-21 04:04:54.479
+2,1501,Streamlit,App Development,Beginner,4.3,false,2026-02-10,4.1,true,2026-03-20 06:58:39.498
+1246,1320,SSIS,ETL,Intermediate,6.6,false,2025-08-11,3.5,true,2026-03-20 06:58:39.498
+598,1483,CI/CD,DevOps,Intermediate,8.8,false,2025-05-29,2.7,false,2026-03-20 06:58:39.498
+11137,1521,Apache Spark,Big Data,Expert,10.0,false,2026-03-14,4.7,true,2026-03-21 04:04:54.479
+1594,1140,R,Programming,Advanced,3.5,false,2025-12-03,2.4,true,2026-03-20 06:58:39.498
+502,1253,BigQuery,Cloud Data Platform,Beginner,1.8,true,2026-01-06,4.6,true,2026-03-20 06:58:39.498
+1722,1168,Fivetran,Data Integration,Intermediate,7.2,false,2026-03-09,4.9,false,2026-03-20 06:58:39.498
+1625,1354,Kafka,Streaming,Expert,10.1,true,2025-09-12,2.1,false,2026-03-20 06:58:39.498
+1705,1474,Databricks,Data Platform,Intermediate,2.6,true,2025-06-11,3.8,true,2026-03-20 06:58:39.498
+1305,1416,Apache Spark,Big Data,Advanced,6.4,false,2026-01-10,3.4,true,2026-03-20 06:58:39.498
+520,1057,React,Frontend,Expert,1.8,true,2025-05-01,3.4,true,2026-03-20 06:58:39.498
+11147,1523,SQL,Database,Expert,16.0,false,2026-03-18,5.0,true,2026-03-21 04:04:54.479
+1301,1237,Airflow,Workflow Orchestration,Beginner,6.8,false,2026-01-18,2.8,true,2026-03-20 06:58:39.498
+1500,1088,React,Frontend,Intermediate,6.4,true,2025-08-02,3.0,false,2026-03-20 06:58:39.498
+186,1411,dbt,Data Transformation,Beginner,4.2,false,2025-09-08,2.6,false,2026-03-20 06:58:39.498
+481,1117,Scala,Programming,Intermediate,3.6,false,2025-10-12,4.0,true,2026-03-20 06:58:39.498
+11124,1518,Snowflake,Cloud Platform,Advanced,5.0,false,2026-03-18,4.3,true,2026-03-21 04:04:54.479
+1125,1423,SQL,Database,Expert,8.5,false,2025-11-13,4.5,true,2026-03-20 06:58:39.498
+1399,1054,Kafka,Streaming,Expert,2.0,true,2025-12-19,4.0,false,2026-03-20 06:58:39.498
+1306,1416,JavaScript,Programming,Advanced,3.6,false,2025-09-03,2.8,true,2026-03-20 06:58:39.498
+2012,1440,React,Frontend,Beginner,1.7,true,2025-05-06,2.3,false,2026-03-20 06:58:39.498
+1543,1087,MongoDB,NoSQL,Expert,12.9,true,2025-12-16,4.1,true,2026-03-20 06:58:39.498
+11110,1515,Apache Spark,Big Data,Expert,7.5,false,2026-03-10,4.6,true,2026-03-21 04:04:54.479
+1176,1084,Docker,Containerization,Expert,6.1,true,2026-02-01,4.4,true,2026-03-20 06:58:39.498
+334,1322,Linux,Operating System,Expert,3.9,true,2026-03-19,4.2,true,2026-03-20 06:58:39.498
+1978,1143,CI/CD,DevOps,Intermediate,3.4,false,2025-12-18,4.9,false,2026-03-20 06:58:39.498
+1683,1370,Java,Programming,Intermediate,5.6,true,2025-12-22,3.3,false,2026-03-20 06:58:39.498
+1781,1014,Git,Version Control,Expert,1.6,true,2025-08-10,2.9,false,2026-03-20 06:58:39.498
+1414,1065,Informatica,ETL,Expert,4.4,true,2025-08-27,4.6,false,2026-03-20 06:58:39.498
+273,1080,Python,Programming,Advanced,12.2,false,2025-10-26,2.2,true,2026-03-20 06:58:39.498
+1460,1507,AWS,Cloud Platform,Expert,4.9,false,2026-02-24,2.2,true,2026-03-20 06:58:39.498
+486,1086,Scala,Programming,Advanced,11.8,false,2025-03-20,4.2,true,2026-03-20 06:58:39.498
+1688,1271,Tableau,Visualization,Intermediate,11.9,false,2026-03-09,3.0,false,2026-03-20 06:58:39.498
+537,1124,MongoDB,NoSQL,Expert,13.9,true,2025-07-02,2.7,true,2026-03-20 06:58:39.498
+561,1115,BigQuery,Cloud Data Platform,Expert,6.4,false,2025-09-27,3.1,true,2026-03-20 06:58:39.498
+1569,1319,BigQuery,Cloud Data Platform,Expert,5.7,false,2025-08-21,3.3,true,2026-03-20 06:58:39.498
+342,1422,Fivetran,Data Integration,Intermediate,11.2,false,2025-04-14,3.6,true,2026-03-20 06:58:39.498
+1616,1309,Kafka,Streaming,Expert,13.9,false,2025-08-05,4.0,false,2026-03-20 06:58:39.498
+1838,1399,Kafka,Streaming,Intermediate,12.4,false,2026-01-30,2.0,false,2026-03-20 06:58:39.498
+1441,1391,Python,Programming,Advanced,1.4,false,2025-03-27,4.1,false,2026-03-20 06:58:39.498
+1628,1487,Deep Learning,AI/ML,Advanced,8.5,false,2025-05-24,4.4,true,2026-03-20 06:58:39.498
+1150,1044,Tableau,Visualization,Advanced,12.3,false,2025-09-25,3.5,true,2026-03-20 06:58:39.498
+1226,1033,Informatica,ETL,Expert,13.9,true,2025-04-02,2.8,false,2026-03-20 06:58:39.498
+2042,1465,dbt,Data Transformation,Expert,15.0,false,2026-02-13,2.2,true,2026-03-20 06:58:39.498
+187,1411,Apache Spark,Big Data,Beginner,5.7,false,2026-01-09,2.5,true,2026-03-20 06:58:39.498
+50,1232,SSIS,ETL,Beginner,14.8,false,2025-12-07,2.5,false,2026-03-20 06:58:39.498
+2014,1159,BigQuery,Cloud Data Platform,Advanced,11.7,true,2026-03-13,3.7,true,2026-03-20 06:58:39.498
+1152,1125,GCP,Cloud Platform,Advanced,3.0,true,2026-02-04,4.8,true,2026-03-20 06:58:39.498
+1136,1024,AWS,Cloud Platform,Intermediate,2.1,false,2025-12-09,3.6,false,2026-03-20 06:58:39.498
+1731,1238,Kubernetes,Container Orchestration,Beginner,14.1,true,2025-06-02,3.5,true,2026-03-20 06:58:39.498
+1267,1375,NLP,AI/ML,Expert,12.1,false,2025-06-15,2.1,false,2026-03-20 06:58:39.498
+251,1398,Talend,ETL,Intermediate,7.9,false,2025-12-17,3.2,false,2026-03-20 06:58:39.498
+1966,1226,Fivetran,Data Integration,Advanced,3.2,false,2025-03-31,2.4,false,2026-03-20 06:58:39.498
+2017,1159,Azure,Cloud Platform,Expert,12.0,false,2025-11-14,2.2,false,2026-03-20 06:58:39.498
+517,1304,SQL,Database,Advanced,1.6,true,2025-07-06,2.1,false,2026-03-20 06:58:39.498
+555,1203,SSIS,ETL,Expert,11.1,true,2025-06-21,3.4,false,2026-03-20 06:58:39.498
+1620,1309,Docker,Containerization,Intermediate,6.1,false,2025-09-04,4.0,true,2026-03-20 06:58:39.498
+1429,1049,Redshift,Cloud Data Platform,Expert,9.5,false,2025-03-30,3.6,true,2026-03-20 06:58:39.498
+19,1177,R,Programming,Expert,5.2,true,2026-01-27,4.5,true,2026-03-20 06:58:39.498
+1578,1161,Kubernetes,Container Orchestration,Expert,7.0,false,2025-05-26,4.9,false,2026-03-20 06:58:39.498
+1941,1083,Informatica,ETL,Advanced,11.4,true,2025-06-05,2.9,false,2026-03-20 06:58:39.498
+192,1073,SSIS,ETL,Advanced,4.7,false,2025-11-23,3.6,true,2026-03-20 06:58:39.498
+173,1246,dbt,Data Transformation,Intermediate,1.4,false,2026-02-16,3.1,true,2026-03-20 06:58:39.498
+340,1422,Streamlit,App Development,Advanced,2.3,false,2025-03-23,3.5,true,2026-03-20 06:58:39.498
+267,1135,CI/CD,DevOps,Advanced,1.7,false,2025-04-10,3.9,false,2026-03-20 06:58:39.498
+2047,1118,Docker,Containerization,Advanced,12.4,false,2025-12-06,3.3,true,2026-03-20 06:58:39.498
+1828,1105,dbt,Data Transformation,Intermediate,1.4,false,2026-01-26,4.8,false,2026-03-20 06:58:39.498
+1236,1243,Informatica,ETL,Expert,14.7,true,2025-06-26,4.3,true,2026-03-20 06:58:39.498
+2001,1387,Talend,ETL,Expert,2.2,false,2025-09-27,2.7,false,2026-03-20 06:58:39.498
+1673,1358,JavaScript,Programming,Intermediate,6.1,true,2025-09-20,2.1,false,2026-03-20 06:58:39.498
+1107,1302,Docker,Containerization,Advanced,9.4,true,2025-12-17,3.1,true,2026-03-20 06:58:39.498
+321,1395,Fivetran,Data Integration,Advanced,2.2,true,2025-04-26,2.4,false,2026-03-20 06:58:39.498
+1173,1063,MongoDB,NoSQL,Advanced,12.1,false,2025-09-18,2.3,false,2026-03-20 06:58:39.498
+20,1177,Java,Programming,Advanced,10.6,false,2026-01-16,3.6,false,2026-03-20 06:58:39.498
+1837,1399,Databricks,Data Platform,Expert,5.9,true,2025-11-27,2.1,true,2026-03-20 06:58:39.498
+571,1195,SQL,Database,Advanced,2.1,false,2025-04-08,2.7,true,2026-03-20 06:58:39.498
+11153,1524,Machine Learning,AI/ML,Expert,13.0,false,2026-03-12,4.8,true,2026-03-21 04:04:54.479
+436,1296,SSIS,ETL,Expert,1.0,false,2025-04-09,2.2,true,2026-03-20 06:58:39.498
+1989,1013,NLP,AI/ML,Intermediate,3.8,false,2025-10-10,3.5,true,2026-03-20 06:58:39.498
+102,1364,PostgreSQL,Database,Advanced,10.8,false,2025-09-13,4.4,false,2026-03-20 06:58:39.498
+1832,1175,Sigma,Analytics,Beginner,0.8,false,2025-09-17,3.6,false,2026-03-20 06:58:39.498
+505,1229,Databricks,Data Platform,Advanced,12.1,false,2025-08-08,3.3,true,2026-03-20 06:58:39.498
+356,1009,Linux,Operating System,Expert,12.0,false,2025-11-09,5.0,false,2026-03-20 06:58:39.498
+2019,1122,SQL,Database,Intermediate,10.6,false,2025-04-06,3.1,true,2026-03-20 06:58:39.498
+1833,1306,BigQuery,Cloud Data Platform,Expert,7.0,false,2026-02-22,2.5,false,2026-03-20 06:58:39.498
+1551,1027,GCP,Cloud Platform,Intermediate,8.8,true,2025-11-16,2.4,true,2026-03-20 06:58:39.498
+1758,1152,Tableau,Visualization,Expert,12.2,false,2025-04-18,2.0,true,2026-03-20 06:58:39.498
+419,1408,Matillion,ETL,Expert,2.2,false,2025-08-19,4.8,false,2026-03-20 06:58:39.498
+1792,1089,Python,Programming,Beginner,7.4,false,2025-12-05,2.0,false,2026-03-20 06:58:39.498
+1525,1369,GCP,Cloud Platform,Advanced,2.3,false,2025-06-21,2.8,true,2026-03-20 06:58:39.498
+1133,1024,Python,Programming,Advanced,3.2,true,2025-03-26,2.3,true,2026-03-20 06:58:39.498
+1327,1092,BigQuery,Cloud Data Platform,Advanced,1.2,true,2025-12-25,4.1,true,2026-03-20 06:58:39.498
+1195,1490,Databricks,Data Platform,Intermediate,1.0,false,2025-11-08,4.2,true,2026-03-20 06:58:39.498
+181,1234,Git,Version Control,Intermediate,5.5,false,2025-06-20,2.6,false,2026-03-20 06:58:39.498
+1455,1191,BigQuery,Cloud Data Platform,Expert,11.2,true,2025-04-19,4.9,false,2026-03-20 06:58:39.498
+1716,1093,Airflow,Workflow Orchestration,Expert,0.7,true,2025-10-01,4.5,false,2026-03-20 06:58:39.498
+1263,1414,Looker,Visualization,Advanced,9.6,false,2025-07-19,4.5,true,2026-03-20 06:58:39.498
+1610,1462,GCP,Cloud Platform,Beginner,7.1,false,2025-12-07,4.2,true,2026-03-20 06:58:39.498
+417,1408,BigQuery,Cloud Data Platform,Expert,7.6,false,2025-06-24,2.7,false,2026-03-20 06:58:39.498
+404,1194,Redshift,Cloud Data Platform,Expert,4.8,true,2025-06-27,3.6,false,2026-03-20 06:58:39.498
+1986,1074,Databricks,Data Platform,Beginner,5.7,false,2026-02-25,2.4,true,2026-03-20 06:58:39.498
+1422,1062,Azure,Cloud Platform,Intermediate,6.8,true,2025-06-20,3.8,true,2026-03-20 06:58:39.498
+191,1073,MongoDB,NoSQL,Intermediate,12.6,false,2025-11-11,2.1,false,2026-03-20 06:58:39.498
+457,1446,Python,Programming,Expert,7.8,false,2025-07-19,3.7,false,2026-03-20 06:58:39.498
+1559,1252,Matillion,ETL,Advanced,1.3,true,2026-03-04,4.0,false,2026-03-20 06:58:39.498
+286,1406,AWS,Cloud Platform,Expert,10.5,true,2026-01-20,2.8,false,2026-03-20 06:58:39.498
+484,1086,Python,Programming,Intermediate,4.7,false,2025-10-01,3.4,true,2026-03-20 06:58:39.498
+11135,1521,GCP,Cloud Platform,Expert,11.0,true,2026-03-19,4.9,true,2026-03-21 04:04:54.479
+1237,1243,Java,Programming,Advanced,6.6,false,2025-11-13,4.0,true,2026-03-20 06:58:39.498
+1106,1300,Streamlit,App Development,Expert,11.2,false,2025-12-04,4.8,false,2026-03-20 06:58:39.498
+1282,1323,SSIS,ETL,Advanced,3.4,false,2025-06-09,4.3,false,2026-03-20 06:58:39.498
+2037,1407,Python,Programming,Expert,3.5,false,2025-12-05,2.2,false,2026-03-20 06:58:39.498
+1846,1463,Java,Programming,Expert,9.2,false,2026-01-18,4.9,true,2026-03-20 06:58:39.498
+42,1008,Git,Version Control,Expert,6.8,false,2025-07-07,2.9,false,2026-03-20 06:58:39.498
+11126,1519,AWS,Cloud Platform,Expert,12.0,false,2026-03-18,4.9,true,2026-03-21 04:04:54.479
+1465,1374,Talend,ETL,Advanced,6.8,false,2025-06-25,2.0,false,2026-03-20 06:58:39.498
+1773,1318,MongoDB,NoSQL,Intermediate,5.9,false,2026-01-22,2.4,true,2026-03-20 06:58:39.498
+108,1236,Docker,Containerization,Advanced,1.8,false,2025-10-10,4.1,false,2026-03-20 06:58:39.498
+390,1325,Streamlit,App Development,Advanced,13.2,false,2025-11-29,5.0,true,2026-03-20 06:58:39.498
+231,1128,JavaScript,Programming,Intermediate,11.8,false,2025-05-03,2.6,false,2026-03-20 06:58:39.498
+1886,1349,Azure,Cloud Platform,Expert,14.0,false,2025-12-30,4.3,true,2026-03-20 06:58:39.498
+1528,1126,R,Programming,Intermediate,1.2,true,2025-06-01,4.6,false,2026-03-20 06:58:39.498
+1752,1040,Linux,Operating System,Advanced,4.8,false,2025-05-13,4.2,false,2026-03-20 06:58:39.498
+1102,1298,Databricks,Data Platform,Intermediate,3.1,true,2025-05-09,2.0,true,2026-03-20 06:58:39.498
+1561,1252,Deep Learning,AI/ML,Advanced,3.0,false,2025-09-23,4.4,false,2026-03-20 06:58:39.498
+1331,1187,Talend,ETL,Expert,4.2,false,2025-05-06,2.5,true,2026-03-20 06:58:39.498
+586,1485,Matillion,ETL,Beginner,3.1,false,2026-02-26,4.0,true,2026-03-20 06:58:39.498
+1859,1156,Python,Programming,Intermediate,6.7,false,2025-05-10,2.6,true,2026-03-20 06:58:39.498
+250,1398,Java,Programming,Advanced,10.5,false,2025-03-23,5.0,true,2026-03-20 06:58:39.498
+174,1246,Git,Version Control,Intermediate,9.2,false,2025-08-19,2.1,false,2026-03-20 06:58:39.498
+1959,1397,Java,Programming,Expert,8.2,true,2025-09-23,3.1,true,2026-03-20 06:58:39.498
+271,1080,Terraform,Infrastructure as Code,Advanced,6.0,true,2025-08-13,3.5,true,2026-03-20 06:58:39.498
+1424,1352,Azure,Cloud Platform,Beginner,5.1,true,2025-07-02,2.5,true,2026-03-20 06:58:39.498
+1655,1041,Fivetran,Data Integration,Expert,3.8,false,2026-02-20,4.0,false,2026-03-20 06:58:39.498
+1463,1163,Azure,Cloud Platform,Beginner,1.5,false,2026-02-15,3.5,true,2026-03-20 06:58:39.498
+1438,1285,Kafka,Streaming,Intermediate,13.6,false,2026-01-25,2.6,true,2026-03-20 06:58:39.498
+1317,1106,Scala,Programming,Expert,9.0,true,2025-06-14,4.3,false,2026-03-20 06:58:39.498
+11115,1516,NLP,AI/ML,Expert,7.0,false,2026-03-12,4.7,true,2026-03-21 04:04:54.479
+11125,1519,Snowflake,Cloud Platform,Expert,10.0,true,2026-03-19,5.0,true,2026-03-21 04:04:54.479
+1895,1410,Git,Version Control,Advanced,3.0,false,2025-12-04,2.4,true,2026-03-20 06:58:39.498
+344,1417,R,Programming,Expert,11.8,true,2026-03-03,3.7,true,2026-03-20 06:58:39.498
+2030,1239,Linux,Operating System,Beginner,14.9,true,2025-05-05,2.0,true,2026-03-20 06:58:39.498
+121,1144,GCP,Cloud Platform,Expert,13.0,true,2025-06-08,3.3,false,2026-03-20 06:58:39.498
+1451,1313,Fivetran,Data Integration,Advanced,1.8,false,2026-01-06,4.9,true,2026-03-20 06:58:39.498
+278,1048,SQL,Database,Advanced,11.4,false,2026-02-22,3.6,false,2026-03-20 06:58:39.498
+1144,1244,Matillion,ETL,Expert,3.1,true,2025-05-22,3.7,true,2026-03-20 06:58:39.498
+1650,1165,Fivetran,Data Integration,Expert,12.2,false,2026-01-07,3.0,true,2026-03-20 06:58:39.498
+11150,1524,Databricks,Big Data,Expert,9.0,true,2026-03-18,4.9,true,2026-03-21 04:04:54.479
+1682,1504,Redshift,Cloud Data Platform,Intermediate,2.2,false,2026-02-28,3.2,true,2026-03-20 06:58:39.498
+426,1385,dbt,Data Transformation,Intermediate,11.8,false,2025-09-09,3.7,false,2026-03-20 06:58:39.498
+497,1290,Kafka,Streaming,Beginner,1.4,false,2025-11-08,2.4,true,2026-03-20 06:58:39.498
+409,1020,NLP,AI/ML,Intermediate,4.6,true,2025-07-31,3.0,false,2026-03-20 06:58:39.498
+228,1133,NLP,AI/ML,Advanced,3.5,true,2025-05-25,4.6,false,2026-03-20 06:58:39.498
+2021,1497,Power BI,Visualization,Beginner,3.8,false,2025-12-18,4.9,true,2026-03-20 06:58:39.498
+11102,1513,Python,Programming,Advanced,10.0,false,2026-03-10,4.5,true,2026-03-21 04:04:54.479
+1962,1397,Tableau,Visualization,Expert,6.6,false,2026-03-12,3.1,false,2026-03-20 06:58:39.498
+1888,1265,Terraform,Infrastructure as Code,Advanced,5.0,true,2025-07-06,4.6,true,2026-03-20 06:58:39.498
+265,1372,Azure,Cloud Platform,Expert,14.7,false,2025-05-24,3.1,false,2026-03-20 06:58:39.498
+1849,1176,NLP,AI/ML,Expert,1.7,false,2025-08-25,4.4,true,2026-03-20 06:58:39.498
+11146,1523,dbt,ETL,Expert,6.0,false,2026-03-15,4.8,true,2026-03-21 04:04:54.479
+1489,1470,Snowflake,Cloud Data Platform,Expert,5.0,false,2025-10-19,3.6,true,2026-03-20 06:58:39.498
+1255,1277,AWS,Cloud Platform,Expert,8.9,true,2025-11-28,2.0,false,2026-03-20 06:58:39.498
+155,1230,Kubernetes,Container Orchestration,Advanced,13.0,false,2025-09-21,2.5,true,2026-03-20 06:58:39.498
+1527,1116,Java,Programming,Advanced,5.0,true,2025-03-27,2.9,true,2026-03-20 06:58:39.498
+1922,1109,Snowflake,Cloud Data Platform,Advanced,8.5,false,2025-08-27,2.2,true,2026-03-20 06:58:39.498
+8,1149,Power BI,Visualization,Intermediate,4.8,true,2025-06-07,2.5,true,2026-03-20 06:58:39.498
+1475,1257,Linux,Operating System,Advanced,8.5,true,2025-06-26,2.3,true,2026-03-20 06:58:39.498
+1637,1283,Databricks,Data Platform,Intermediate,1.4,false,2025-11-20,4.2,true,2026-03-20 06:58:39.498
+593,1338,Fivetran,Data Integration,Expert,2.1,false,2025-06-15,4.0,false,2026-03-20 06:58:39.498
+336,1512,Matillion,ETL,Advanced,7.2,false,2025-04-22,4.3,false,2026-03-20 06:58:39.498
+1497,1444,React,Frontend,Advanced,7.7,false,2025-07-31,2.4,false,2026-03-20 06:58:39.498
+1392,1022,Scala,Programming,Expert,13.5,false,2025-04-10,2.5,false,2026-03-20 06:58:39.498
+1698,1158,Databricks,Data Platform,Expert,2.8,false,2025-12-02,4.0,true,2026-03-20 06:58:39.498
+1931,1015,Machine Learning,AI/ML,Expert,5.4,false,2026-01-02,4.8,false,2026-03-20 06:58:39.498
+1565,1321,NLP,AI/ML,Advanced,3.5,true,2025-06-02,4.8,false,2026-03-20 06:58:39.498
+53,1157,Matillion,ETL,Advanced,12.9,true,2026-01-20,3.7,false,2026-03-20 06:58:39.498
+1991,1420,NLP,AI/ML,Expert,9.7,true,2025-07-27,3.9,true,2026-03-20 06:58:39.498
+1457,1191,Docker,Containerization,Expert,8.2,false,2025-07-17,4.9,false,2026-03-20 06:58:39.498
+1819,1450,Machine Learning,AI/ML,Expert,7.9,true,2025-04-07,4.4,true,2026-03-20 06:58:39.498
+1711,1254,NLP,AI/ML,Advanced,14.0,false,2025-09-01,3.7,true,2026-03-20 06:58:39.498
+1545,1087,Machine Learning,AI/ML,Advanced,5.2,false,2025-03-22,3.5,true,2026-03-20 06:58:39.498
+1141,1278,R,Programming,Advanced,9.4,false,2026-01-26,3.5,true,2026-03-20 06:58:39.498
+1777,1409,Python,Programming,Advanced,1.4,false,2025-12-15,4.3,false,2026-03-20 06:58:39.498
+1709,1254,Looker,Visualization,Expert,7.2,true,2025-09-07,4.3,true,2026-03-20 06:58:39.498
+1539,1222,Terraform,Infrastructure as Code,Expert,13.6,false,2025-08-27,4.1,true,2026-03-20 06:58:39.498
+229,1007,Docker,Containerization,Intermediate,4.1,false,2025-06-02,3.9,false,2026-03-20 06:58:39.498
+1383,1047,CI/CD,DevOps,Advanced,14.7,false,2025-04-10,4.0,true,2026-03-20 06:58:39.498
+11112,1515,Terraform,DevOps,Advanced,4.5,false,2026-03-05,4.1,true,2026-03-21 04:04:54.479
+306,1006,Redshift,Cloud Data Platform,Intermediate,3.2,false,2025-12-05,3.9,false,2026-03-20 06:58:39.498
+1328,1092,Deep Learning,AI/ML,Expert,8.6,false,2025-10-04,2.7,true,2026-03-20 06:58:39.498
+1923,1324,SQL,Database,Beginner,7.4,true,2026-02-13,2.1,false,2026-03-20 06:58:39.498
+1917,1186,Matillion,ETL,Advanced,13.4,false,2025-10-17,3.2,false,2026-03-20 06:58:39.498
+602,1427,AWS,Cloud Platform,Advanced,12.5,false,2025-04-17,3.4,true,2026-03-20 06:58:39.498
+465,1471,Azure,Cloud Platform,Advanced,6.2,false,2026-02-16,4.2,true,2026-03-20 06:58:39.498
+208,1365,Databricks,Data Platform,Intermediate,1.0,false,2025-09-13,3.5,true,2026-03-20 06:58:39.498
+1245,1320,Kafka,Streaming,Advanced,12.4,false,2026-03-12,4.5,true,2026-03-20 06:58:39.498
+1707,1474,Terraform,Infrastructure as Code,Expert,7.6,false,2025-07-31,2.8,true,2026-03-20 06:58:39.498
+120,1076,Linux,Operating System,Expert,9.9,false,2025-04-16,3.0,true,2026-03-20 06:58:39.498
+335,1322,Python,Programming,Advanced,6.3,false,2026-03-02,4.8,false,2026-03-20 06:58:39.498
+1770,1204,Machine Learning,AI/ML,Expert,2.6,false,2025-06-12,2.5,true,2026-03-20 06:58:39.498
+396,1212,Power BI,Visualization,Beginner,2.4,false,2025-11-12,4.3,false,2026-03-20 06:58:39.498
+215,1179,R,Programming,Intermediate,7.5,true,2026-02-03,2.2,true,2026-03-20 06:58:39.498
+413,1020,Tableau,Visualization,Expert,6.9,false,2025-12-25,5.0,true,2026-03-20 06:58:39.498
+1685,1370,Linux,Operating System,Advanced,0.5,false,2025-05-06,4.8,true,2026-03-20 06:58:39.498
+1355,1438,Scala,Programming,Expert,12.7,false,2025-10-31,4.3,true,2026-03-20 06:58:39.498
+285,1505,Looker,Visualization,Advanced,6.6,false,2025-05-08,4.3,true,2026-03-20 06:58:39.498
+1526,1369,AWS,Cloud Platform,Intermediate,12.6,false,2025-04-01,4.2,true,2026-03-20 06:58:39.498
+1404,1190,SSIS,ETL,Advanced,13.2,false,2025-07-08,4.1,true,2026-03-20 06:58:39.498
+476,1421,JavaScript,Programming,Advanced,3.3,true,2026-01-23,2.2,true,2026-03-20 06:58:39.498
+1325,1023,R,Programming,Expert,13.7,false,2025-11-23,4.2,true,2026-03-20 06:58:39.498
+1823,1055,PostgreSQL,Database,Advanced,6.8,false,2025-12-24,4.7,false,2026-03-20 06:58:39.498
+508,1348,AWS,Cloud Platform,Expert,12.9,false,2025-08-25,4.0,false,2026-03-20 06:58:39.498
+2038,1181,Azure,Cloud Platform,Beginner,11.7,false,2025-04-20,4.6,true,2026-03-20 06:58:39.498
+363,1404,React,Frontend,Intermediate,9.3,true,2025-06-17,2.5,true,2026-03-20 06:58:39.498
+1896,1436,PostgreSQL,Database,Advanced,9.3,false,2025-12-27,3.6,false,2026-03-20 06:58:39.498
+1370,1282,Kafka,Streaming,Expert,6.9,false,2026-01-09,2.2,true,2026-03-20 06:58:39.498
+128,1205,Terraform,Infrastructure as Code,Expert,11.9,true,2025-07-02,2.9,true,2026-03-20 06:58:39.498
+276,1173,Snowflake,Cloud Data Platform,Intermediate,1.0,false,2026-01-13,2.7,true,2026-03-20 06:58:39.498
+177,1234,Machine Learning,AI/ML,Expert,15.0,true,2026-02-04,2.7,true,2026-03-20 06:58:39.498
+1402,1190,Docker,Containerization,Intermediate,14.5,true,2025-11-28,3.1,true,2026-03-20 06:58:39.498
+1971,1457,SQL,Database,Expert,10.9,true,2025-10-24,3.6,false,2026-03-20 06:58:39.498
+1914,1344,Java,Programming,Beginner,9.3,false,2025-10-31,4.3,false,2026-03-20 06:58:39.498
+1943,1227,Looker,Visualization,Advanced,5.3,false,2025-08-10,4.9,false,2026-03-20 06:58:39.498
+353,1255,Informatica,ETL,Advanced,0.7,false,2026-02-05,3.1,false,2026-03-20 06:58:39.498
+175,1246,Kafka,Streaming,Advanced,12.5,false,2025-06-04,4.5,true,2026-03-20 06:58:39.498
+314,1220,Informatica,ETL,Intermediate,1.9,false,2025-05-12,2.3,false,2026-03-20 06:58:39.498
+516,1082,SSIS,ETL,Advanced,2.6,false,2025-09-12,4.6,true,2026-03-20 06:58:39.498
+1374,1110,Power BI,Visualization,Expert,11.6,false,2025-05-26,2.2,true,2026-03-20 06:58:39.498
+105,1236,AWS,Cloud Platform,Expert,5.2,true,2026-02-11,4.3,true,2026-03-20 06:58:39.498
+1531,1171,Matillion,ETL,Advanced,10.0,false,2025-08-25,2.6,true,2026-03-20 06:58:39.498
+1783,1014,Informatica,ETL,Intermediate,6.0,false,2025-03-27,4.3,true,2026-03-20 06:58:39.498
+1820,1101,Kubernetes,Container Orchestration,Intermediate,1.3,false,2026-01-12,3.3,false,2026-03-20 06:58:39.498
+403,1016,AWS,Cloud Platform,Advanced,11.9,false,2026-02-28,4.6,true,2026-03-20 06:58:39.498
+22,1177,dbt,Data Transformation,Expert,6.6,false,2025-09-03,4.8,true,2026-03-20 06:58:39.498
+1147,1044,Python,Programming,Expert,11.1,true,2025-11-08,3.3,true,2026-03-20 06:58:39.498
+474,1258,React,Frontend,Beginner,13.5,false,2025-05-07,3.1,true,2026-03-20 06:58:39.498
+346,1417,Docker,Containerization,Intermediate,14.3,false,2025-08-03,2.7,true,2026-03-20 06:58:39.498
+252,1398,dbt,Data Transformation,Advanced,1.8,false,2025-11-16,2.6,true,2026-03-20 06:58:39.498
+501,1147,Python,Programming,Expert,0.6,false,2025-12-22,4.8,false,2026-03-20 06:58:39.498
+1938,1081,R,Programming,Beginner,4.6,false,2025-09-30,3.8,true,2026-03-20 06:58:39.498
+315,1418,SSIS,ETL,Expert,3.3,true,2026-01-23,3.1,true,2026-03-20 06:58:39.498
+524,1057,Git,Version Control,Expert,0.6,false,2025-04-20,2.1,true,2026-03-20 06:58:39.498
+1234,1035,Looker,Visualization,Intermediate,14.4,false,2025-12-20,4.3,false,2026-03-20 06:58:39.498
+2046,1118,dbt,Data Transformation,Intermediate,0.5,false,2025-05-17,3.7,true,2026-03-20 06:58:39.498
+1718,1093,Databricks,Data Platform,Beginner,11.5,false,2025-09-11,3.8,true,2026-03-20 06:58:39.498
+1843,1399,Terraform,Infrastructure as Code,Advanced,8.2,false,2025-06-29,3.8,false,2026-03-20 06:58:39.498
+557,1203,Docker,Containerization,Beginner,9.3,false,2025-10-10,2.8,true,2026-03-20 06:58:39.498
+1307,1178,Tableau,Visualization,Expert,11.7,true,2025-05-13,4.0,true,2026-03-20 06:58:39.498
+441,1104,JavaScript,Programming,Advanced,1.7,false,2025-04-12,2.6,false,2026-03-20 06:58:39.498
+1286,1295,Streamlit,App Development,Beginner,11.3,false,2025-09-12,4.7,true,2026-03-20 06:58:39.498
+1821,1431,NLP,AI/ML,Advanced,7.0,true,2025-04-19,4.1,true,2026-03-20 06:58:39.498
+412,1020,Apache Spark,Big Data,Expert,5.6,false,2025-08-06,5.0,false,2026-03-20 06:58:39.498
+24,1251,Streamlit,App Development,Expert,5.6,true,2025-10-17,3.7,true,2026-03-20 06:58:39.498
+1493,1470,Git,Version Control,Expert,10.0,false,2026-02-16,3.2,false,2026-03-20 06:58:39.498
+1444,1314,dbt,Data Transformation,Advanced,7.1,false,2025-03-24,3.3,true,2026-03-20 06:58:39.498
+298,1182,Talend,ETL,Advanced,9.8,false,2026-01-24,3.3,false,2026-03-20 06:58:39.498
+1633,1432,Talend,ETL,Advanced,14.8,false,2025-08-08,2.3,true,2026-03-20 06:58:39.498
+30,1037,Airflow,Workflow Orchestration,Advanced,8.1,true,2025-10-26,2.5,true,2026-03-20 06:58:39.498
+1448,1214,Apache Spark,Big Data,Advanced,4.1,false,2025-04-17,4.7,true,2026-03-20 06:58:39.498
+1858,1156,dbt,Data Transformation,Advanced,12.8,true,2025-04-16,4.0,true,2026-03-20 06:58:39.498
+287,1406,SSIS,ETL,Beginner,10.8,false,2025-09-19,2.3,true,2026-03-20 06:58:39.498
+1824,1105,Talend,ETL,Beginner,9.7,false,2026-01-30,3.3,false,2026-03-20 06:58:39.498
+1671,1425,AWS,Cloud Platform,Intermediate,14.1,false,2025-06-05,3.2,false,2026-03-20 06:58:39.498
+431,1296,NLP,AI/ML,Expert,7.5,false,2025-08-11,3.8,false,2026-03-20 06:58:39.498
+603,1427,Qlik,Visualization,Beginner,5.5,false,2025-05-21,4.3,false,2026-03-20 06:58:39.498
+1193,1490,dbt,Data Transformation,Expert,14.5,true,2025-11-04,2.3,true,2026-03-20 06:58:39.498
+1385,1047,Linux,Operating System,Expert,4.6,false,2025-11-08,2.9,true,2026-03-20 06:58:39.498
+1469,1247,Azure,Cloud Platform,Intermediate,9.4,false,2025-06-28,2.9,true,2026-03-20 06:58:39.498
+351,1107,Scala,Programming,Intermediate,1.9,false,2025-08-20,2.6,true,2026-03-20 06:58:39.498
+1533,1200,Databricks,Data Platform,Expert,11.8,true,2025-05-25,3.8,true,2026-03-20 06:58:39.498
+535,1379,Kubernetes,Container Orchestration,Expert,10.9,false,2025-04-14,2.0,false,2026-03-20 06:58:39.498
+11119,1517,SQL,Database,Expert,12.0,false,2026-03-19,4.9,true,2026-03-21 04:04:54.479
+1563,1456,Java,Programming,Intermediate,8.2,true,2026-02-17,3.4,true,2026-03-20 06:58:39.498
+1372,1110,Azure,Cloud Platform,Beginner,10.6,false,2025-10-08,5.0,true,2026-03-20 06:58:39.498
+310,1373,Java,Programming,Beginner,8.6,true,2026-02-22,4.9,true,2026-03-20 06:58:39.498
+106,1236,Snowflake,Cloud Data Platform,Expert,8.3,false,2026-01-28,2.0,true,2026-03-20 06:58:39.498
+1353,1350,Kubernetes,Container Orchestration,Advanced,7.5,false,2025-10-21,4.9,true,2026-03-20 06:58:39.498
+169,1061,MongoDB,NoSQL,Expert,9.0,false,2025-04-09,3.3,false,2026-03-20 06:58:39.498
+1645,1165,Databricks,Data Platform,Beginner,0.5,false,2025-11-04,3.9,true,2026-03-20 06:58:39.498
+1436,1285,Apache Spark,Big Data,Beginner,1.3,false,2025-08-15,4.4,false,2026-03-20 06:58:39.498
+1449,1313,Informatica,ETL,Expert,11.0,false,2026-03-17,2.8,true,2026-03-20 06:58:39.498
+1467,1247,Streamlit,App Development,Expert,5.8,true,2025-12-10,2.3,true,2026-03-20 06:58:39.498
+237,1264,Informatica,ETL,Expert,11.3,false,2025-10-07,4.7,false,2026-03-20 06:58:39.498
+339,1422,Power BI,Visualization,Expert,10.8,true,2025-10-22,3.3,false,2026-03-20 06:58:39.498
+1678,1358,Matillion,ETL,Intermediate,5.2,false,2026-02-23,3.0,true,2026-03-20 06:58:39.498
+1343,1459,R,Programming,Expert,8.9,false,2026-03-13,3.4,true,2026-03-20 06:58:39.498
+1233,1035,Docker,Containerization,Expert,7.0,false,2025-07-08,4.6,false,2026-03-20 06:58:39.498
+1696,1158,NLP,AI/ML,Expert,10.4,false,2025-05-04,2.9,false,2026-03-20 06:58:39.498
+1158,1346,Redshift,Cloud Data Platform,Beginner,1.7,false,2025-05-08,2.0,true,2026-03-20 06:58:39.498
+1488,1470,Deep Learning,AI/ML,Expert,7.7,true,2025-05-10,3.0,true,2026-03-20 06:58:39.498
+1416,1065,CI/CD,DevOps,Advanced,5.6,false,2025-10-25,3.2,true,2026-03-20 06:58:39.498
+1936,1496,MongoDB,NoSQL,Advanced,5.2,false,2025-10-30,2.9,true,2026-03-20 06:58:39.498
+1450,1313,Machine Learning,AI/ML,Expert,12.1,false,2025-12-12,2.7,true,2026-03-20 06:58:39.498
+1929,1015,Kubernetes,Container Orchestration,Intermediate,7.2,true,2026-01-21,4.2,true,2026-03-20 06:58:39.498
+1626,1487,Qlik,Visualization,Beginner,14.9,true,2025-04-01,3.4,false,2026-03-20 06:58:39.498
+1256,1277,CI/CD,DevOps,Beginner,5.0,false,2025-09-12,3.4,false,2026-03-20 06:58:39.498
+142,1441,Talend,ETL,Intermediate,7.2,false,2025-04-02,2.1,false,2026-03-20 06:58:39.498
+1965,1226,R,Programming,Intermediate,5.1,false,2025-06-05,2.2,false,2026-03-20 06:58:39.498
+1101,1427,Java,Programming,Expert,5.7,false,2026-01-25,3.4,false,2026-03-20 06:58:39.498
+33,1037,Kubernetes,Container Orchestration,Intermediate,14.6,false,2025-05-25,4.6,true,2026-03-20 06:58:39.498
+1168,1113,Looker,Visualization,Expert,13.9,false,2025-05-22,3.6,false,2026-03-20 06:58:39.498
+1,1501,BigQuery,Cloud Data Platform,Advanced,12.9,true,2025-10-06,2.9,false,2026-03-20 06:58:39.498
+1445,1314,Talend,ETL,Beginner,14.9,false,2025-09-22,2.5,false,2026-03-20 06:58:39.498
+1296,1273,Terraform,Infrastructure as Code,Expert,3.6,false,2025-04-20,3.9,true,2026-03-20 06:58:39.498
+1608,1396,Git,Version Control,Intermediate,6.9,false,2025-10-11,3.8,false,2026-03-20 06:58:39.498
+392,1167,Deep Learning,AI/ML,Beginner,13.7,true,2025-06-05,2.2,false,2026-03-20 06:58:39.498
+1143,1327,Matillion,ETL,Advanced,0.6,false,2025-03-31,2.3,true,2026-03-20 06:58:39.498
+1183,1270,Deep Learning,AI/ML,Intermediate,11.5,false,2025-07-05,4.9,false,2026-03-20 06:58:39.498
+29,1292,Machine Learning,AI/ML,Beginner,7.8,false,2026-02-05,4.3,true,2026-03-20 06:58:39.498
+1816,1499,Kafka,Streaming,Beginner,8.0,true,2025-11-10,2.5,true,2026-03-20 06:58:39.498
+1913,1344,Azure,Cloud Platform,Expert,14.1,false,2025-08-01,3.2,true,2026-03-20 06:58:39.498
+1560,1252,R,Programming,Expert,12.3,false,2025-09-06,2.7,true,2026-03-20 06:58:39.498
+1733,1238,Airflow,Workflow Orchestration,Advanced,12.8,false,2025-07-05,2.8,true,2026-03-20 06:58:39.498
+380,1180,Java,Programming,Expert,4.3,false,2025-05-31,2.0,false,2026-03-20 06:58:39.498
+1582,1469,Linux,Operating System,Beginner,1.8,false,2026-03-04,4.0,false,2026-03-20 06:58:39.498
+510,1348,SSIS,ETL,Expert,10.9,false,2025-04-12,3.7,true,2026-03-20 06:58:39.498
+1349,1439,CI/CD,DevOps,Expert,0.8,false,2025-10-01,4.6,true,2026-03-20 06:58:39.498
+1209,1189,PostgreSQL,Database,Advanced,12.4,false,2025-06-13,2.5,false,2026-03-20 06:58:39.498
+1218,1426,Airflow,Workflow Orchestration,Advanced,6.9,false,2025-08-11,4.1,true,2026-03-20 06:58:39.498
+1994,1420,Machine Learning,AI/ML,Intermediate,8.1,false,2025-05-18,3.5,true,2026-03-20 06:58:39.498
+1381,1047,dbt,Data Transformation,Advanced,6.1,false,2025-12-01,5.0,true,2026-03-20 06:58:39.498
+1502,1088,JavaScript,Programming,Expert,12.5,false,2026-01-07,2.5,false,2026-03-20 06:58:39.498
+1790,1038,BigQuery,Cloud Data Platform,Expert,3.7,false,2025-11-29,3.6,false,2026-03-20 06:58:39.498
+506,1201,MongoDB,NoSQL,Beginner,13.1,true,2025-07-08,2.5,true,2026-03-20 06:58:39.498
+203,1366,Terraform,Infrastructure as Code,Expert,6.1,false,2025-11-04,2.1,true,2026-03-20 06:58:39.498
+1326,1023,GCP,Cloud Platform,Intermediate,1.0,false,2025-07-19,4.0,true,2026-03-20 06:58:39.498
+146,1453,Java,Programming,Advanced,8.9,false,2026-02-25,3.4,true,2026-03-20 06:58:39.498
+1801,1052,Redshift,Cloud Data Platform,Intermediate,8.8,false,2025-04-24,4.2,true,2026-03-20 06:58:39.498
+291,1032,Tableau,Visualization,Expert,11.9,false,2025-04-04,3.6,true,2026-03-20 06:58:39.498
+1961,1397,Kafka,Streaming,Intermediate,6.1,false,2026-02-25,2.7,false,2026-03-20 06:58:39.498
+1552,1027,Talend,ETL,Advanced,8.3,false,2025-10-14,3.1,true,2026-03-20 06:58:39.498
+1693,1271,React,Frontend,Expert,0.6,false,2025-12-20,2.5,false,2026-03-20 06:58:39.498
+2049,1071,NLP,AI/ML,Expert,13.7,false,2025-04-05,4.2,true,2026-03-20 06:58:39.498
+1389,1022,Airflow,Workflow Orchestration,Expert,14.1,true,2025-08-02,3.4,true,2026-03-20 06:58:39.498
+1277,1317,Terraform,Infrastructure as Code,Expert,0.5,true,2026-03-13,4.4,true,2026-03-20 06:58:39.498
+25,1251,Git,Version Control,Intermediate,10.4,false,2025-10-24,2.1,false,2026-03-20 06:58:39.498
+123,1144,Machine Learning,AI/ML,Expert,6.1,false,2026-01-30,2.2,true,2026-03-20 06:58:39.498
+1567,1319,dbt,Data Transformation,Beginner,14.5,false,2026-01-02,4.7,false,2026-03-20 06:58:39.498
+597,1483,Linux,Operating System,Expert,6.6,false,2025-07-11,3.7,false,2026-03-20 06:58:39.498
+1988,1013,Azure,Cloud Platform,Expert,0.7,true,2025-08-26,4.1,true,2026-03-20 06:58:39.498
+1351,1350,Informatica,ETL,Intermediate,13.2,true,2026-01-19,3.3,false,2026-03-20 06:58:39.498
+518,1304,Linux,Operating System,Beginner,3.6,false,2025-04-14,4.2,false,2026-03-20 06:58:39.498
+2043,1465,Power BI,Visualization,Expert,4.8,false,2025-05-31,4.9,true,2026-03-20 06:58:39.498
+1975,1196,NLP,AI/ML,Expert,2.5,false,2025-07-27,3.8,true,2026-03-20 06:58:39.498
+1568,1319,Scala,Programming,Beginner,1.1,false,2025-04-30,2.5,true,2026-03-20 06:58:39.498
+483,1086,Informatica,ETL,Advanced,13.1,true,2026-03-12,4.3,true,2026-03-20 06:58:39.498
+1668,1425,Apache Spark,Big Data,Expert,9.2,false,2025-04-22,4.3,true,2026-03-20 06:58:39.498
+1766,1491,Talend,ETL,Expert,13.0,false,2025-10-09,3.9,false,2026-03-20 06:58:39.498
+1108,1302,Deep Learning,AI/ML,Beginner,12.9,false,2025-09-10,4.1,true,2026-03-20 06:58:39.498
+2023,1497,Informatica,ETL,Advanced,11.4,false,2025-03-26,2.9,false,2026-03-20 06:58:39.498
+1118,1188,Power BI,Visualization,Beginner,6.4,false,2025-03-24,2.9,false,2026-03-20 06:58:39.498
+204,1060,Qlik,Visualization,Advanced,6.4,true,2025-06-28,4.4,true,2026-03-20 06:58:39.498
+452,1111,Power BI,Visualization,Expert,14.6,false,2025-10-28,2.8,true,2026-03-20 06:58:39.498
+1356,1438,AWS,Cloud Platform,Beginner,6.8,false,2025-06-27,2.1,false,2026-03-20 06:58:39.498
+1225,1360,R,Programming,Expert,7.6,false,2025-04-22,3.7,false,2026-03-20 06:58:39.498
+1182,1270,CI/CD,DevOps,Advanced,6.5,false,2025-08-13,4.9,true,2026-03-20 06:58:39.498
+1651,1041,Snowflake,Cloud Data Platform,Intermediate,12.0,true,2025-06-03,3.5,true,2026-03-20 06:58:39.498
+420,1213,Airflow,Workflow Orchestration,Advanced,13.3,false,2025-07-26,4.6,false,2026-03-20 06:58:39.498
+11122,1518,Power BI,Visualization,Expert,8.0,false,2026-03-10,4.6,true,2026-03-21 04:04:54.479
+540,1124,Machine Learning,AI/ML,Expert,14.9,false,2026-02-09,4.1,false,2026-03-20 06:58:39.498
+1784,1103,Databricks,Data Platform,Advanced,3.2,true,2025-05-01,3.5,true,2026-03-20 06:58:39.498
+1184,1270,Tableau,Visualization,Intermediate,6.3,false,2025-12-30,3.7,false,2026-03-20 06:58:39.498
+1199,1490,Streamlit,App Development,Advanced,9.1,false,2025-11-19,2.7,true,2026-03-20 06:58:39.498
+1222,1360,Qlik,Visualization,Expert,1.9,true,2025-11-04,3.9,true,2026-03-20 06:58:39.498
+1365,1386,Airflow,Workflow Orchestration,Expert,11.0,false,2025-10-28,2.1,true,2026-03-20 06:58:39.498
+525,1400,SSIS,ETL,Intermediate,13.9,true,2026-03-11,2.0,false,2026-03-20 06:58:39.498
+1681,1288,R,Programming,Expert,13.1,true,2025-06-08,2.9,false,2026-03-20 06:58:39.498
+350,1287,React,Frontend,Expert,2.7,false,2025-12-19,3.3,true,2026-03-20 06:58:39.498
+1732,1238,Java,Programming,Beginner,2.8,false,2025-07-16,3.4,true,2026-03-20 06:58:39.498
+1807,1145,Git,Version Control,Intermediate,12.2,false,2025-11-05,2.4,true,2026-03-20 06:58:39.498
+280,1303,MongoDB,NoSQL,Beginner,2.0,true,2026-02-03,3.9,false,2026-03-20 06:58:39.498
+292,1032,React,Frontend,Expert,9.9,false,2025-08-23,4.5,false,2026-03-20 06:58:39.498
+1348,1368,Qlik,Visualization,Advanced,9.6,false,2025-05-07,3.6,true,2026-03-20 06:58:39.498
+1619,1309,Linux,Operating System,Intermediate,1.5,false,2025-04-20,4.2,false,2026-03-20 06:58:39.498
+1659,1381,Databricks,Data Platform,Expert,13.4,false,2026-02-13,3.5,false,2026-03-20 06:58:39.498
+1774,1409,Docker,Containerization,Expert,15.0,true,2025-11-19,3.2,false,2026-03-20 06:58:39.498
+217,1179,SQL,Database,Advanced,7.9,false,2025-06-10,4.5,true,2026-03-20 06:58:39.498
+1955,1345,React,Frontend,Expert,0.9,false,2025-04-22,3.3,true,2026-03-20 06:58:39.498
+1357,1438,Qlik,Visualization,Expert,3.5,false,2026-03-13,4.9,true,2026-03-20 06:58:39.498
+1779,1383,CI/CD,DevOps,Intermediate,2.2,true,2025-04-05,3.0,true,2026-03-20 06:58:39.498
+1511,1090,Informatica,ETL,Expert,2.0,true,2025-11-25,3.5,true,2026-03-20 06:58:39.498
+1344,1368,GCP,Cloud Platform,Advanced,7.4,true,2025-12-06,3.7,true,2026-03-20 06:58:39.498
+324,1141,Qlik,Visualization,Expert,9.9,true,2025-10-20,4.2,false,2026-03-20 06:58:39.498
+370,1005,Machine Learning,AI/ML,Expert,14.2,true,2026-01-05,2.8,true,2026-03-20 06:58:39.498
+1337,1139,Databricks,Data Platform,Expert,13.9,false,2025-10-17,2.6,true,2026-03-20 06:58:39.498
+1857,1371,BigQuery,Cloud Data Platform,Expert,6.7,false,2025-10-23,4.5,false,2026-03-20 06:58:39.498
+131,1205,Streamlit,App Development,Beginner,11.2,false,2025-05-10,4.0,false,2026-03-20 06:58:39.498
+488,1036,PostgreSQL,Database,Intermediate,7.5,true,2025-08-11,2.0,false,2026-03-20 06:58:39.498
+47,1272,Kafka,Streaming,Advanced,5.4,false,2025-10-15,2.8,true,2026-03-20 06:58:39.498
+28,1308,GCP,Cloud Platform,Advanced,13.0,false,2026-03-12,4.7,true,2026-03-20 06:58:39.498
+1459,1507,Terraform,Infrastructure as Code,Expert,5.3,true,2025-05-16,4.3,true,2026-03-20 06:58:39.498
+1841,1399,Machine Learning,AI/ML,Beginner,9.0,false,2025-07-26,3.3,true,2026-03-20 06:58:39.498
+337,1512,Scala,Programming,Expert,4.6,false,2025-12-26,4.6,true,2026-03-20 06:58:39.498
+2040,1465,Databricks,Data Platform,Advanced,10.0,true,2025-07-09,3.7,true,2026-03-20 06:58:39.498
+1903,1269,Apache Spark,Big Data,Beginner,0.5,true,2025-03-25,2.7,false,2026-03-20 06:58:39.498
+1550,1475,dbt,Data Transformation,Advanced,5.9,false,2026-01-15,3.7,false,2026-03-20 06:58:39.498
+307,1357,Snowflake,Cloud Data Platform,Beginner,5.1,true,2025-08-26,2.4,false,2026-03-20 06:58:39.498
+1996,1419,React,Frontend,Expert,10.4,true,2025-06-10,2.5,false,2026-03-20 06:58:39.498
+594,1338,Apache Spark,Big Data,Beginner,3.8,false,2025-12-07,2.5,true,2026-03-20 06:58:39.498
+295,1182,PostgreSQL,Database,Expert,13.5,true,2025-12-23,2.2,false,2026-03-20 06:58:39.498
+1504,1170,Kubernetes,Container Orchestration,Intermediate,9.4,true,2025-06-25,4.1,true,2026-03-20 06:58:39.498
+1420,1448,Tableau,Visualization,Advanced,3.3,true,2026-02-10,3.6,true,2026-03-20 06:58:39.498
+1538,1097,Matillion,ETL,Intermediate,13.1,true,2025-05-10,5.0,false,2026-03-20 06:58:39.498
+1178,1235,Informatica,ETL,Beginner,2.4,true,2025-06-07,5.0,false,2026-03-20 06:58:39.498
+480,1117,Kafka,Streaming,Advanced,14.5,true,2025-08-27,2.6,false,2026-03-20 06:58:39.498
+246,1488,Airflow,Workflow Orchestration,Expert,8.3,false,2025-04-23,4.5,false,2026-03-20 06:58:39.498
+11109,1515,GCP,Cloud Platform,Expert,8.0,true,2026-03-16,4.7,true,2026-03-21 04:04:54.479
+1853,1371,JavaScript,Programming,Expert,6.1,true,2025-12-31,4.5,true,2026-03-20 06:58:39.498
+1505,1170,NLP,AI/ML,Advanced,8.2,false,2025-05-20,2.6,true,2026-03-20 06:58:39.498
+7,1131,Informatica,ETL,Beginner,7.1,false,2026-01-03,4.3,true,2026-03-20 06:58:39.498
+1840,1399,Talend,ETL,Advanced,5.6,false,2025-10-05,3.1,true,2026-03-20 06:58:39.498
+1395,1022,NLP,AI/ML,Beginner,3.1,false,2025-07-18,3.2,false,2026-03-20 06:58:39.498
+1166,1113,Airflow,Workflow Orchestration,Intermediate,0.9,false,2025-06-27,3.4,false,2026-03-20 06:58:39.498
+11134,1520,Databricks,Big Data,Expert,8.0,false,2026-03-08,4.7,true,2026-03-21 04:04:54.479
+1735,1382,Terraform,Infrastructure as Code,Expert,0.7,false,2025-06-21,2.9,true,2026-03-20 06:58:39.498
+304,1006,CI/CD,DevOps,Intermediate,14.9,true,2026-01-31,3.8,true,2026-03-20 06:58:39.498
+293,1032,BigQuery,Cloud Data Platform,Beginner,2.7,false,2026-02-27,2.5,false,2026-03-20 06:58:39.498
+1321,1023,Git,Version Control,Intermediate,8.0,true,2025-11-08,4.9,true,2026-03-20 06:58:39.498
+1850,1176,Databricks,Data Platform,Beginner,6.1,false,2025-10-29,2.5,true,2026-03-20 06:58:39.498
+1410,1342,Redshift,Cloud Data Platform,Advanced,0.7,false,2025-06-17,3.2,true,2026-03-20 06:58:39.498
+1566,1319,Airflow,Workflow Orchestration,Beginner,7.5,true,2025-12-06,2.7,true,2026-03-20 06:58:39.498
+1649,1165,Power BI,Visualization,Beginner,9.6,false,2025-11-05,4.2,false,2026-03-20 06:58:39.498
+1114,1259,CI/CD,DevOps,Intermediate,1.3,false,2025-06-24,4.2,false,2026-03-20 06:58:39.498
+1589,1140,Tableau,Visualization,Intermediate,8.0,true,2025-09-18,4.5,false,2026-03-20 06:58:39.498
+1717,1093,JavaScript,Programming,Beginner,8.9,false,2025-07-26,2.6,true,2026-03-20 06:58:39.498
+222,1362,Looker,Visualization,Beginner,11.0,false,2025-07-11,3.2,false,2026-03-20 06:58:39.498
+247,1488,Fivetran,Data Integration,Beginner,10.9,false,2025-06-14,2.9,true,2026-03-20 06:58:39.498
+1596,1001,Matillion,ETL,Advanced,9.5,false,2025-08-24,4.4,false,2026-03-20 06:58:39.498
+49,1232,CI/CD,DevOps,Expert,8.0,true,2026-02-12,3.6,false,2026-03-20 06:58:39.498
+1632,1432,Snowflake,Cloud Data Platform,Beginner,1.9,true,2025-07-28,3.3,false,2026-03-20 06:58:39.498
+1939,1081,Python,Programming,Intermediate,5.0,false,2025-09-10,2.7,true,2026-03-20 06:58:39.498
+532,1379,Azure,Cloud Platform,Expert,3.2,false,2026-02-04,2.1,false,2026-03-20 06:58:39.498
+14,1380,Redshift,Cloud Data Platform,Advanced,6.0,false,2026-03-10,2.5,false,2026-03-20 06:58:39.498
+1188,1498,Informatica,ETL,Advanced,2.7,false,2026-01-03,4.7,false,2026-03-20 06:58:39.498
+1117,1188,AWS,Cloud Platform,Expert,7.5,false,2025-09-04,4.6,false,2026-03-20 06:58:39.498
+185,1411,Terraform,Infrastructure as Code,Advanced,7.4,true,2026-02-13,2.0,true,2026-03-20 06:58:39.498
+11101,1513,Snowflake,Cloud Platform,Expert,8.0,true,2026-03-15,4.8,true,2026-03-21 04:04:54.479
+1627,1487,Matillion,ETL,Intermediate,14.0,false,2025-12-29,2.8,false,2026-03-20 06:58:39.498
+503,1253,Informatica,ETL,Intermediate,4.8,false,2026-01-29,3.9,true,2026-03-20 06:58:39.498
+407,1194,Deep Learning,AI/ML,Expert,9.0,false,2025-11-21,4.2,false,2026-03-20 06:58:39.498
+1899,1436,Apache Spark,Big Data,Advanced,13.8,false,2025-05-11,4.1,true,2026-03-20 06:58:39.498
+1855,1371,Azure,Cloud Platform,Advanced,2.0,false,2025-07-25,3.0,true,2026-03-20 06:58:39.498
+1749,1207,Redshift,Cloud Data Platform,Beginner,3.7,true,2025-08-15,2.8,false,2026-03-20 06:58:39.498
+1386,1098,React,Frontend,Beginner,9.5,false,2025-06-27,2.7,false,2026-03-20 06:58:39.498
+1786,1103,Linux,Operating System,Advanced,11.6,false,2025-09-09,4.8,true,2026-03-20 06:58:39.498
+11107,1514,Python,Programming,Expert,12.0,false,2026-03-18,4.8,true,2026-03-21 04:04:54.479
+2020,1497,Talend,ETL,Beginner,9.8,true,2025-12-01,4.2,false,2026-03-20 06:58:39.498
+1900,1184,Azure,Cloud Platform,Intermediate,10.3,true,2025-06-02,3.4,false,2026-03-20 06:58:39.498
+289,1406,NLP,AI/ML,Intermediate,6.9,false,2025-12-13,5.0,true,2026-03-20 06:58:39.498
+1597,1221,Python,Programming,Advanced,12.5,false,2025-08-17,4.8,false,2026-03-20 06:58:39.498
+149,1453,Kubernetes,Container Orchestration,Intermediate,4.2,false,2025-06-01,2.4,false,2026-03-20 06:58:39.498
+141,1449,Matillion,ETL,Beginner,12.9,false,2025-04-27,2.4,false,2026-03-20 06:58:39.498
+1487,1363,Python,Programming,Advanced,4.8,false,2025-03-23,4.5,false,2026-03-20 06:58:39.498
+45,1461,Power BI,Visualization,Beginner,13.4,false,2026-03-17,4.9,true,2026-03-20 06:58:39.498
+478,1421,GCP,Cloud Platform,Expert,4.1,false,2025-04-03,3.4,true,2026-03-20 06:58:39.498
+1204,1260,R,Programming,Beginner,5.9,false,2025-04-12,3.5,false,2026-03-20 06:58:39.498
+16,1380,Matillion,ETL,Intermediate,10.8,false,2025-12-02,2.2,false,2026-03-20 06:58:39.498
+1517,1218,Looker,Visualization,Advanced,14.5,true,2025-09-22,5.0,true,2026-03-20 06:58:39.498
+1611,1462,Scala,Programming,Intermediate,8.0,false,2025-04-27,3.5,false,2026-03-20 06:58:39.498
+11116,1516,Databricks,Big Data,Advanced,5.0,false,2026-02-28,4.4,true,2026-03-21 04:04:54.479
+1879,1279,Apache Spark,Big Data,Expert,13.0,false,2025-07-31,4.0,true,2026-03-20 06:58:39.498
+1689,1271,Redshift,Cloud Data Platform,Intermediate,12.9,false,2025-04-02,4.2,true,2026-03-20 06:58:39.498
+591,1338,CI/CD,DevOps,Advanced,5.8,true,2025-09-23,2.7,false,2026-03-20 06:58:39.498
+200,1366,SSIS,ETL,Beginner,10.4,true,2025-05-05,2.2,true,2026-03-20 06:58:39.498
+1322,1023,Scala,Programming,Expert,10.1,false,2025-04-02,3.4,false,2026-03-20 06:58:39.498
+269,1135,Machine Learning,AI/ML,Expert,7.9,false,2026-01-05,4.8,true,2026-03-20 06:58:39.498
+471,1274,Azure,Cloud Platform,Beginner,3.0,false,2025-08-20,3.4,false,2026-03-20 06:58:39.498
+207,1454,Deep Learning,AI/ML,Expert,4.0,true,2025-04-09,2.9,true,2026-03-20 06:58:39.498
+438,1104,MongoDB,NoSQL,Intermediate,10.3,true,2025-06-12,2.7,true,2026-03-20 06:58:39.498
+18,1392,Terraform,Infrastructure as Code,Advanced,9.8,true,2025-04-12,3.2,false,2026-03-20 06:58:39.498
+1506,1170,Git,Version Control,Beginner,5.1,false,2025-04-02,3.7,true,2026-03-20 06:58:39.498
+240,1493,PostgreSQL,Database,Advanced,3.4,false,2025-05-29,2.1,false,2026-03-20 06:58:39.498
+1388,1077,Git,Version Control,Expert,11.5,false,2026-02-27,2.3,true,2026-03-20 06:58:39.498
+2035,1407,SSIS,ETL,Advanced,2.2,false,2025-07-27,4.9,true,2026-03-20 06:58:39.498
+352,1107,Streamlit,App Development,Expert,2.7,false,2025-11-13,4.0,true,2026-03-20 06:58:39.498
+11143,1522,Azure,Cloud Platform,Expert,10.0,false,2026-03-10,4.7,true,2026-03-21 04:04:54.479
+11117,1517,Snowflake,Cloud Platform,Expert,7.0,true,2026-03-17,4.7,true,2026-03-21 04:04:54.479
+1303,1477,Qlik,Visualization,Expert,2.4,false,2025-04-04,4.8,true,2026-03-20 06:58:39.498
+1862,1156,Kafka,Streaming,Advanced,9.4,false,2026-01-29,3.3,true,2026-03-20 06:58:39.498
+11103,1513,AWS,Cloud Platform,Expert,9.5,false,2026-03-18,4.7,true,2026-03-21 04:04:54.479
+1148,1044,Informatica,ETL,Advanced,4.0,false,2025-10-04,3.9,true,2026-03-20 06:58:39.498
+530,1311,dbt,Data Transformation,Expert,10.6,false,2026-01-29,2.6,true,2026-03-20 06:58:39.498
+101,1364,Streamlit,App Development,Intermediate,5.9,true,2026-01-10,2.7,false,2026-03-20 06:58:39.498
+1285,1079,Git,Version Control,Expert,15.0,false,2025-07-09,2.7,true,2026-03-20 06:58:39.498
+11,1332,Java,Programming,Expert,7.2,false,2026-02-27,3.3,true,2026-03-20 06:58:39.498
+1300,1237,Power BI,Visualization,Expert,1.4,false,2026-01-16,4.2,true,2026-03-20 06:58:39.498
+1808,1145,Qlik,Visualization,Advanced,13.4,false,2025-11-24,2.1,true,2026-03-20 06:58:39.498
+424,1385,Git,Version Control,Beginner,7.0,false,2025-05-05,4.6,true,2026-03-20 06:58:39.498
+604,1427,Databricks,Data Platform,Intermediate,1.4,false,2025-03-30,2.5,false,2026-03-20 06:58:39.498
+355,1009,PostgreSQL,Database,Advanced,8.0,true,2025-10-11,2.8,false,2026-03-20 06:58:39.498
+1794,1209,Databricks,Data Platform,Advanced,8.8,true,2026-03-02,4.5,false,2026-03-20 06:58:39.498
+11148,1523,Informatica,ETL,Expert,10.0,false,2026-03-05,4.6,true,2026-03-21 04:04:54.479
+213,1365,Docker,Containerization,Expert,3.1,false,2025-12-03,3.0,false,2026-03-20 06:58:39.498
+2052,1071,Power BI,Visualization,Advanced,1.4,false,2025-09-22,2.1,true,2026-03-20 06:58:39.498
+549,1228,JavaScript,Programming,Intermediate,14.0,false,2025-08-23,4.2,true,2026-03-20 06:58:39.498
+1132,1053,Linux,Operating System,Beginner,11.9,false,2025-12-12,3.2,true,2026-03-20 06:58:39.498
+1638,1146,NLP,AI/ML,Beginner,6.3,true,2025-05-10,2.4,true,2026-03-20 06:58:39.498
+1211,1401,Tableau,Visualization,Advanced,13.0,false,2025-07-08,4.3,true,2026-03-20 06:58:39.498
+1363,1434,Tableau,Visualization,Advanced,0.7,false,2025-09-28,4.3,true,2026-03-20 06:58:39.498
+470,1274,Tableau,Visualization,Expert,7.5,true,2025-08-19,2.8,false,2026-03-20 06:58:39.498
+262,1210,Scala,Programming,Intermediate,3.4,false,2026-01-03,3.7,false,2026-03-20 06:58:39.498
+1572,1394,Linux,Operating System,Beginner,4.8,false,2025-06-29,3.1,true,2026-03-20 06:58:39.498
+1439,1433,Terraform,Infrastructure as Code,Beginner,13.1,true,2025-06-26,2.0,true,2026-03-20 06:58:39.498
+1906,1138,Sigma,Analytics,Beginner,4.5,true,2025-11-09,3.1,true,2026-03-20 06:58:39.498
+1418,1065,Sigma,Analytics,Expert,3.8,false,2025-09-09,3.8,true,2026-03-20 06:58:39.498
+2008,1174,Sigma,Analytics,Advanced,13.4,false,2025-09-21,2.4,true,2026-03-20 06:58:39.498
+1609,1462,Redshift,Cloud Data Platform,Advanced,14.7,true,2025-11-15,3.7,false,2026-03-20 06:58:39.498
+2013,1440,Deep Learning,AI/ML,Expert,9.5,false,2025-08-22,2.4,true,2026-03-20 06:58:39.498
+109,1261,Kubernetes,Container Orchestration,Advanced,4.1,true,2025-06-22,4.2,false,2026-03-20 06:58:39.498
+11136,1521,BigQuery,Cloud Platform,Expert,9.0,false,2026-03-16,4.8,true,2026-03-21 04:04:54.479
+1702,1211,Databricks,Data Platform,Advanced,11.2,true,2025-08-29,5.0,false,2026-03-20 06:58:39.498
+1676,1358,Databricks,Data Platform,Advanced,11.2,false,2025-11-04,3.6,true,2026-03-20 06:58:39.498
+1446,1314,Looker,Visualization,Expert,13.7,false,2025-05-01,2.3,true,2026-03-20 06:58:39.498
+1964,1479,Kubernetes,Container Orchestration,Beginner,9.0,false,2025-03-23,4.2,true,2026-03-20 06:58:39.498
+463,1471,Fivetran,Data Integration,Advanced,11.6,false,2025-04-30,2.9,true,2026-03-20 06:58:39.498
+1164,1113,SSIS,ETL,Advanced,1.9,false,2025-10-27,4.7,false,2026-03-20 06:58:39.498
+272,1080,R,Programming,Intermediate,10.2,false,2026-02-22,2.0,false,2026-03-20 06:58:39.498
+1788,1103,Power BI,Visualization,Expert,3.4,false,2025-09-28,2.0,false,2026-03-20 06:58:39.498
+362,1056,Power BI,Visualization,Intermediate,3.6,true,2025-05-25,2.2,true,2026-03-20 06:58:39.498
+1802,1052,Docker,Containerization,Intermediate,8.0,false,2026-01-28,4.5,true,2026-03-20 06:58:39.498
+326,1334,SQL,Database,Beginner,11.5,false,2025-12-09,4.1,false,2026-03-20 06:58:39.498
+1159,1166,Python,Programming,Intermediate,14.7,true,2025-06-21,4.0,true,2026-03-20 06:58:39.498
+6,1131,React,Frontend,Beginner,1.7,true,2026-01-11,4.6,true,2026-03-20 06:58:39.498
+1536,1200,BigQuery,Cloud Data Platform,Expert,5.8,false,2025-03-27,2.8,true,2026-03-20 06:58:39.498
+1640,1146,React,Frontend,Advanced,9.0,false,2025-08-14,4.7,false,2026-03-20 06:58:39.498
+1544,1087,Power BI,Visualization,Expert,7.6,false,2026-01-15,3.7,true,2026-03-20 06:58:39.498
+302,1119,GCP,Cloud Platform,Expert,1.2,false,2026-02-18,4.8,true,2026-03-20 06:58:39.498
+1648,1165,Deep Learning,AI/ML,Advanced,1.7,false,2025-10-25,4.7,true,2026-03-20 06:58:39.498
+11128,1519,Terraform,DevOps,Expert,7.0,false,2026-03-10,4.7,true,2026-03-21 04:04:54.479
+446,1003,Azure,Cloud Platform,Intermediate,7.4,false,2026-02-16,4.5,true,2026-03-20 06:58:39.498
+11132,1520,Python,Programming,Expert,16.0,false,2026-03-19,4.9,true,2026-03-21 04:04:54.479
+408,1194,Matillion,ETL,Advanced,10.5,false,2025-11-22,2.8,false,2026-03-20 06:58:39.498
+1323,1023,Kafka,Streaming,Beginner,14.0,false,2026-03-20,2.9,false,2026-03-20 06:58:39.498
+1599,1026,Terraform,Infrastructure as Code,Advanced,9.4,true,2025-09-04,2.6,true,2026-03-20 06:58:39.498
+11130,1520,Machine Learning,AI/ML,Expert,14.0,true,2026-03-18,5.0,true,2026-03-21 04:04:54.479
+393,1167,Kafka,Streaming,Beginner,11.9,false,2025-12-09,2.6,false,2026-03-20 06:58:39.498
+1394,1022,Tableau,Visualization,Expert,4.1,false,2025-05-14,2.0,true,2026-03-20 06:58:39.498
+2029,1455,Qlik,Visualization,Advanced,14.0,false,2025-11-30,4.4,true,2026-03-20 06:58:39.498
+1443,1314,MongoDB,NoSQL,Advanced,3.8,true,2025-07-14,4.3,true,2026-03-20 06:58:39.498
+236,1264,MongoDB,NoSQL,Advanced,10.8,false,2026-01-24,3.7,true,2026-03-20 06:58:39.498
+578,1198,Scala,Programming,Intermediate,9.1,false,2025-05-06,3.6,false,2026-03-20 06:58:39.498
+1477,1353,AWS,Cloud Platform,Expert,3.4,false,2025-11-10,4.5,false,2026-03-20 06:58:39.498
+1974,1196,Kafka,Streaming,Beginner,2.0,true,2026-02-10,3.8,true,2026-03-20 06:58:39.498
+1208,1189,Kafka,Streaming,Intermediate,6.1,false,2025-09-04,4.8,false,2026-03-20 06:58:39.498
+453,1111,Deep Learning,AI/ML,Beginner,2.5,false,2025-04-04,3.1,false,2026-03-20 06:58:39.498
+1360,1434,Machine Learning,AI/ML,Advanced,3.9,true,2025-12-24,4.6,false,2026-03-20 06:58:39.498
+209,1365,R,Programming,Beginner,1.6,false,2025-06-03,3.0,false,2026-03-20 06:58:39.498
+1520,1218,Python,Programming,Expert,12.4,false,2025-09-18,4.5,false,2026-03-20 06:58:39.498
+389,1325,Git,Version Control,Intermediate,12.6,true,2026-01-01,4.4,true,2026-03-20 06:58:39.498
+41,1008,Snowflake,Cloud Data Platform,Advanced,10.5,true,2025-04-06,3.0,true,2026-03-20 06:58:39.498
+1380,1047,Power BI,Visualization,Expert,7.5,true,2025-04-11,3.3,true,2026-03-20 06:58:39.498
+1135,1024,Azure,Cloud Platform,Expert,4.9,false,2025-06-29,4.1,true,2026-03-20 06:58:39.498
+1391,1022,Java,Programming,Advanced,12.8,false,2026-02-05,3.6,true,2026-03-20 06:58:39.498
+1154,1123,Qlik,Visualization,Expert,0.9,false,2025-08-19,4.9,false,2026-03-20 06:58:39.498
+52,1232,R,Programming,Intermediate,12.0,false,2025-11-02,4.8,true,2026-03-20 06:58:39.498
+1250,1136,NLP,AI/ML,Advanced,7.4,false,2025-12-19,3.6,false,2026-03-20 06:58:39.498
+1473,1428,AWS,Cloud Platform,Intermediate,4.1,true,2025-06-19,2.7,false,2026-03-20 06:58:39.498
+11108,1514,Azure,Cloud Platform,Advanced,6.0,false,2026-03-01,4.2,true,2026-03-21 04:04:54.479
+11123,1518,R,Programming,Advanced,7.5,false,2026-03-05,4.4,true,2026-03-21 04:04:54.479
+1400,1054,BigQuery,Cloud Data Platform,Expert,11.6,false,2025-06-22,2.9,true,2026-03-20 06:58:39.498
+11139,1521,Airflow,Orchestration,Expert,7.0,false,2026-03-05,4.5,true,2026-03-21 04:04:54.479
+1764,1491,Informatica,ETL,Expert,12.5,true,2025-11-18,3.4,true,2026-03-20 06:58:39.498
+164,1355,Databricks,Data Platform,Advanced,6.8,true,2026-03-16,2.8,true,2026-03-20 06:58:39.498
+1558,1390,AWS,Cloud Platform,Expert,2.0,false,2026-01-18,4.6,true,2026-03-20 06:58:39.498
+329,1284,Deep Learning,AI/ML,Expert,0.8,true,2025-06-12,2.9,false,2026-03-20 06:58:39.498
+297,1182,Snowflake,Cloud Data Platform,Intermediate,7.8,false,2025-05-14,2.0,false,2026-03-20 06:58:39.498
+1969,1231,Power BI,Visualization,Expert,1.0,true,2025-10-11,3.3,true,2026-03-20 06:58:39.498
+1665,1328,Looker,Visualization,Expert,14.6,false,2025-09-06,3.6,true,2026-03-20 06:58:39.498
+319,1503,SQL,Database,Beginner,12.0,true,2026-01-01,4.5,false,2026-03-20 06:58:39.498
+1803,1145,Redshift,Cloud Data Platform,Expert,1.6,true,2025-11-06,3.4,true,2026-03-20 06:58:39.498
+54,1157,Git,Version Control,Beginner,10.2,false,2025-04-18,5.0,false,2026-03-20 06:58:39.498
+2005,1413,Kafka,Streaming,Advanced,6.8,false,2025-05-14,2.2,true,2026-03-20 06:58:39.498
+11138,1521,Kafka,Streaming,Expert,8.0,false,2026-03-10,4.6,true,2026-03-21 04:04:54.479
+1122,1423,Power BI,Visualization,Expert,7.9,false,2025-06-28,3.2,true,2026-03-20 06:58:39.498
+1358,1276,CI/CD,DevOps,Advanced,8.9,true,2025-07-29,2.7,false,2026-03-20 06:58:39.498
+1590,1140,Machine Learning,AI/ML,Intermediate,12.9,false,2025-11-27,4.0,true,2026-03-20 06:58:39.498
+1661,1216,NLP,AI/ML,Expert,3.4,true,2025-12-28,2.1,false,2026-03-20 06:58:39.498
+40,1473,Matillion,ETL,Advanced,11.7,true,2025-08-12,3.8,true,2026-03-20 06:58:39.498
+119,1076,JavaScript,Programming,Intermediate,8.7,false,2025-07-17,4.0,true,2026-03-20 06:58:39.498
+423,1213,BigQuery,Cloud Data Platform,Advanced,10.3,false,2025-04-07,2.0,true,2026-03-20 06:58:39.498
+1925,1324,Terraform,Infrastructure as Code,Advanced,12.1,false,2026-01-28,3.3,false,2026-03-20 06:58:39.498
+226,1362,Redshift,Cloud Data Platform,Expert,11.6,false,2026-01-30,4.2,true,2026-03-20 06:58:39.498
+1341,1459,PostgreSQL,Database,Advanced,4.8,false,2025-11-01,4.9,true,2026-03-20 06:58:39.498
+11131,1520,Deep Learning,AI/ML,Expert,10.0,false,2026-03-15,4.9,true,2026-03-21 04:04:54.479
+601,1427,Deep Learning,AI/ML,Intermediate,7.9,true,2025-06-25,2.1,false,2026-03-20 06:58:39.498
+1483,1363,Airflow,Workflow Orchestration,Expert,13.5,true,2025-08-31,2.0,true,2026-03-20 06:58:39.498
+2024,1497,JavaScript,Programming,Expert,9.4,false,2025-08-18,4.7,true,2026-03-20 06:58:39.498
+374,1031,Kubernetes,Container Orchestration,Advanced,12.3,true,2025-08-31,3.9,true,2026-03-20 06:58:39.498
+1746,1403,Apache Spark,Big Data,Intermediate,4.1,false,2025-08-01,4.5,false,2026-03-20 06:58:39.498
+1280,1317,R,Programming,Expert,5.9,false,2025-05-18,3.4,false,2026-03-20 06:58:39.498
+467,1471,Kubernetes,Container Orchestration,Intermediate,6.9,false,2025-09-27,4.3,true,2026-03-20 06:58:39.498
+1584,1160,Azure,Cloud Platform,Expert,9.3,true,2025-10-02,3.3,false,2026-03-20 06:58:39.498
+1105,1300,Azure,Cloud Platform,Advanced,2.9,false,2026-01-27,4.3,true,2026-03-20 06:58:39.498
+1522,1369,Power BI,Visualization,Expert,13.1,false,2025-12-13,3.3,true,2026-03-20 06:58:39.498
+139,1449,Java,Programming,Intermediate,7.3,false,2025-08-10,2.1,true,2026-03-20 06:58:39.498
+1292,1241,Tableau,Visualization,Expert,14.7,false,2026-02-08,3.4,true,2026-03-20 06:58:39.498
+519,1304,AWS,Cloud Platform,Intermediate,11.5,false,2026-03-11,2.2,true,2026-03-20 06:58:39.498
+133,1445,Streamlit,App Development,Advanced,8.0,false,2025-07-09,3.5,true,2026-03-20 06:58:39.498
+138,1449,SQL,Database,Intermediate,10.9,true,2025-12-24,2.8,true,2026-03-20 06:58:39.498
+1723,1064,Talend,ETL,Intermediate,3.4,false,2025-08-25,2.0,true,2026-03-20 06:58:39.498
+444,1003,Python,Programming,Expert,15.0,true,2025-09-09,2.9,true,2026-03-20 06:58:39.498
+1999,1387,PostgreSQL,Database,Beginner,8.6,false,2025-08-01,3.1,true,2026-03-20 06:58:39.498
+1911,1011,GCP,Cloud Platform,Advanced,8.0,false,2025-12-31,3.6,false,2026-03-20 06:58:39.498
+1294,1241,Docker,Containerization,Expert,0.8,false,2026-01-02,3.4,true,2026-03-20 06:58:39.498
+1170,1069,Matillion,ETL,Advanced,3.7,true,2025-10-26,3.2,true,2026-03-20 06:58:39.498
+450,1111,BigQuery,Cloud Data Platform,Expert,3.5,true,2025-11-04,5.0,false,2026-03-20 06:58:39.498
+1738,1289,Kubernetes,Container Orchestration,Advanced,5.2,true,2025-07-24,2.1,false,2026-03-20 06:58:39.498
+189,1262,Tableau,Visualization,Expert,1.2,true,2025-11-24,3.7,false,2026-03-20 06:58:39.498
+1891,1045,Linux,Operating System,Advanced,8.9,true,2025-09-16,3.5,false,2026-03-20 06:58:39.498
+1461,1163,PostgreSQL,Database,Intermediate,11.6,true,2025-07-13,4.0,false,2026-03-20 06:58:39.498
+1194,1490,Linux,Operating System,Advanced,14.2,false,2025-06-20,4.8,false,2026-03-20 06:58:39.498
+1283,1079,Streamlit,App Development,Advanced,3.3,true,2026-02-07,4.4,false,2026-03-20 06:58:39.498
+218,1179,Apache Spark,Big Data,Beginner,10.1,false,2026-02-25,4.1,true,2026-03-20 06:58:39.498
+11114,1516,Python,Programming,Expert,13.0,false,2026-03-15,4.9,true,2026-03-21 04:04:54.479
+162,1050,Python,Programming,Beginner,11.7,false,2025-10-17,5.0,true,2026-03-20 06:58:39.498
+1907,1046,PostgreSQL,Database,Intermediate,11.2,true,2025-08-30,4.9,false,2026-03-20 06:58:39.498
+1530,1171,Tableau,Visualization,Expert,12.5,false,2026-02-24,2.9,true,2026-03-20 06:58:39.498
+1809,1256,CI/CD,DevOps,Intermediate,6.4,true,2025-10-05,3.3,true,2026-03-20 06:58:39.498
+1529,1171,Linux,Operating System,Advanced,5.7,true,2025-06-26,4.0,false,2026-03-20 06:58:39.498
+1601,1026,Looker,Visualization,Expert,10.4,false,2026-02-04,3.2,true,2026-03-20 06:58:39.498
+1942,1083,Git,Version Control,Expert,6.3,false,2025-04-20,3.2,false,2026-03-20 06:58:39.498
+1791,1089,Deep Learning,AI/ML,Advanced,13.3,true,2025-03-27,4.4,false,2026-03-20 06:58:39.498
+148,1453,Talend,ETL,Advanced,8.6,false,2025-11-10,4.4,false,2026-03-20 06:58:39.498
+1793,1405,Airflow,Workflow Orchestration,Expert,13.0,true,2025-04-04,4.7,true,2026-03-20 06:58:39.498
+1797,1389,Matillion,ETL,Expert,2.8,true,2025-09-26,3.1,false,2026-03-20 06:58:39.498
+1587,1160,Machine Learning,AI/ML,Advanced,1.6,false,2025-07-20,2.9,false,2026-03-20 06:58:39.498
+1235,1035,Machine Learning,AI/ML,Intermediate,4.2,false,2025-11-16,4.5,true,2026-03-20 06:58:39.498
+1495,1444,Python,Programming,Expert,5.2,false,2025-09-30,3.3,true,2026-03-20 06:58:39.498
+1137,1024,Informatica,ETL,Beginner,10.2,false,2025-08-22,2.9,true,2026-03-20 06:58:39.498
+1462,1163,Git,Version Control,Advanced,9.6,false,2025-11-27,2.5,false,2026-03-20 06:58:39.498
+1171,1069,Streamlit,App Development,Intermediate,8.5,false,2026-02-10,3.3,false,2026-03-20 06:58:39.498
+1508,1356,Databricks,Data Platform,Beginner,2.0,false,2026-02-27,4.3,false,2026-03-20 06:58:39.498
+364,1404,NLP,AI/ML,Beginner,9.2,false,2025-11-27,3.0,false,2026-03-20 06:58:39.498
+1727,1029,Tableau,Visualization,Advanced,5.3,false,2026-01-12,4.6,false,2026-03-20 06:58:39.498
+1412,1342,CI/CD,DevOps,Advanced,2.5,false,2025-06-20,2.9,false,2026-03-20 06:58:39.498
+1179,1235,CI/CD,DevOps,Expert,2.4,false,2025-08-19,2.1,true,2026-03-20 06:58:39.498
+1730,1029,Linux,Operating System,Expert,5.8,false,2025-12-03,3.3,true,2026-03-20 06:58:39.498
+1408,1342,SSRS,Analytics,Expert,4.9,false,2025-10-17,4.3,true,2026-03-20 06:58:39.498
+1652,1041,SSRS,Analytics,Intermediate,10.5,false,2026-02-18,4.6,false,2026-03-20 06:58:39.498
+1817,1499,GCP,Cloud Platform,Intermediate,3.7,false,2025-11-05,4.7,false,2026-03-20 06:58:39.498
+376,1028,Scala,Programming,Expert,3.1,true,2025-03-25,2.6,false,2026-03-20 06:58:39.498
+1710,1254,Streamlit,App Development,Expert,13.5,false,2025-10-14,4.6,false,2026-03-20 06:58:39.498
+1149,1044,R,Programming,Intermediate,7.8,false,2025-06-26,2.4,true,2026-03-20 06:58:39.498
+572,1004,PostgreSQL,Database,Advanced,14.6,false,2025-05-16,3.0,true,2026-03-20 06:58:39.498
+1972,1457,Streamlit,App Development,Beginner,5.1,false,2025-07-26,2.4,true,2026-03-20 06:58:39.498
+1704,1211,Apache Spark,Big Data,Expert,13.1,false,2025-11-27,4.0,false,2026-03-20 06:58:39.498
+1287,1295,Fivetran,Data Integration,Beginner,5.8,false,2025-09-08,2.3,false,2026-03-20 06:58:39.498
+143,1021,Machine Learning,AI/ML,Intermediate,14.4,true,2025-08-06,3.7,false,2026-03-20 06:58:39.498
+1126,1437,Java,Programming,Intermediate,6.9,true,2025-05-19,2.9,true,2026-03-20 06:58:39.498
+1405,1190,Python,Programming,Beginner,2.0,false,2025-08-12,4.4,true,2026-03-20 06:58:39.498
+1480,1315,Tableau,Visualization,Beginner,10.0,false,2025-12-05,2.0,true,2026-03-20 06:58:39.498
+1970,1231,Tableau,Visualization,Intermediate,7.7,false,2026-01-26,5.0,false,2026-03-20 06:58:39.498
+328,1334,Matillion,ETL,Expert,7.9,false,2025-10-26,4.9,true,2026-03-20 06:58:39.498
+1113,1259,Python,Programming,Advanced,3.7,true,2026-01-29,2.3,true,2026-03-20 06:58:39.498
+1157,1346,NLP,AI/ML,Expert,6.1,false,2025-12-20,2.0,false,2026-03-20 06:58:39.498
+1967,1226,Linux,Operating System,Advanced,6.5,false,2025-08-07,3.4,true,2026-03-20 06:58:39.498
+233,1002,Git,Version Control,Advanced,3.8,true,2025-08-04,4.1,false,2026-03-20 06:58:39.498
+1844,1463,R,Programming,Beginner,1.5,true,2025-09-04,2.3,false,2026-03-20 06:58:39.498
+1514,1017,Terraform,Infrastructure as Code,Beginner,6.1,false,2025-05-22,2.6,true,2026-03-20 06:58:39.498
+1901,1184,Kubernetes,Container Orchestration,Intermediate,10.8,false,2025-06-02,3.0,true,2026-03-20 06:58:39.498
+1957,1345,Fivetran,Data Integration,Beginner,11.1,false,2026-02-25,3.0,true,2026-03-20 06:58:39.498
+309,1357,Terraform,Infrastructure as Code,Intermediate,4.2,false,2025-11-19,4.4,true,2026-03-20 06:58:39.498
+1805,1145,Fivetran,Data Integration,Expert,1.3,false,2025-12-21,2.6,false,2026-03-20 06:58:39.498
+2034,1407,Matillion,ETL,Expert,10.8,false,2025-03-23,3.2,false,2026-03-20 06:58:39.498
+569,1102,Streamlit,App Development,Expert,12.4,false,2026-01-10,4.2,true,2026-03-20 06:58:39.498
+1866,1012,GCP,Cloud Platform,Advanced,4.7,true,2026-03-03,3.2,true,2026-03-20 06:58:39.498
+1739,1208,Python,Programming,Beginner,11.5,true,2026-03-12,4.1,true,2026-03-20 06:58:39.498
+12,1332,BigQuery,Cloud Data Platform,Expert,8.2,false,2026-03-01,2.2,true,2026-03-20 06:58:39.498
+1932,1015,Talend,ETL,Advanced,1.9,false,2025-08-26,4.5,false,2026-03-20 06:58:39.498
+405,1194,Looker,Visualization,Beginner,3.7,false,2025-06-06,3.6,false,2026-03-20 06:58:39.498
+1411,1342,GCP,Cloud Platform,Expert,3.7,false,2025-12-09,2.2,false,2026-03-20 06:58:39.498
+283,1505,Docker,Containerization,Expert,0.8,true,2025-11-12,2.1,true,2026-03-20 06:58:39.498
+1265,1059,CI/CD,DevOps,Expert,10.6,true,2025-03-27,5.0,true,2026-03-20 06:58:39.498
+1621,1361,CI/CD,DevOps,Beginner,3.7,true,2025-04-12,4.8,false,2026-03-20 06:58:39.498
+114,1261,dbt,Data Transformation,Advanced,0.9,false,2025-12-11,2.3,true,2026-03-20 06:58:39.498
+455,1446,React,Frontend,Advanced,1.2,true,2025-05-10,2.6,true,2026-03-20 06:58:39.498
+44,1008,Fivetran,Data Integration,Advanced,10.9,false,2025-05-06,2.9,true,2026-03-20 06:58:39.498
+264,1372,Snowflake,Cloud Data Platform,Expert,14.1,false,2025-12-15,2.9,false,2026-03-20 06:58:39.498
+1656,1381,dbt,Data Transformation,Beginner,6.9,true,2025-08-23,2.4,true,2026-03-20 06:58:39.498
+1509,1356,Redshift,Cloud Data Platform,Beginner,10.3,false,2025-07-10,4.0,true,2026-03-20 06:58:39.498
+388,1132,Java,Programming,Expert,1.4,false,2025-10-09,4.8,true,2026-03-20 06:58:39.498
+585,1485,dbt,Data Transformation,Expert,5.0,false,2025-04-10,2.6,false,2026-03-20 06:58:39.498
+1868,1012,Apache Spark,Big Data,Expert,8.4,false,2025-08-17,4.1,true,2026-03-20 06:58:39.498
+299,1119,Talend,ETL,Expert,7.9,true,2026-02-12,4.8,true,2026-03-20 06:58:39.498
+1860,1156,SQL,Database,Expert,5.6,false,2026-02-28,4.1,true,2026-03-20 06:58:39.498
+260,1210,PostgreSQL,Database,Expert,7.8,false,2025-04-26,4.7,false,2026-03-20 06:58:39.498
+462,1471,Apache Spark,Big Data,Expert,1.9,false,2025-12-30,3.9,true,2026-03-20 06:58:39.498
+1309,1511,Looker,Visualization,Advanced,0.6,true,2025-07-25,3.0,true,2026-03-20 06:58:39.498
+1951,1378,Streamlit,App Development,Expert,7.4,true,2025-12-22,4.8,false,2026-03-20 06:58:39.498
+183,1091,Power BI,Visualization,Expert,0.9,false,2025-09-29,3.0,false,2026-03-20 06:58:39.498
+590,1142,SSIS,ETL,Expert,14.8,true,2025-03-23,2.1,false,2026-03-20 06:58:39.498
+1453,1376,Linux,Operating System,Beginner,3.8,true,2026-01-14,4.0,true,2026-03-20 06:58:39.498
+257,1210,BigQuery,Cloud Data Platform,Beginner,9.2,true,2025-12-19,3.7,true,2026-03-20 06:58:39.498
+118,1076,R,Programming,Expert,10.1,false,2025-04-27,2.6,false,2026-03-20 06:58:39.498
+11127,1519,Python,Programming,Expert,15.0,false,2026-03-17,4.8,true,2026-03-21 04:04:54.479
+1345,1368,Airflow,Workflow Orchestration,Intermediate,8.6,false,2026-01-03,2.9,false,2026-03-20 06:58:39.498
+1905,1340,Machine Learning,AI/ML,Intermediate,5.6,true,2026-01-15,2.1,false,2026-03-20 06:58:39.498
+512,1082,Apache Spark,Big Data,Intermediate,13.8,false,2025-11-21,3.0,true,2026-03-20 06:58:39.498
+1742,1169,Terraform,Infrastructure as Code,Expert,11.3,true,2026-02-18,3.3,true,2026-03-20 06:58:39.498
+150,1453,dbt,Data Transformation,Intermediate,1.5,false,2025-04-06,2.8,false,2026-03-20 06:58:39.498
+1464,1374,SSRS,Analytics,Advanced,4.2,false,2025-07-22,3.4,false,2026-03-20 06:58:39.498
+1295,1393,SSRS,Analytics,Advanced,7.9,true,2026-02-07,2.0,true,2026-03-20 06:58:39.498
+135,1445,Redshift,Cloud Data Platform,Intermediate,8.4,false,2025-09-24,4.8,true,2026-03-20 06:58:39.498
+556,1203,Informatica,ETL,Beginner,5.4,false,2025-10-06,2.7,false,2026-03-20 06:58:39.498
+1874,1297,BigQuery,Cloud Data Platform,Advanced,7.4,false,2025-10-20,4.0,true,2026-03-20 06:58:39.498
+256,1025,GCP,Cloud Platform,Beginner,1.0,false,2025-12-17,3.7,false,2026-03-20 06:58:39.498
+1366,1294,Python,Programming,Advanced,14.8,false,2025-09-15,2.3,false,2026-03-20 06:58:39.498
+563,1102,Airflow,Workflow Orchestration,Expert,7.6,true,2025-06-23,2.3,true,2026-03-20 06:58:39.498
+1865,1233,Python,Programming,Expert,7.7,false,2025-05-16,3.9,true,2026-03-20 06:58:39.498
+1927,1070,Docker,Containerization,Expert,6.0,false,2026-01-08,2.4,true,2026-03-20 06:58:39.498
+126,1121,Snowflake,Cloud Data Platform,Beginner,12.1,false,2025-06-18,2.1,true,2026-03-20 06:58:39.498
+1877,1279,Looker,Visualization,Intermediate,8.8,false,2025-11-06,4.7,true,2026-03-20 06:58:39.498
+242,1495,Matillion,ETL,Intermediate,13.5,false,2025-04-25,4.4,true,2026-03-20 06:58:39.498
+493,1343,Docker,Containerization,Expert,12.8,true,2025-06-01,3.1,false,2026-03-20 06:58:39.498
+514,1082,R,Programming,Intermediate,4.7,false,2025-12-19,3.5,true,2026-03-20 06:58:39.498
+1241,1299,NLP,AI/ML,Expert,7.7,true,2026-02-03,4.6,true,2026-03-20 06:58:39.498
+1334,1187,Tableau,Visualization,Expert,6.7,false,2025-05-04,4.3,true,2026-03-20 06:58:39.498
+113,1261,Java,Programming,Beginner,2.4,false,2025-07-27,4.0,true,2026-03-20 06:58:39.498
+161,1050,AWS,Cloud Platform,Advanced,9.7,true,2025-12-30,2.1,true,2026-03-20 06:58:39.498
+1329,1092,Power BI,Visualization,Advanced,5.6,false,2025-07-22,4.2,true,2026-03-20 06:58:39.498
+1947,1224,Looker,Visualization,Expert,12.9,false,2025-08-25,3.1,false,2026-03-20 06:58:39.498
+1772,1318,Apache Spark,Big Data,Intermediate,14.0,true,2025-06-05,2.4,true,2026-03-20 06:58:39.498
+270,1135,Deep Learning,AI/ML,Advanced,8.8,false,2025-05-28,2.6,false,2026-03-20 06:58:39.498
+1239,1243,Scala,Programming,Advanced,5.1,false,2026-01-28,3.8,false,2026-03-20 06:58:39.498
+1472,1042,Kubernetes,Container Orchestration,Expert,10.9,true,2025-07-06,5.0,false,2026-03-20 06:58:39.498
+1822,1055,Terraform,Infrastructure as Code,Advanced,2.1,true,2026-01-03,2.9,true,2026-03-20 06:58:39.498
+1452,1313,Looker,Visualization,Intermediate,1.3,false,2025-06-06,4.2,false,2026-03-20 06:58:39.498
+26,1251,Terraform,Infrastructure as Code,Beginner,14.6,false,2025-05-15,5.0,true,2026-03-20 06:58:39.498
+1755,1312,BigQuery,Cloud Data Platform,Expert,11.3,false,2025-07-14,4.5,false,2026-03-20 06:58:39.498
+383,1034,SSIS,ETL,Expert,3.5,true,2025-11-09,2.7,true,2026-03-20 06:58:39.498
+1229,1033,React,Frontend,Intermediate,6.7,false,2025-08-09,3.7,true,2026-03-20 06:58:39.498
+1288,1112,React,Frontend,Expert,5.0,false,2025-12-10,4.1,false,2026-03-20 06:58:39.498
+1700,1158,Linux,Operating System,Expert,2.7,false,2025-03-31,4.2,false,2026-03-20 06:58:39.498
+1811,1256,Git,Version Control,Advanced,6.6,false,2025-10-08,2.9,false,2026-03-20 06:58:39.498
+1574,1161,AWS,Cloud Platform,Advanced,12.5,true,2026-01-27,4.2,false,2026-03-20 06:58:39.498
+168,1061,Databricks,Data Platform,Beginner,8.9,true,2026-01-05,4.8,false,2026-03-20 06:58:39.498
+1297,1206,Machine Learning,AI/ML,Advanced,4.8,true,2025-08-04,3.8,false,2026-03-20 06:58:39.498
+1340,1459,Power BI,Visualization,Expert,5.3,true,2025-08-23,4.5,true,2026-03-20 06:58:39.498
+11141,1522,Python,Programming,Expert,17.0,false,2026-03-19,5.0,true,2026-03-21 04:04:54.479
+1768,1204,MongoDB,NoSQL,Expert,0.6,true,2025-09-29,3.3,false,2026-03-20 06:58:39.498
+1398,1067,Informatica,ETL,Advanced,14.6,true,2025-08-18,2.8,true,2026-03-20 06:58:39.498
+1314,1511,Airflow,Workflow Orchestration,Advanced,6.9,false,2026-01-12,2.8,true,2026-03-20 06:58:39.498
+1507,1356,Java,Programming,Expert,2.8,true,2025-12-25,2.5,true,2026-03-20 06:58:39.498
+1875,1297,Kafka,Streaming,Intermediate,14.1,false,2025-09-19,2.3,true,2026-03-20 06:58:39.498
+1258,1429,Deep Learning,AI/ML,Beginner,8.2,true,2025-07-16,3.8,false,2026-03-20 06:58:39.498
+1275,1347,Snowflake,Cloud Data Platform,Expert,5.8,false,2025-04-16,4.1,true,2026-03-20 06:58:39.498
+1612,1309,Looker,Visualization,Beginner,2.0,true,2025-10-17,5.0,false,2026-03-20 06:58:39.498
+1419,1384,R,Programming,Advanced,13.6,true,2025-07-28,3.2,true,2026-03-20 06:58:39.498
+521,1057,Snowflake,Cloud Data Platform,Intermediate,10.6,false,2025-11-12,4.3,true,2026-03-20 06:58:39.498
+447,1003,Databricks,Data Platform,Intermediate,7.2,false,2026-02-03,4.5,true,2026-03-20 06:58:39.498
+1642,1146,Linux,Operating System,Intermediate,4.0,false,2026-01-19,3.5,false,2026-03-20 06:58:39.498
+1109,1302,SSIS,ETL,Intermediate,3.3,false,2025-08-17,2.9,true,2026-03-20 06:58:39.498
+1789,1103,Informatica,ETL,Beginner,13.0,false,2025-10-06,4.5,true,2026-03-20 06:58:39.498
+1207,1189,Deep Learning,AI/ML,Expert,4.3,true,2025-05-02,3.6,true,2026-03-20 06:58:39.498
+1912,1344,Fivetran,Data Integration,Expert,14.5,true,2025-05-28,3.9,false,2026-03-20 06:58:39.498
+2048,1071,JavaScript,Programming,Intermediate,12.7,true,2025-11-05,4.0,false,2026-03-20 06:58:39.498
+1210,1401,JavaScript,Programming,Expert,11.7,true,2025-07-20,4.2,false,2026-03-20 06:58:39.498
+1371,1134,Airflow,Workflow Orchestration,Beginner,8.4,true,2025-07-05,4.8,true,2026-03-20 06:58:39.498
+543,1124,Linux,Operating System,Expert,5.3,false,2025-09-29,4.6,false,2026-03-20 06:58:39.498
+11133,1520,Snowflake,Cloud Platform,Advanced,6.0,false,2026-03-12,4.5,true,2026-03-21 04:04:54.479
+433,1296,JavaScript,Programming,Advanced,4.5,false,2025-08-16,4.5,false,2026-03-20 06:58:39.498
+11149,1523,Fivetran,Data Integration,Advanced,4.0,false,2026-02-28,4.3,true,2026-03-21 04:04:54.479
+542,1124,AWS,Cloud Platform,Expert,10.8,false,2025-07-23,2.8,true,2026-03-20 06:58:39.498
+221,1362,Terraform,Infrastructure as Code,Expert,8.4,true,2025-05-13,2.4,true,2026-03-20 06:58:39.498
+1553,1027,Terraform,Infrastructure as Code,Advanced,10.7,false,2026-03-02,4.7,false,2026-03-20 06:58:39.498
+5,1501,GCP,Cloud Platform,Expert,13.2,false,2026-01-26,4.3,true,2026-03-20 06:58:39.498
+156,1094,MongoDB,NoSQL,Beginner,6.7,true,2026-01-23,2.7,true,2026-03-20 06:58:39.498
+11106,1514,Machine Learning,AI/ML,Expert,10.0,false,2026-03-14,4.9,true,2026-03-21 04:04:54.479
+1945,1224,Talend,ETL,Intermediate,10.6,true,2026-01-16,3.3,false,2026-03-20 06:58:39.498
+1124,1423,Apache Spark,Big Data,Intermediate,12.9,false,2025-06-25,3.2,false,2026-03-20 06:58:39.498
+579,1198,AWS,Cloud Platform,Expert,4.3,false,2026-03-11,2.4,true,2026-03-20 06:58:39.498
+1953,1248,GCP,Cloud Platform,Intermediate,7.0,true,2026-02-09,3.2,false,2026-03-20 06:58:39.498
+1743,1169,SSIS,ETL,Beginner,3.9,false,2026-01-22,3.2,true,2026-03-20 06:58:39.498
+1993,1420,Databricks,Data Platform,Advanced,12.1,false,2025-10-26,3.5,false,2026-03-20 06:58:39.498
+158,1094,dbt,Data Transformation,Advanced,1.4,false,2026-02-08,2.7,true,2026-03-20 06:58:39.498
+1869,1275,PostgreSQL,Database,Advanced,9.6,true,2026-02-22,3.7,true,2026-03-20 06:58:39.498
+379,1180,Python,Programming,Advanced,4.5,true,2025-09-02,2.3,true,2026-03-20 06:58:39.498
+1728,1029,Docker,Containerization,Expert,10.3,false,2025-04-10,2.0,false,2026-03-20 06:58:39.498
+220,1072,JavaScript,Programming,Advanced,7.7,true,2025-11-12,3.0,true,2026-03-20 06:58:39.498
+2031,1266,React,Frontend,Expert,14.7,false,2026-02-14,3.3,false,2026-03-20 06:58:39.498
+111,1261,Qlik,Visualization,Expert,13.2,false,2025-08-25,2.5,false,2026-03-20 06:58:39.498
+182,1091,Qlik,Visualization,Expert,4.2,true,2025-11-10,3.8,true,2026-03-20 06:58:39.498
+428,1385,Snowflake,Cloud Data Platform,Advanced,12.7,false,2025-12-13,4.1,false,2026-03-20 06:58:39.498
+11144,1522,Streamlit,Visualization,Advanced,3.0,false,2026-03-01,4.2,true,2026-03-21 04:04:54.479
+1734,1382,Informatica,ETL,Advanced,7.0,true,2026-02-21,2.1,true,2026-03-20 06:58:39.498
+48,1272,Power BI,Visualization,Expert,4.5,false,2025-08-05,2.1,false,2026-03-20 06:58:39.498
+1219,1426,Fivetran,Data Integration,Intermediate,11.6,false,2026-01-04,2.3,false,2026-03-20 06:58:39.498
+1421,1448,Deep Learning,AI/ML,Advanced,10.2,false,2025-08-31,3.1,true,2026-03-20 06:58:39.498
+496,1290,Java,Programming,Expert,15.0,false,2026-03-08,3.6,false,2026-03-20 06:58:39.498
+1894,1045,Docker,Containerization,Expert,13.3,false,2025-07-09,3.7,false,2026-03-20 06:58:39.498
+144,1021,Java,Programming,Beginner,11.3,false,2025-05-27,2.3,true,2026-03-20 06:58:39.498
+2044,1118,Azure,Cloud Platform,Expert,0.9,true,2025-07-17,4.7,true,2026-03-20 06:58:39.498
+46,1272,PostgreSQL,Database,Beginner,1.3,true,2025-07-21,3.8,false,2026-03-20 06:58:39.498
+1712,1267,SQL,Database,Expert,2.6,false,2025-05-01,4.8,false,2026-03-20 06:58:39.498
+401,1016,Talend,ETL,Expert,2.5,false,2025-12-12,2.3,true,2026-03-20 06:58:39.498
+325,1141,Informatica,ETL,Advanced,11.3,false,2025-08-27,2.1,false,2026-03-20 06:58:39.498
+1744,1169,Qlik,Visualization,Expert,9.1,false,2026-03-08,2.1,true,2026-03-20 06:58:39.498
+582,1415,Qlik,Visualization,Expert,13.0,true,2025-05-04,3.8,true,2026-03-20 06:58:39.498
+1435,1285,Informatica,ETL,Expert,8.3,true,2025-08-09,3.5,true,2026-03-20 06:58:39.498
+345,1417,Matillion,ETL,Expert,12.9,false,2025-09-29,4.0,true,2026-03-20 06:58:39.498
+1762,1152,React,Frontend,Expert,1.7,false,2026-01-10,2.7,true,2026-03-20 06:58:39.498
+573,1004,Docker,Containerization,Beginner,14.6,false,2025-04-14,2.7,false,2026-03-20 06:58:39.498
+38,1326,SQL,Database,Advanced,11.6,false,2025-08-12,3.5,false,2026-03-20 06:58:39.498
+140,1449,Snowflake,Cloud Data Platform,Expert,6.0,false,2026-03-04,3.6,true,2026-03-20 06:58:39.498
+1368,1282,Informatica,ETL,Expert,3.7,true,2026-01-22,3.6,true,2026-03-20 06:58:39.498
+504,1229,Machine Learning,AI/ML,Intermediate,9.1,true,2025-09-23,2.1,false,2026-03-20 06:58:39.498
+1403,1190,Java,Programming,Beginner,1.2,false,2025-12-27,3.3,false,2026-03-20 06:58:39.498
+566,1102,Redshift,Cloud Data Platform,Advanced,4.4,false,2025-07-31,2.0,true,2026-03-20 06:58:39.498
+172,1246,Docker,Containerization,Expert,0.9,false,2025-11-27,4.6,true,2026-03-20 06:58:39.498
+440,1104,Fivetran,Data Integration,Intermediate,3.6,false,2026-02-19,4.2,true,2026-03-20 06:58:39.498
+1748,1242,Tableau,Visualization,Intermediate,11.9,true,2025-07-19,4.3,false,2026-03-20 06:58:39.498
+194,1073,Azure,Cloud Platform,Advanced,3.7,false,2025-12-14,2.8,true,2026-03-20 06:58:39.498
+1835,1306,Snowflake,Cloud Data Platform,Intermediate,9.9,false,2025-03-27,4.4,false,2026-03-20 06:58:39.498
+1127,1458,Fivetran,Data Integration,Intermediate,8.8,true,2025-04-04,3.8,false,2026-03-20 06:58:39.498
+581,1000,Apache Spark,Big Data,Expert,2.7,false,2026-02-20,3.5,false,2026-03-20 06:58:39.498
+1423,1310,Informatica,ETL,Intermediate,8.0,true,2025-10-13,3.4,true,2026-03-20 06:58:39.498
+1990,1013,Snowflake,Cloud Data Platform,Advanced,7.4,false,2026-01-19,2.6,true,2026-03-20 06:58:39.498
+1687,1271,GCP,Cloud Platform,Expert,7.2,true,2025-12-20,3.9,true,2026-03-20 06:58:39.498
+511,1082,Kafka,Streaming,Expert,11.1,true,2025-12-26,2.5,false,2026-03-20 06:58:39.498
+1750,1040,NLP,AI/ML,Beginner,14.5,true,2025-08-08,2.4,false,2026-03-20 06:58:39.498
+1847,1176,Looker,Visualization,Intermediate,12.4,true,2025-08-07,4.9,false,2026-03-20 06:58:39.498
+112,1261,Apache Spark,Big Data,Advanced,2.9,false,2026-01-19,2.1,true,2026-03-20 06:58:39.498
+1312,1511,Redshift,Cloud Data Platform,Expert,12.8,false,2025-09-23,3.5,true,2026-03-20 06:58:39.498
+1276,1509,React,Frontend,Intermediate,7.3,false,2025-10-26,3.9,false,2026-03-20 06:58:39.498
+2003,1413,Java,Programming,Expert,11.8,true,2025-09-29,3.0,false,2026-03-20 06:58:39.498
+225,1362,Java,Programming,Expert,7.8,false,2025-11-26,3.3,true,2026-03-20 06:58:39.498
+600,1483,Matillion,ETL,Advanced,10.1,false,2026-01-18,3.1,false,2026-03-20 06:58:39.498
+1963,1479,Looker,Visualization,Beginner,13.4,false,2025-09-19,4.9,true,2026-03-20 06:58:39.498
+1376,1110,Apache Spark,Big Data,Intermediate,6.5,false,2025-05-14,3.5,true,2026-03-20 06:58:39.498
+313,1220,R,Programming,Expert,2.4,true,2025-08-28,3.4,true,2026-03-20 06:58:39.498
+507,1348,Streamlit,App Development,Beginner,2.1,false,2025-08-29,4.8,false,2026-03-20 06:58:39.498
+1725,1029,R,Programming,Expert,13.9,true,2025-09-16,4.0,true,2026-03-20 06:58:39.498
+1992,1420,CI/CD,DevOps,Beginner,12.9,false,2025-12-26,2.3,false,2026-03-20 06:58:39.498
+1918,1109,Azure,Cloud Platform,Advanced,6.0,true,2026-02-07,3.4,true,2026-03-20 06:58:39.498
+331,1058,Scala,Programming,Expert,10.9,false,2026-02-03,4.5,false,2026-03-20 06:58:39.498
+1308,1178,SQL,Database,Expert,10.6,false,2025-08-01,4.0,false,2026-03-20 06:58:39.498
+395,1167,Azure,Cloud Platform,Expert,6.7,false,2025-04-12,4.9,false,2026-03-20 06:58:39.498
+361,1010,React,Frontend,Expert,2.5,false,2026-03-20,2.7,true,2026-03-20 06:58:39.498
+1909,1011,SQL,Database,Advanced,6.4,true,2025-04-13,2.4,true,2026-03-20 06:58:39.498
+1131,1053,BigQuery,Cloud Data Platform,Beginner,8.2,false,2025-12-08,2.7,true,2026-03-20 06:58:39.498
+1751,1040,Looker,Visualization,Expert,6.9,false,2025-04-07,3.9,true,2026-03-20 06:58:39.498
+224,1362,Azure,Cloud Platform,Expert,4.9,false,2025-09-10,5.0,false,2026-03-20 06:58:39.498
+544,1124,JavaScript,Programming,Expert,10.5,false,2025-10-30,4.1,false,2026-03-20 06:58:39.498
+1336,1139,R,Programming,Expert,6.8,false,2026-03-04,3.1,true,2026-03-20 06:58:39.498
+1635,1283,Deep Learning,AI/ML,Expert,3.8,true,2025-06-11,3.8,true,2026-03-20 06:58:39.498
+1260,1429,Apache Spark,Big Data,Advanced,1.4,false,2025-12-12,4.2,true,2026-03-20 06:58:39.498
+248,1043,NLP,AI/ML,Expert,12.4,true,2025-10-31,2.8,false,2026-03-20 06:58:39.498
+2025,1095,NLP,AI/ML,Intermediate,3.2,false,2025-09-25,5.0,false,2026-03-20 06:58:39.498
+1593,1140,GCP,Cloud Platform,Beginner,8.4,false,2025-07-10,2.9,true,2026-03-20 06:58:39.498
+494,1290,SSIS,ETL,Beginner,3.1,true,2025-05-25,4.6,true,2026-03-20 06:58:39.498
+1259,1429,Azure,Cloud Platform,Expert,12.6,false,2025-08-16,3.1,true,2026-03-20 06:58:39.498
+36,1435,Apache Spark,Big Data,Intermediate,1.7,true,2025-07-15,4.1,true,2026-03-20 06:58:39.498
+414,1020,Streamlit,App Development,Beginner,9.0,false,2026-02-04,2.7,true,2026-03-20 06:58:39.498
+1214,1466,Airflow,Workflow Orchestration,Beginner,12.8,false,2025-10-01,2.7,true,2026-03-20 06:58:39.498
+1982,1143,Linux,Operating System,Expert,8.5,false,2025-08-07,4.9,true,2026-03-20 06:58:39.498
+439,1104,dbt,Data Transformation,Advanced,5.5,false,2026-01-23,3.6,true,2026-03-20 06:58:39.498
+1937,1496,Tableau,Visualization,Expert,3.6,false,2026-02-18,4.8,true,2026-03-20 06:58:39.498
+1981,1143,BigQuery,Cloud Data Platform,Expert,9.8,false,2026-01-11,4.3,false,2026-03-20 06:58:39.498
+11105,1514,Snowflake,Cloud Platform,Expert,7.5,true,2026-03-12,4.6,true,2026-03-21 04:04:54.479
+1112,1464,Scala,Programming,Expert,3.9,false,2026-01-27,2.0,true,2026-03-20 06:58:39.498
+1103,1333,Apache Spark,Big Data,Beginner,12.1,false,2026-01-15,4.3,true,2026-03-20 06:58:39.498
+1663,1328,Azure,Cloud Platform,Expert,2.5,true,2025-03-29,4.5,false,2026-03-20 06:58:39.498
+234,1002,CI/CD,DevOps,Expert,2.6,false,2025-12-06,4.2,false,2026-03-20 06:58:39.498
+448,1003,Matillion,ETL,Expert,13.9,false,2026-01-10,4.4,true,2026-03-20 06:58:39.498
+1798,1389,Machine Learning,AI/ML,Intermediate,11.4,false,2025-09-13,3.6,true,2026-03-20 06:58:39.498
+583,1415,Matillion,ETL,Intermediate,8.9,false,2026-01-05,2.7,true,2026-03-20 06:58:39.498
+1747,1403,Linux,Operating System,Intermediate,1.3,false,2026-02-08,2.6,true,2026-03-20 06:58:39.498
+1350,1439,Snowflake,Cloud Data Platform,Expert,13.8,false,2025-05-12,4.2,false,2026-03-20 06:58:39.498
+528,1311,Fivetran,Data Integration,Intermediate,8.3,false,2026-03-08,2.1,false,2026-03-20 06:58:39.498
+1281,1323,GCP,Cloud Platform,Expert,4.7,true,2025-05-03,4.3,true,2026-03-20 06:58:39.498
+1757,1152,BigQuery,Cloud Data Platform,Expert,12.9,true,2025-11-17,2.4,false,2026-03-20 06:58:39.498
+1347,1368,Scala,Programming,Advanced,6.2,false,2025-04-05,3.4,true,2026-03-20 06:58:39.498
+459,1471,SSIS,ETL,Expert,10.8,true,2026-01-10,4.2,true,2026-03-20 06:58:39.498
+1291,1241,JavaScript,Programming,Expert,5.1,true,2025-07-01,3.2,true,2026-03-20 06:58:39.498
+1933,1496,BigQuery,Cloud Data Platform,Expert,1.9,true,2025-03-22,2.5,true,2026-03-20 06:58:39.498
+1361,1434,Fivetran,Data Integration,Advanced,12.5,false,2025-12-25,2.9,false,2026-03-20 06:58:39.498
+115,1076,Terraform,Infrastructure as Code,Advanced,6.0,true,2025-09-27,3.5,false,2026-03-20 06:58:39.498
+311,1039,Machine Learning,AI/ML,Beginner,6.9,false,2026-01-25,2.0,true,2026-03-20 06:58:39.498
+1571,1394,GCP,Cloud Platform,Intermediate,14.4,false,2025-05-15,2.1,true,2026-03-20 06:58:39.498
+1518,1218,Kubernetes,Container Orchestration,Advanced,12.1,false,2025-12-20,2.2,true,2026-03-20 06:58:39.498
+1243,1320,Python,Programming,Advanced,7.1,false,2025-11-25,4.9,true,2026-03-20 06:58:39.498
+1622,1361,dbt,Data Transformation,Intermediate,11.3,false,2026-01-19,3.6,false,2026-03-20 06:58:39.498
+1486,1363,NLP,AI/ML,Expert,12.8,false,2026-02-28,4.9,true,2026-03-20 06:58:39.498
+1155,1346,Apache Spark,Big Data,Expert,8.6,true,2026-02-21,2.5,true,2026-03-20 06:58:39.498
+1120,1423,CI/CD,DevOps,Intermediate,11.5,true,2025-11-19,4.0,false,2026-03-20 06:58:39.498
+1377,1110,BigQuery,Cloud Data Platform,Intermediate,10.6,false,2025-05-17,3.0,false,2026-03-20 06:58:39.498
+1541,1222,Azure,Cloud Platform,Intermediate,9.3,false,2025-11-09,4.2,true,2026-03-20 06:58:39.498
+1889,1265,JavaScript,Programming,Beginner,6.5,false,2026-03-13,3.2,true,2026-03-20 06:58:39.498
+1977,1196,Deep Learning,AI/ML,Advanced,13.2,false,2026-03-20,4.1,false,2026-03-20 06:58:39.498
+1607,1396,SSIS,ETL,Advanced,11.6,true,2025-08-29,4.5,true,2026-03-20 06:58:39.498
+241,1495,Java,Programming,Expert,14.8,true,2025-10-22,4.8,false,2026-03-20 06:58:39.498
+472,1274,BigQuery,Cloud Data Platform,Expert,3.9,false,2025-06-29,5.0,true,2026-03-20 06:58:39.498
+1230,1035,Informatica,ETL,Intermediate,13.3,true,2025-09-13,2.6,true,2026-03-20 06:58:39.498
+1714,1267,Looker,Visualization,Expert,14.3,false,2026-02-14,5.0,true,2026-03-20 06:58:39.498
+1952,1378,SQL,Database,Expert,14.8,false,2025-11-19,2.3,true,2026-03-20 06:58:39.498
+11111,1515,Kafka,Streaming,Advanced,5.0,false,2026-02-20,4.3,true,2026-03-21 04:04:54.479
+1432,1049,Snowflake,Cloud Data Platform,Expert,14.7,false,2025-04-12,3.0,true,2026-03-20 06:58:39.498
+1740,1208,React,Frontend,Expert,10.0,false,2025-10-08,4.3,true,2026-03-20 06:58:39.498
+1555,1027,dbt,Data Transformation,Advanced,14.4,false,2025-07-16,4.5,true,2026-03-20 06:58:39.498
+1138,1286,Airflow,Workflow Orchestration,Advanced,1.3,true,2025-04-03,3.3,false,2026-03-20 06:58:39.498
+1227,1033,dbt,Data Transformation,Intermediate,13.8,false,2025-12-17,2.6,true,2026-03-20 06:58:39.498
+1190,1498,Power BI,Visualization,Advanced,13.5,false,2025-04-10,2.5,false,2026-03-20 06:58:39.498
+11113,1516,Deep Learning,AI/ML,Expert,9.0,true,2026-03-18,4.8,true,2026-03-21 04:04:54.479
+1919,1109,Informatica,ETL,Beginner,3.0,false,2025-08-07,2.0,false,2026-03-20 06:58:39.498
+1604,1336,Linux,Operating System,Intermediate,1.1,false,2025-10-26,3.9,true,2026-03-20 06:58:39.498
+34,1037,Machine Learning,AI/ML,Expert,13.1,false,2025-11-23,2.3,false,2026-03-20 06:58:39.498
+1670,1425,Informatica,ETL,Expert,14.1,false,2025-04-21,3.9,true,2026-03-20 06:58:39.498
+1254,1136,JavaScript,Programming,Expert,2.7,false,2025-09-25,4.6,false,2026-03-20 06:58:39.498
+1447,1314,Tableau,Visualization,Advanced,12.5,false,2025-03-20,2.3,true,2026-03-20 06:58:39.498
+1950,1224,Terraform,Infrastructure as Code,Advanced,6.7,false,2025-11-14,5.0,true,2026-03-20 06:58:39.498
+1547,1475,GCP,Cloud Platform,Intermediate,9.5,true,2025-04-25,3.9,true,2026-03-20 06:58:39.498
+1515,1129,Looker,Visualization,Intermediate,14.3,true,2025-07-25,2.9,true,2026-03-20 06:58:39.498
+1332,1187,AWS,Cloud Platform,Beginner,5.8,false,2026-03-07,3.2,true,2026-03-20 06:58:39.498
+1902,1184,dbt,Data Transformation,Intermediate,10.0,false,2025-05-02,2.6,false,2026-03-20 06:58:39.498
+1513,1017,Machine Learning,AI/ML,Expert,3.0,false,2025-04-16,3.3,false,2026-03-20 06:58:39.498
+1202,1412,dbt,Data Transformation,Advanced,13.4,false,2025-12-21,3.1,false,2026-03-20 06:58:39.498
+1161,1018,JavaScript,Programming,Advanced,10.1,false,2025-08-02,3.0,false,2026-03-20 06:58:39.498
+473,1274,dbt,Data Transformation,Expert,8.5,false,2026-02-19,3.2,true,2026-03-20 06:58:39.498
+570,1102,AWS,Cloud Platform,Expert,12.3,false,2025-04-10,3.9,true,2026-03-20 06:58:39.498
+367,1404,SSIS,ETL,Intermediate,7.2,false,2025-06-03,3.7,false,2026-03-20 06:58:39.498
+274,1245,dbt,Data Transformation,Beginner,8.0,false,2025-11-03,4.4,false,2026-03-20 06:58:39.498
+559,1115,GCP,Cloud Platform,Expert,7.5,true,2025-04-22,4.3,true,2026-03-20 06:58:39.498
+415,1408,Streamlit,App Development,Intermediate,14.2,false,2026-02-12,4.1,true,2026-03-20 06:58:39.498
+318,1424,Tableau,Visualization,Expert,7.5,true,2025-07-17,2.2,true,2026-03-20 06:58:39.498
+1882,1155,Linux,Operating System,Intermediate,14.9,false,2025-09-07,3.3,true,2026-03-20 06:58:39.498
+1623,1361,JavaScript,Programming,Expert,0.5,false,2025-07-13,2.4,true,2026-03-20 06:58:39.498
+1557,1390,Snowflake,Cloud Data Platform,Expert,2.5,true,2026-02-22,4.3,true,2026-03-20 06:58:39.498
+1359,1276,React,Frontend,Intermediate,14.5,false,2025-08-05,2.6,true,2026-03-20 06:58:39.498
+391,1325,Docker,Containerization,Beginner,6.0,false,2025-05-13,2.7,true,2026-03-20 06:58:39.498
+11154,1524,Scala,Programming,Advanced,8.0,false,2026-03-01,4.5,true,2026-03-21 04:04:54.479
+1191,1498,Qlik,Visualization,Advanced,1.9,false,2025-07-08,2.4,false,2026-03-20 06:58:39.498
+1338,1139,Machine Learning,AI/ML,Expert,10.4,false,2026-01-04,4.3,true,2026-03-20 06:58:39.498
+190,1019,Kubernetes,Container Orchestration,Expert,10.1,false,2025-11-08,3.4,false,2026-03-20 06:58:39.498
+1863,1233,Redshift,Cloud Data Platform,Intermediate,2.5,true,2025-09-12,2.3,false,2026-03-20 06:58:39.498
+1956,1345,MongoDB,NoSQL,Advanced,11.3,false,2025-12-03,2.5,false,2026-03-20 06:58:39.498
+575,1183,Redshift,Cloud Data Platform,Advanced,7.7,true,2026-02-24,3.2,true,2026-03-20 06:58:39.498
+27,1308,BigQuery,Cloud Data Platform,Advanced,14.2,false,2026-01-28,3.5,true,2026-03-20 06:58:39.498
+1542,1222,Informatica,ETL,Beginner,4.4,false,2025-11-17,2.0,true,2026-03-20 06:58:39.498
+1197,1490,Informatica,ETL,Expert,14.1,false,2025-06-16,5.0,false,2026-03-20 06:58:39.498
+1151,1044,Qlik,Visualization,Advanced,4.6,false,2025-04-19,2.0,false,2026-03-20 06:58:39.498
+1216,1466,Deep Learning,AI/ML,Advanced,1.9,false,2025-09-17,4.0,false,2026-03-20 06:58:39.498
+1883,1085,Apache Spark,Big Data,Beginner,7.0,true,2025-09-17,2.0,true,2026-03-20 06:58:39.498
+1826,1105,MongoDB,NoSQL,Expert,11.0,false,2025-04-11,4.6,false,2026-03-20 06:58:39.498
+1815,1256,SSIS,ETL,Expert,6.3,false,2025-07-17,2.0,false,2026-03-20 06:58:39.498
+2027,1455,PostgreSQL,Database,Expert,5.4,true,2026-02-18,4.6,true,2026-03-20 06:58:39.498
+1800,1052,Azure,Cloud Platform,Intermediate,1.0,true,2025-10-14,3.8,false,2026-03-20 06:58:39.498
+1187,1498,SSIS,ETL,Advanced,1.7,true,2025-05-24,2.8,true,2026-03-20 06:58:39.498
+1273,1347,Tableau,Visualization,Intermediate,11.3,true,2026-01-29,4.9,false,2026-03-20 06:58:39.498
+1592,1140,Scala,Programming,Expert,1.7,false,2025-08-28,2.3,true,2026-03-20 06:58:39.498
+1278,1317,PostgreSQL,Database,Beginner,2.6,false,2025-11-25,2.0,true,2026-03-20 06:58:39.498
+154,1230,Streamlit,App Development,Advanced,8.7,true,2025-04-29,4.1,true,2026-03-20 06:58:39.498
+1401,1217,PostgreSQL,Database,Beginner,8.2,true,2026-01-16,3.0,true,2026-03-20 06:58:39.498
+11145,1523,Snowflake,Cloud Platform,Expert,9.0,true,2026-03-19,4.9,true,2026-03-21 04:04:54.479
+421,1213,Terraform,Infrastructure as Code,Expert,10.6,false,2025-03-25,2.0,true,2026-03-20 06:58:39.498
+522,1057,JavaScript,Programming,Beginner,14.2,false,2025-06-13,3.3,false,2026-03-20 06:58:39.498
+1575,1161,JavaScript,Programming,Advanced,10.3,false,2025-11-23,4.7,true,2026-03-20 06:58:39.498
+1631,1151,Scala,Programming,Expert,7.8,true,2025-04-24,2.6,true,2026-03-20 06:58:39.498
+245,1495,Terraform,Infrastructure as Code,Expert,11.4,false,2025-05-29,4.9,true,2026-03-20 06:58:39.498
+11129,1519,Kubernetes,DevOps,Advanced,6.0,false,2026-03-05,4.5,true,2026-03-21 04:04:54.479
+400,1016,Kubernetes,Container Orchestration,Expert,6.3,true,2025-04-11,4.9,false,2026-03-20 06:58:39.498
+1494,1137,SQL,Database,Expert,13.6,true,2025-06-25,4.2,true,2026-03-20 06:58:39.498
+1570,1394,dbt,Data Transformation,Intermediate,9.5,true,2025-05-26,4.6,false,2026-03-20 06:58:39.498
+1934,1496,Scala,Programming,Intermediate,3.8,false,2025-08-05,2.1,true,2026-03-20 06:58:39.498
+134,1445,CI/CD,DevOps,Beginner,6.4,false,2025-06-10,2.8,false,2026-03-20 06:58:39.498
+1872,1275,Looker,Visualization,Expert,15.0,false,2025-08-12,2.2,true,2026-03-20 06:58:39.498
+358,1010,Snowflake,Cloud Data Platform,Expert,10.5,false,2026-01-22,2.7,true,2026-03-20 06:58:39.498
+1298,1237,Kafka,Streaming,Expert,13.5,false,2025-05-14,2.2,false,2026-03-20 06:58:39.498
+1881,1155,Matillion,ETL,Advanced,14.0,false,2025-05-16,3.9,true,2026-03-20 06:58:39.498
+1576,1161,GCP,Cloud Platform,Beginner,12.1,false,2026-01-10,2.3,false,2026-03-20 06:58:39.498
+548,1228,Talend,ETL,Advanced,2.6,false,2026-01-27,4.1,true,2026-03-20 06:58:39.498
+1203,1260,Fivetran,Data Integration,Intermediate,4.0,false,2025-09-24,4.7,false,2026-03-20 06:58:39.498
+1776,1409,Informatica,ETL,Intermediate,9.1,false,2026-02-28,3.3,false,2026-03-20 06:58:39.498
+31,1037,Snowflake,Cloud Data Platform,Advanced,4.1,false,2025-12-28,4.6,false,2026-03-20 06:58:39.498
+1995,1420,Kafka,Streaming,Advanced,6.0,false,2025-07-14,2.7,true,2026-03-20 06:58:39.498
+255,1398,Streamlit,App Development,Expert,6.0,false,2025-08-31,4.8,false,2026-03-20 06:58:39.498
+1174,1063,BigQuery,Cloud Data Platform,Expert,8.4,false,2025-07-18,2.4,true,2026-03-20 06:58:39.498
+,1513,ADF,ETL,Expert,6.5,false,2026-03-15,4.7,true,
+,1514,ADF,ETL,Advanced,5.0,false,2026-03-10,4.4,true,
+,1517,ADF,ETL,Expert,7.0,false,2026-03-18,4.8,true,
+,1519,ADF,ETL,Expert,8.5,true,2026-03-19,4.9,true,
+,1520,ADF,ETL,Advanced,5.5,false,2026-03-12,4.3,true,
+,1523,ADF,ETL,Expert,7.5,false,2026-03-17,4.8,true,
+,1222,ADF,ETL,Advanced,4.5,false,2026-03-08,4.2,true,
+,1314,ADF,ETL,Advanced,5.0,false,2026-03-05,4.3,true,
+,1362,ADF,ETL,Expert,6.0,false,2026-03-14,4.6,true,
+,1102,ADF,ETL,Advanced,4.0,false,2026-02-28,4.1,true,
+,1145,ADF,ETL,Expert,6.5,false,2026-03-10,4.5,true,
+,1167,ADF,ETL,Advanced,5.5,false,2026-03-12,4.4,true,
+,1320,SQL Server,Database,Advanced,5.0,false,2026-03-01,4.3,true,
+,1036,SQL Server,Database,Advanced,4.5,false,2026-03-06,4.2,true,
+,1047,SQL Server,Database,Intermediate,3.0,false,2026-02-20,3.8,true,
+,1014,SQL Server,Database,Intermediate,2.5,false,2026-02-15,3.6,true,
+,1147,ADF,ETL,Advanced,4.0,false,2026-03-08,4.1,true,
+,1350,ADF,ETL,Intermediate,3.5,false,2026-02-25,3.9,true,
+,1525,SQL,Database,Advanced,8.0,false,2026-03-18,4.3,true,
+,1525,Snowflake,Cloud Platform,Advanced,5.0,false,2026-03-15,4.1,true,
+,1525,Power BI,Visualization,Advanced,4.5,false,2026-03-10,4.0,true,
+,1526,Python,Programming,Intermediate,4.0,false,2026-03-12,3.8,true,
+,1526,Tableau,Visualization,Advanced,6.0,true,2026-03-18,4.4,true,
+,1526,SQL,Database,Advanced,7.5,false,2026-03-19,4.2,true,
+,1526,Snowflake,Cloud Platform,Intermediate,3.0,false,2026-03-05,3.7,true,
+,1527,AWS,Cloud Platform,Advanced,6.0,false,2026-03-16,4.2,true,
+,1527,SQL,Database,Expert,10.0,true,2026-03-19,4.6,true,
+,1527,Airflow,Orchestration,Intermediate,3.5,false,2026-03-08,3.9,true,
+,1527,ADF,ETL,Advanced,4.0,false,2026-03-14,4.1,true,
+,1528,Power BI,Visualization,Expert,7.0,true,2026-03-18,4.6,true,
+,1528,Machine Learning,AI/ML,Intermediate,3.0,false,2026-02-28,3.6,true,
+,1529,Snowflake,Cloud Platform,Expert,7.0,true,2026-03-19,4.8,true,
+,1529,SQL,Database,Expert,14.0,false,2026-03-18,4.9,true,
+,1529,AWS,Cloud Platform,Expert,10.0,false,2026-03-15,4.6,true,
+,1529,dbt,ETL,Advanced,4.0,false,2026-03-10,4.2,true,
+,1529,Power BI,Visualization,Advanced,6.0,false,2026-03-12,4.3,true,
+,1530,Python,Programming,Advanced,8.0,false,2026-03-17,4.4,true,
+,1530,Machine Learning,AI/ML,Advanced,7.0,true,2026-03-18,4.5,true,
+,1530,Tableau,Visualization,Expert,10.0,false,2026-03-19,4.7,true,
+,1530,SQL,Database,Expert,15.0,false,2026-03-16,4.8,true,
+,1530,Databricks,Big Data,Advanced,5.0,false,2026-03-08,4.2,true,
+,1531,Azure,Cloud Platform,Expert,9.0,true,2026-03-19,4.7,true,
+,1531,ADF,ETL,Expert,7.0,false,2026-03-15,4.6,true,
+,1531,SQL,Database,Expert,14.0,false,2026-03-18,4.8,true,
+,1531,Informatica,ETL,Advanced,6.0,false,2026-03-05,4.3,true,
+,1532,GCP,Cloud Platform,Expert,8.0,true,2026-03-18,4.6,true,
+,1532,BigQuery,Cloud Platform,Expert,7.0,false,2026-03-16,4.5,true,
+,1532,Looker,Visualization,Advanced,5.0,false,2026-03-12,4.3,true,
+,1532,SQL,Database,Expert,16.0,false,2026-03-19,4.9,true,
+,1532,Python,Programming,Advanced,9.0,false,2026-03-14,4.4,true,
+,1517,Prefect,Orchestration,Advanced,3.5,false,2026-03-14,4.2,true,
+,1514,Prefect,Orchestration,Advanced,3.0,false,2026-03-12,4.1,true,
+,1036,Astronomer,Orchestration,Intermediate,2.5,false,2026-03-06,3.8,true,
+,1264,Astronomer,Orchestration,Intermediate,2.0,false,2026-02-28,3.7,true,
+,1519,Openflow,ETL,Expert,7.0,false,2026-03-19,4.8,true,
+,1523,Openflow,ETL,Expert,6.5,false,2026-03-18,4.7,true,
+,1521,Openflow,ETL,Expert,5.5,false,2026-03-15,4.6,true,
+,1513,Openflow,ETL,Advanced,4.0,false,2026-03-17,4.3,true,
+,1222,Openflow,ETL,Advanced,4.0,false,2026-03-10,4.2,true,
+,1362,Openflow,ETL,Advanced,3.5,false,2026-03-08,4.0,true,
+,1145,Openflow,ETL,Expert,5.0,false,2026-03-16,4.5,true,
+,1320,Openflow,ETL,Advanced,4.0,false,2026-03-11,4.1,true,
+,1102,Openflow,ETL,Advanced,3.5,false,2026-03-05,4.0,true,
+,1167,Openflow,ETL,Advanced,3.0,false,2026-03-09,4.0,true,
+,1014,Openflow,ETL,Intermediate,2.0,false,2026-02-20,3.6,true,
+,1147,Openflow,ETL,Advanced,3.0,false,2026-03-08,4.0,true,
+,1350,Openflow,ETL,Intermediate,1.5,false,2026-02-15,3.5,true,
+,1529,Openflow,ETL,Expert,6.0,true,2026-03-19,4.7,true,
+,1531,Openflow,ETL,Advanced,4.5,false,2026-03-14,4.3,true,
+,1527,Openflow,ETL,Intermediate,2.0,false,2026-03-01,3.7,true,
+,1000,Data Modelling,Data Engineering,Expert,6.0,true,2026-03-01,9.0,true,
+,1002,Data Modelling,Data Engineering,Advanced,4.0,false,2026-02-15,8.0,true,
+,1004,Data Modelling,Data Engineering,Intermediate,2.0,false,2026-01-20,6.0,false,
+,1007,Data Modelling,Data Engineering,Advanced,5.0,true,2026-03-10,8.0,true,
+,1010,Data Modelling,Data Engineering,Expert,7.0,true,2026-03-15,9.0,true,
+,1000,Snowpark,Snowflake,Expert,3.0,true,2026-03-20,9.0,true,
+,1002,Snowpark,Snowflake,Advanced,2.0,false,2026-03-15,8.0,true,
+,1007,Snowpark,Snowflake,Advanced,2.0,false,2026-03-10,7.0,true,
+,1013,Snowpark,Snowflake,Intermediate,1.0,false,2026-02-20,6.0,false,
+,1018,Snowpark,Snowflake,Expert,3.0,true,2026-03-18,9.0,true,
+,1000,Snowpipe,Snowflake,Expert,4.0,false,2026-03-20,9.0,true,
+,1005,Snowpipe,Snowflake,Advanced,3.0,false,2026-03-12,8.0,true,
+,1010,Snowpipe,Snowflake,Advanced,2.0,false,2026-03-15,7.0,true,
+,1020,Snowpipe,Snowflake,Intermediate,1.0,false,2026-02-28,6.0,false,
+,1002,Cortex AI,Snowflake,Advanced,1.0,false,2026-03-20,8.0,true,
+,1006,Cortex AI,Snowflake,Intermediate,1.0,false,2026-03-10,6.0,false,
+,1018,Cortex AI,Snowflake,Expert,2.0,true,2026-03-22,9.0,true,
+,1026,Cortex AI,Snowflake,Advanced,1.0,false,2026-03-18,7.0,true,
+,1000,Data Warehousing,Data Engineering,Expert,7.0,true,2026-03-20,9.0,true,
+,1005,Data Warehousing,Data Engineering,Expert,6.0,true,2026-03-15,9.0,true,
+,1007,Data Warehousing,Data Engineering,Advanced,4.0,false,2026-03-10,8.0,true,
+,1010,Data Warehousing,Data Engineering,Advanced,5.0,false,2026-03-15,8.0,true,
+,1013,Data Warehousing,Data Engineering,Advanced,4.0,false,2026-03-05,7.0,true,
+,1018,Data Warehousing,Data Engineering,Expert,8.0,true,2026-03-22,9.0,true,
+,1020,Data Warehousing,Data Engineering,Intermediate,2.0,false,2026-02-28,6.0,false,
+,1026,Data Warehousing,Data Engineering,Expert,7.0,true,2026-03-20,9.0,true,
+,1000,ETL,Data Engineering,Expert,6.0,false,2026-03-20,9.0,true,
+,1002,ETL,Data Engineering,Advanced,4.0,false,2026-03-15,8.0,true,
+,1005,ETL,Data Engineering,Expert,5.0,false,2026-03-12,8.0,true,
+,1007,ETL,Data Engineering,Advanced,4.0,false,2026-03-10,7.0,true,
+,1011,ETL,Data Engineering,Intermediate,2.0,false,2026-02-20,6.0,false,
+,1013,ETL,Data Engineering,Advanced,3.0,false,2026-03-05,7.0,true,
+,1000,ELT,Data Engineering,Expert,4.0,false,2026-03-20,9.0,true,
+,1002,ELT,Data Engineering,Expert,3.0,false,2026-03-15,8.0,true,
+,1007,ELT,Data Engineering,Advanced,3.0,false,2026-03-10,7.0,true,
+,1018,ELT,Data Engineering,Expert,4.0,true,2026-03-22,9.0,true,
+,1005,Data Governance,Data Engineering,Advanced,3.0,false,2026-03-12,7.0,true,
+,1010,Data Governance,Data Engineering,Advanced,4.0,false,2026-03-15,8.0,true,
+,1018,Data Governance,Data Engineering,Expert,5.0,false,2026-03-22,9.0,true,
+,1026,Data Governance,Data Engineering,Expert,6.0,true,2026-03-20,9.0,true,
+,1003,Data Governance,Data Engineering,Intermediate,1.0,false,2026-02-10,5.0,false,
+,1000,Dynamic Tables,Snowflake,Advanced,1.0,false,2026-03-20,8.0,true,
+,1002,Dynamic Tables,Snowflake,Advanced,1.0,false,2026-03-15,7.0,true,
+,1018,Dynamic Tables,Snowflake,Expert,2.0,false,2026-03-22,9.0,true,
+,1007,Tasks and Streams,Snowflake,Advanced,2.0,false,2026-03-10,7.0,true,
+,1000,Tasks and Streams,Snowflake,Expert,3.0,false,2026-03-20,9.0,true,
+,1005,Tasks and Streams,Snowflake,Advanced,2.0,false,2026-03-12,7.0,true,
+,1018,Tasks and Streams,Snowflake,Expert,3.0,false,2026-03-22,9.0,true,
+,1002,Apache Iceberg,Data Engineering,Intermediate,1.0,false,2026-03-15,6.0,false,
+,1018,Apache Iceberg,Data Engineering,Advanced,2.0,false,2026-03-22,8.0,true,
+,1010,Apache Iceberg,Data Engineering,Advanced,1.0,false,2026-03-15,7.0,true,
+,1005,Data Quality,Data Engineering,Advanced,3.0,false,2026-03-12,8.0,true,
+,1010,Data Quality,Data Engineering,Expert,5.0,false,2026-03-15,9.0,true,
+,1013,Data Quality,Data Engineering,Advanced,3.0,false,2026-03-05,7.0,true,
+,1026,Data Quality,Data Engineering,Expert,4.0,true,2026-03-20,9.0,true,
+,1003,Data Quality,Data Engineering,Intermediate,1.0,false,2026-02-10,5.0,false,
+,1006,Native Apps,Snowflake,Intermediate,1.0,false,2026-03-10,6.0,false,
+,1018,Native Apps,Snowflake,Advanced,2.0,false,2026-03-22,8.0,true,
+,1026,Native Apps,Snowflake,Advanced,1.0,false,2026-03-20,7.0,true,
+,1000,REST API,Integration,Advanced,4.0,false,2026-03-20,8.0,true,
+,1002,REST API,Integration,Advanced,3.0,false,2026-03-15,7.0,true,
+,1011,REST API,Integration,Intermediate,2.0,false,2026-02-20,6.0,false,
+,1014,REST API,Integration,Advanced,3.0,false,2026-03-10,7.0,true,
+,1005,NoSQL,Database,Advanced,3.0,false,2026-03-12,7.0,true,
+,1008,NoSQL,Database,Intermediate,2.0,false,2026-02-15,6.0,false,
+,1011,NoSQL,Database,Advanced,4.0,false,2026-02-20,8.0,true,
+,1014,NoSQL,Database,Intermediate,1.0,false,2026-03-10,5.0,false,

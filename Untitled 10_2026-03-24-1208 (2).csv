@@ -1,0 +1,517 @@
+CERTIFICATION_ID,EMPLOYEE_ID,CERTIFICATION_NAME,ISSUING_ORGANIZATION,CERTIFICATION_CATEGORY,CERTIFICATION_DATE,EXPIRY_DATE,CERTIFICATION_STATUS,CREDENTIAL_ID,VERIFICATION_URL,COST_COVERED_BY,CREATED_AT
+7,1310,AWS Cloud Practitioner,Amazon,Cloud Platform,2025-09-21,2027-10-01,Active,CRED-254201,https://verify.example.com/724955,Self,2026-03-20 06:59:35.765
+578,1042,Scrum Master CSM,Scrum Alliance,Agile,2024-11-06,2026-03-22,Active,CRED-879326,https://verify.example.com/562769,Company,2026-03-20 06:59:35.765
+492,1230,Fivetran Partner Certification,Fivetran,Data Integration,2024-01-30,2026-10-18,Expired,CRED-949475,https://verify.example.com/437420,Company,2026-03-20 06:59:35.765
+191,1223,SnowPro Core,Snowflake,Cloud Data Platform,2026-01-02,2026-10-13,Expired,CRED-482235,https://verify.example.com/341096,Company,2026-03-20 06:59:35.765
+87,1109,Databricks Certified Data Engineer,Databricks,Data Platform,2024-10-09,2028-01-12,Expired,CRED-139267,https://verify.example.com/495305,Company,2026-03-20 06:59:35.765
+428,1319,AWS Cloud Practitioner,Amazon,Cloud Platform,2024-05-04,2027-05-31,In Progress,CRED-117160,https://verify.example.com/232146,Partial Reimbursement,2026-03-20 06:59:35.765
+534,1143,SnowPro Advanced Data Analyst,Snowflake,Cloud Data Platform,2026-02-15,2026-07-18,Expired,CRED-298926,https://verify.example.com/858979,Partial Reimbursement,2026-03-20 06:59:35.765
+436,1301,SnowPro Core,Snowflake,Cloud Data Platform,2025-11-28,2026-02-13,Renewal Due,CRED-593066,https://verify.example.com/218586,Partial Reimbursement,2026-03-20 06:59:35.765
+321,1472,SnowPro Advanced Architect,Snowflake,Cloud Data Platform,2023-12-29,2027-08-19,Expired,CRED-645292,https://verify.example.com/392651,Self,2026-03-20 06:59:35.765
+206,1195,Azure Data Engineer Associate,Microsoft,Cloud Platform,2025-03-20,2027-05-23,In Progress,CRED-342542,https://verify.example.com/182375,Company,2026-03-20 06:59:35.765
+376,1258,dbt Analytics Engineering,dbt Labs,Data Transformation,2026-01-25,2026-12-30,Active,CRED-293344,https://verify.example.com/998760,Self,2026-03-20 06:59:35.765
+164,1435,Databricks Certified ML Professional,Databricks,Data Platform,2025-10-12,2026-07-31,Expired,CRED-981841,https://verify.example.com/378505,Partial Reimbursement,2026-03-20 06:59:35.765
+635,1164,Azure Solutions Architect Expert,Microsoft,Cloud Platform,2025-03-11,2026-03-06,Expired,CRED-819539,https://verify.example.com/690232,Self,2026-03-20 06:59:35.765
+324,1017,Azure Data Engineer Associate,Microsoft,Cloud Platform,2024-08-25,2026-02-13,In Progress,CRED-199858,https://verify.example.com/371591,Partial Reimbursement,2026-03-20 06:59:35.765
+126,1054,Scrum Master CSM,Scrum Alliance,Agile,2025-06-21,2027-01-10,Renewal Due,CRED-775385,https://verify.example.com/669259,Company,2026-03-20 06:59:35.765
+160,1273,SnowPro Core,Snowflake,Cloud Data Platform,2025-09-18,2026-04-30,In Progress,CRED-985849,https://verify.example.com/136024,Self,2026-03-20 06:59:35.765
+343,1038,GCP Cloud Architect,Google,Cloud Platform,2024-08-13,2026-03-24,Expired,CRED-379301,https://verify.example.com/762410,Self,2026-03-20 06:59:35.765
+586,1414,Matillion Associate,Matillion,ETL,2025-06-26,2027-05-20,In Progress,CRED-975303,https://verify.example.com/748600,Company,2026-03-20 06:59:35.765
+485,1302,Matillion Associate,Matillion,ETL,2025-07-04,2027-05-21,Active,CRED-279673,https://verify.example.com/235560,Company,2026-03-20 06:59:35.765
+161,1333,SnowPro Advanced Architect,Snowflake,Cloud Data Platform,2025-04-27,2028-01-08,Expired,CRED-540086,https://verify.example.com/695015,Partial Reimbursement,2026-03-20 06:59:35.765
+74,1317,Scrum Master CSM,Scrum Alliance,Agile,2025-02-11,2027-09-20,Active,CRED-836364,https://verify.example.com/958772,Partial Reimbursement,2026-03-20 06:59:35.765
+443,1072,AWS Data Analytics Specialty,Amazon,Cloud Platform,2025-03-29,2027-08-11,Renewal Due,CRED-500332,https://verify.example.com/955703,Partial Reimbursement,2026-03-20 06:59:35.765
+468,1354,Azure Fundamentals,Microsoft,Cloud Platform,2025-07-09,2027-09-11,Active,CRED-118705,https://verify.example.com/329274,Company,2026-03-20 06:59:35.765
+36,1093,PMP,PMI,Project Management,2025-04-14,2027-08-15,Renewal Due,CRED-395311,https://verify.example.com/585008,Self,2026-03-20 06:59:35.765
+555,1252,Azure Data Engineer Associate,Microsoft,Cloud Platform,2023-12-30,2027-02-14,Renewal Due,CRED-811562,https://verify.example.com/985966,Self,2026-03-20 06:59:35.765
+327,1033,SnowPro Advanced Data Engineer,Snowflake,Cloud Data Platform,2025-12-02,2027-03-31,Expired,CRED-432030,https://verify.example.com/536357,Company,2026-03-20 06:59:35.765
+704,1116,Matillion Associate,Matillion,ETL,2026-02-10,2027-10-20,Active,CRED-558987,https://verify.example.com/665481,Partial Reimbursement,2026-03-20 06:59:35.765
+130,1278,SnowPro Advanced Architect,Snowflake,Cloud Data Platform,2024-04-14,2027-03-13,Active,CRED-358602,https://verify.example.com/602759,Partial Reimbursement,2026-03-20 06:59:35.765
+477,1241,SnowPro Advanced Data Analyst,Snowflake,Cloud Data Platform,2023-10-19,2026-11-13,In Progress,CRED-860754,https://verify.example.com/926361,Company,2026-03-20 06:59:35.765
+360,1424,SnowPro Advanced Data Engineer,Snowflake,Cloud Data Platform,2025-03-22,2026-01-30,Renewal Due,CRED-357981,https://verify.example.com/594432,Partial Reimbursement,2026-03-20 06:59:35.765
+42,1487,GCP Professional Data Engineer,Google,Cloud Platform,2025-06-01,2027-11-18,Renewal Due,CRED-198480,https://verify.example.com/543916,Partial Reimbursement,2026-03-20 06:59:35.765
+463,1194,SnowPro Advanced Architect,Snowflake,Cloud Data Platform,2023-08-25,2026-08-30,In Progress,CRED-369958,https://verify.example.com/827260,Partial Reimbursement,2026-03-20 06:59:35.765
+91,1245,dbt Analytics Engineering,dbt Labs,Data Transformation,2025-05-04,2026-12-13,In Progress,CRED-732342,https://verify.example.com/351415,Company,2026-03-20 06:59:35.765
+238,1200,dbt Analytics Engineering,dbt Labs,Data Transformation,2024-08-31,2026-11-21,Expired,CRED-639655,https://verify.example.com/394798,Partial Reimbursement,2026-03-20 06:59:35.765
+484,1302,Azure Fundamentals,Microsoft,Cloud Platform,2026-01-02,2027-08-25,Active,CRED-611650,https://verify.example.com/470836,Company,2026-03-20 06:59:35.765
+313,1408,dbt Analytics Engineering,dbt Labs,Data Transformation,2025-10-31,2027-05-06,Active,CRED-359880,https://verify.example.com/795498,Company,2026-03-20 06:59:35.765
+140,1173,AWS Data Analytics Specialty,Amazon,Cloud Platform,2025-11-15,2027-06-07,Renewal Due,CRED-764795,https://verify.example.com/911371,Self,2026-03-20 06:59:35.765
+96,1461,Informatica PowerCenter,Informatica,ETL,2025-07-19,2027-01-11,Renewal Due,CRED-252772,https://verify.example.com/451278,Partial Reimbursement,2026-03-20 06:59:35.765
+646,1365,Apache Kafka Certification,Confluent,Streaming,2023-10-12,2027-08-02,Renewal Due,CRED-983314,https://verify.example.com/778583,Company,2026-03-20 06:59:35.765
+438,1295,SnowPro Advanced Data Analyst,Snowflake,Cloud Data Platform,2025-05-26,2027-01-18,Expired,CRED-299195,https://verify.example.com/793682,Company,2026-03-20 06:59:35.765
+86,1299,Power BI Data Analyst,Microsoft,Visualization,2024-09-22,2027-06-03,Active,CRED-930885,https://verify.example.com/278541,Partial Reimbursement,2026-03-20 06:59:35.765
+270,1232,SnowPro Advanced Architect,Snowflake,Cloud Data Platform,2025-06-20,2027-12-31,In Progress,CRED-765321,https://verify.example.com/156295,Partial Reimbursement,2026-03-20 06:59:35.765
+170,1049,Power BI Data Analyst,Microsoft,Visualization,2024-03-11,2027-12-25,Active,CRED-817259,https://verify.example.com/400395,Partial Reimbursement,2026-03-20 06:59:35.765
+80,1377,Certified Kubernetes Administrator,CNCF,DevOps,2026-01-17,2026-03-01,Expired,CRED-438851,https://verify.example.com/613175,Company,2026-03-20 06:59:35.765
+392,1135,Azure Solutions Architect Expert,Microsoft,Cloud Platform,2025-08-14,2027-11-01,Renewal Due,CRED-393495,https://verify.example.com/628507,Self,2026-03-20 06:59:35.765
+268,1232,Informatica PowerCenter,Informatica,ETL,2025-05-31,2026-09-05,Expired,CRED-635099,https://verify.example.com/944847,Partial Reimbursement,2026-03-20 06:59:35.765
+25,1454,Certified Kubernetes Administrator,CNCF,DevOps,2025-12-04,2026-01-22,Expired,CRED-471377,https://verify.example.com/141941,Company,2026-03-20 06:59:35.765
+213,1467,Azure Data Engineer Associate,Microsoft,Cloud Platform,2023-10-19,2026-03-04,In Progress,CRED-158559,https://verify.example.com/655894,Self,2026-03-20 06:59:35.765
+455,1006,Tableau Desktop Specialist,Tableau,Visualization,2024-09-29,2028-03-03,Renewal Due,CRED-797886,https://verify.example.com/218697,Self,2026-03-20 06:59:35.765
+409,1356,Terraform Associate,HashiCorp,Infrastructure,2024-12-21,2027-11-07,Expired,CRED-580015,https://verify.example.com/191560,Company,2026-03-20 06:59:35.765
+639,1374,Fivetran Partner Certification,Fivetran,Data Integration,2025-02-26,2026-03-30,Active,CRED-551932,https://verify.example.com/806184,Partial Reimbursement,2026-03-20 06:59:35.765
+379,1181,PMP,PMI,Project Management,2025-08-13,2026-05-11,Active,CRED-500565,https://verify.example.com/899946,Partial Reimbursement,2026-03-20 06:59:35.765
+311,1044,Azure Solutions Architect Expert,Microsoft,Cloud Platform,2025-12-23,2026-06-04,Expired,CRED-438644,https://verify.example.com/603295,Company,2026-03-20 06:59:35.765
+286,1509,Databricks Certified Data Engineer,Databricks,Data Platform,2024-05-28,2026-06-25,Expired,CRED-641793,https://verify.example.com/501566,Company,2026-03-20 06:59:35.765
+478,1412,Azure Data Engineer Associate,Microsoft,Cloud Platform,2025-03-01,2026-03-13,Renewal Due,CRED-947549,https://verify.example.com/743891,Company,2026-03-20 06:59:35.765
+110,1140,Azure Data Engineer Associate,Microsoft,Cloud Platform,2024-12-28,2026-09-06,Renewal Due,CRED-575049,https://verify.example.com/754893,Partial Reimbursement,2026-03-20 06:59:35.765
+82,1429,SnowPro Advanced Data Analyst,Snowflake,Cloud Data Platform,2025-04-27,2026-06-13,Renewal Due,CRED-224530,https://verify.example.com/794915,Company,2026-03-20 06:59:35.765
+702,1069,Scrum Master CSM,Scrum Alliance,Agile,2025-03-26,2026-10-14,Renewal Due,CRED-259566,https://verify.example.com/682624,Company,2026-03-20 06:59:35.765
+264,1450,GCP Professional Data Engineer,Google,Cloud Platform,2024-08-21,2026-05-24,In Progress,CRED-955455,https://verify.example.com/333502,Company,2026-03-20 06:59:35.765
+198,1376,Databricks Certified ML Professional,Databricks,Data Platform,2023-11-25,2026-04-17,In Progress,CRED-472610,https://verify.example.com/755081,Partial Reimbursement,2026-03-20 06:59:35.765
+655,1138,PMP,PMI,Project Management,2024-05-16,2027-01-15,Renewal Due,CRED-798591,https://verify.example.com/921162,Partial Reimbursement,2026-03-20 06:59:35.765
+673,1264,Fivetran Partner Certification,Fivetran,Data Integration,2023-09-01,2028-03-06,Renewal Due,CRED-215961,https://verify.example.com/221528,Partial Reimbursement,2026-03-20 06:59:35.765
+408,1282,AWS Data Analytics Specialty,Amazon,Cloud Platform,2026-02-10,2027-09-27,In Progress,CRED-781625,https://verify.example.com/842380,Self,2026-03-20 06:59:35.765
+282,1309,Scrum Master CSM,Scrum Alliance,Agile,2025-07-26,2028-02-13,Expired,CRED-915653,https://verify.example.com/343745,Self,2026-03-20 06:59:35.765
+346,1038,SnowPro Advanced Data Engineer,Snowflake,Cloud Data Platform,2024-03-08,2027-07-17,Expired,CRED-143910,https://verify.example.com/494745,Company,2026-03-20 06:59:35.765
+283,1458,Terraform Associate,HashiCorp,Infrastructure,2025-11-05,2027-11-03,Expired,CRED-689498,https://verify.example.com/420666,Company,2026-03-20 06:59:35.765
+217,1014,SnowPro Advanced Architect,Snowflake,Cloud Data Platform,2025-04-25,2027-08-20,In Progress,CRED-230694,https://verify.example.com/871698,Partial Reimbursement,2026-03-20 06:59:35.765
+400,1046,AWS Data Analytics Specialty,Amazon,Cloud Platform,2024-04-15,2026-03-29,Renewal Due,CRED-502202,https://verify.example.com/415004,Partial Reimbursement,2026-03-20 06:59:35.765
+393,1462,Azure Solutions Architect Expert,Microsoft,Cloud Platform,2023-10-11,2028-01-24,Renewal Due,CRED-523586,https://verify.example.com/388487,Company,2026-03-20 06:59:35.765
+30,1291,Matillion Associate,Matillion,ETL,2025-10-15,2027-08-25,Active,CRED-448498,https://verify.example.com/777137,Self,2026-03-20 06:59:35.765
+289,1057,Databricks Certified Data Engineer,Databricks,Data Platform,2025-04-08,2027-07-26,Renewal Due,CRED-507785,https://verify.example.com/807218,Self,2026-03-20 06:59:35.765
+472,1158,SnowPro Core,Snowflake,Cloud Data Platform,2025-03-12,2027-06-26,Renewal Due,CRED-196087,https://verify.example.com/366683,Partial Reimbursement,2026-03-20 06:59:35.765
+446,1493,Informatica PowerCenter,Informatica,ETL,2024-07-09,2026-08-07,Renewal Due,CRED-642459,https://verify.example.com/697298,Company,2026-03-20 06:59:35.765
+236,1207,GCP Professional Data Engineer,Google,Cloud Platform,2025-07-28,2026-12-24,Active,CRED-591191,https://verify.example.com/872849,Self,2026-03-20 06:59:35.765
+108,1428,Tableau Desktop Specialist,Tableau,Visualization,2024-03-12,2026-03-21,Expired,CRED-425306,https://verify.example.com/866716,Self,2026-03-20 06:59:35.765
+378,1062,GCP Cloud Architect,Google,Cloud Platform,2025-04-24,2027-02-01,Expired,CRED-325323,https://verify.example.com/157961,Partial Reimbursement,2026-03-20 06:59:35.765
+207,1195,Apache Kafka Certification,Confluent,Streaming,2025-12-06,2027-10-21,Renewal Due,CRED-137789,https://verify.example.com/591330,Self,2026-03-20 06:59:35.765
+208,1183,PMP,PMI,Project Management,2023-12-20,2027-06-30,In Progress,CRED-197734,https://verify.example.com/758391,Company,2026-03-20 06:59:35.765
+452,1459,Scrum Master CSM,Scrum Alliance,Agile,2025-12-07,2026-09-12,In Progress,CRED-976667,https://verify.example.com/149520,Company,2026-03-20 06:59:35.765
+235,1119,Terraform Associate,HashiCorp,Infrastructure,2026-01-21,2027-07-21,In Progress,CRED-941527,https://verify.example.com/479130,Company,2026-03-20 06:59:35.765
+55,1479,GCP Cloud Architect,Google,Cloud Platform,2024-12-09,2026-12-25,Active,CRED-725890,https://verify.example.com/275238,Partial Reimbursement,2026-03-20 06:59:35.765
+169,1359,SnowPro Core,Snowflake,Cloud Data Platform,2025-02-13,2027-11-25,Active,CRED-954191,https://verify.example.com/364987,Self,2026-03-20 06:59:35.765
+444,1072,Azure Data Engineer Associate,Microsoft,Cloud Platform,2025-05-26,2026-08-14,Active,CRED-920358,https://verify.example.com/341579,Company,2026-03-20 06:59:35.765
+163,1030,SnowPro Advanced Data Analyst,Snowflake,Cloud Data Platform,2025-12-31,2026-07-31,In Progress,CRED-375033,https://verify.example.com/363970,Partial Reimbursement,2026-03-20 06:59:35.765
+669,1125,Matillion Associate,Matillion,ETL,2025-05-13,2026-08-11,Active,CRED-446577,https://verify.example.com/160053,Self,2026-03-20 06:59:35.765
+427,1420,Databricks Certified ML Professional,Databricks,Data Platform,2024-05-23,2027-09-15,In Progress,CRED-572541,https://verify.example.com/459649,Company,2026-03-20 06:59:35.765
+632,1343,SnowPro Core,Snowflake,Cloud Data Platform,2025-11-20,2026-06-25,Active,CRED-197940,https://verify.example.com/479386,Company,2026-03-20 06:59:35.765
+121,1355,Azure Fundamentals,Microsoft,Cloud Platform,2025-11-19,2027-07-23,In Progress,CRED-975412,https://verify.example.com/537207,Partial Reimbursement,2026-03-20 06:59:35.765
+328,1019,Databricks Certified ML Professional,Databricks,Data Platform,2025-04-01,2026-08-01,Active,CRED-224652,https://verify.example.com/979589,Partial Reimbursement,2026-03-20 06:59:35.765
+249,1321,Certified Kubernetes Administrator,CNCF,DevOps,2025-12-17,2026-09-16,Active,CRED-992820,https://verify.example.com/835143,Company,2026-03-20 06:59:35.765
+309,1292,Databricks Certified Data Engineer,Databricks,Data Platform,2024-11-25,2026-01-19,Expired,CRED-761654,https://verify.example.com/155181,Partial Reimbursement,2026-03-20 06:59:35.765
+33,1001,Informatica PowerCenter,Informatica,ETL,2025-02-12,2027-06-04,Expired,CRED-271423,https://verify.example.com/832178,Partial Reimbursement,2026-03-20 06:59:35.765
+70,1151,SnowPro Advanced Data Analyst,Snowflake,Cloud Data Platform,2025-11-11,2026-01-20,Renewal Due,CRED-407361,https://verify.example.com/201973,Self,2026-03-20 06:59:35.765
+624,1184,Terraform Associate,HashiCorp,Infrastructure,2023-10-22,2028-03-12,Active,CRED-351806,https://verify.example.com/842040,Partial Reimbursement,2026-03-20 06:59:35.765
+688,1091,Apache Kafka Certification,Confluent,Streaming,2025-05-24,2027-05-12,In Progress,CRED-516525,https://verify.example.com/856152,Self,2026-03-20 06:59:35.765
+240,1200,GCP Professional Data Engineer,Google,Cloud Platform,2023-07-07,2027-10-01,In Progress,CRED-454257,https://verify.example.com/415777,Self,2026-03-20 06:59:35.765
+413,1000,Fivetran Partner Certification,Fivetran,Data Integration,2025-03-26,2026-12-15,In Progress,CRED-466369,https://verify.example.com/148122,Self,2026-03-20 06:59:35.765
+244,1272,SnowPro Core,Snowflake,Cloud Data Platform,2024-06-18,2027-12-18,Active,CRED-901103,https://verify.example.com/180949,Partial Reimbursement,2026-03-20 06:59:35.765
+411,1356,Matillion Associate,Matillion,ETL,2025-02-15,2026-11-19,Expired,CRED-160029,https://verify.example.com/309202,Partial Reimbursement,2026-03-20 06:59:35.765
+626,1511,AWS Solutions Architect Associate,Amazon,Cloud Platform,2024-04-06,2027-06-10,Active,CRED-355535,https://verify.example.com/101335,Company,2026-03-20 06:59:35.765
+538,1447,AWS Solutions Architect Associate,Amazon,Cloud Platform,2025-04-29,2028-02-18,In Progress,CRED-415886,https://verify.example.com/149757,Partial Reimbursement,2026-03-20 06:59:35.765
+610,1097,SnowPro Advanced Data Engineer,Snowflake,Cloud Data Platform,2026-02-09,2027-05-20,In Progress,CRED-626728,https://verify.example.com/835351,Self,2026-03-20 06:59:35.765
+707,1027,SnowPro Advanced Data Engineer,Snowflake,Cloud Data Platform,2024-03-31,2027-03-20,Active,CRED-958091,https://verify.example.com/252496,Company,2026-03-20 06:59:35.765
+28,1438,Apache Kafka Certification,Confluent,Streaming,2026-02-01,2027-05-18,Expired,CRED-191810,https://verify.example.com/768086,Company,2026-03-20 06:59:35.765
+245,1272,Certified Kubernetes Administrator,CNCF,DevOps,2024-02-14,2027-08-10,Expired,CRED-963639,https://verify.example.com/953731,Self,2026-03-20 06:59:35.765
+554,1339,AWS Cloud Practitioner,Amazon,Cloud Platform,2025-11-07,2026-10-21,Renewal Due,CRED-682752,https://verify.example.com/279182,Self,2026-03-20 06:59:35.765
+336,1111,SnowPro Advanced Data Analyst,Snowflake,Cloud Data Platform,2024-03-10,2028-02-26,Renewal Due,CRED-890260,https://verify.example.com/887589,Company,2026-03-20 06:59:35.765
+162,1333,SnowPro Advanced Data Engineer,Snowflake,Cloud Data Platform,2025-10-26,2027-01-09,Expired,CRED-986941,https://verify.example.com/335248,Partial Reimbursement,2026-03-20 06:59:35.765
+118,1020,Azure Data Engineer Associate,Microsoft,Cloud Platform,2023-08-08,2027-07-22,Renewal Due,CRED-844249,https://verify.example.com/319228,Partial Reimbursement,2026-03-20 06:59:35.765
+569,1362,Azure Data Engineer Associate,Microsoft,Cloud Platform,2023-07-16,2027-08-30,Active,CRED-885273,https://verify.example.com/440447,Company,2026-03-20 06:59:35.765
+404,1204,Azure Data Engineer Associate,Microsoft,Cloud Platform,2025-09-22,2026-09-09,Expired,CRED-844526,https://verify.example.com/640522,Company,2026-03-20 06:59:35.765
+107,1428,Matillion Associate,Matillion,ETL,2025-06-19,2027-09-13,Renewal Due,CRED-885590,https://verify.example.com/207658,Company,2026-03-20 06:59:35.765
+220,1113,PMP,PMI,Project Management,2025-02-27,2027-06-28,Active,CRED-313192,https://verify.example.com/956888,Self,2026-03-20 06:59:35.765
+714,1104,Certified Kubernetes Administrator,CNCF,DevOps,2024-09-17,2027-07-19,Active,CRED-230433,https://verify.example.com/976722,Partial Reimbursement,2026-03-20 06:59:35.765
+525,1165,AWS Solutions Architect Associate,Amazon,Cloud Platform,2025-06-19,2026-06-08,Expired,CRED-817562,https://verify.example.com/606430,Company,2026-03-20 06:59:35.765
+90,1245,SnowPro Advanced Architect,Snowflake,Cloud Data Platform,2025-09-05,2026-04-14,In Progress,CRED-421562,https://verify.example.com/388281,Company,2026-03-20 06:59:35.765
+517,1490,Apache Kafka Certification,Confluent,Streaming,2025-07-21,2027-04-09,Expired,CRED-496219,https://verify.example.com/375250,Company,2026-03-20 06:59:35.765
+467,1354,dbt Analytics Engineering,dbt Labs,Data Transformation,2025-05-10,2028-01-08,Active,CRED-646015,https://verify.example.com/334751,Self,2026-03-20 06:59:35.765
+606,1025,AWS Solutions Architect Associate,Amazon,Cloud Platform,2025-12-14,2027-08-22,In Progress,CRED-531274,https://verify.example.com/516454,Partial Reimbursement,2026-03-20 06:59:35.765
+717,1316,Databricks Certified Data Engineer,Databricks,Data Platform,2024-01-10,2026-11-16,Expired,CRED-745152,https://verify.example.com/759574,Partial Reimbursement,2026-03-20 06:59:35.765
+314,1408,Azure Data Engineer Associate,Microsoft,Cloud Platform,2025-03-30,2026-03-23,Active,CRED-453566,https://verify.example.com/323516,Self,2026-03-20 06:59:35.765
+203,1085,GCP Cloud Architect,Google,Cloud Platform,2024-05-11,2028-01-23,Active,CRED-944918,https://verify.example.com/466221,Self,2026-03-20 06:59:35.765
+204,1398,Azure Data Engineer Associate,Microsoft,Cloud Platform,2025-07-02,2026-06-22,In Progress,CRED-681033,https://verify.example.com/754239,Company,2026-03-20 06:59:35.765
+585,1294,Apache Kafka Certification,Confluent,Streaming,2025-03-09,2027-12-02,Expired,CRED-818895,https://verify.example.com/500281,Self,2026-03-20 06:59:35.765
+188,1223,Azure Fundamentals,Microsoft,Cloud Platform,2025-03-14,2027-04-12,Renewal Due,CRED-585925,https://verify.example.com/706205,Self,2026-03-20 06:59:35.765
+689,1388,SnowPro Core,Snowflake,Cloud Data Platform,2024-11-30,2026-09-17,In Progress,CRED-845965,https://verify.example.com/521426,Partial Reimbursement,2026-03-20 06:59:35.765
+666,1048,SnowPro Advanced Data Engineer,Snowflake,Cloud Data Platform,2025-03-22,2026-06-26,In Progress,CRED-886822,https://verify.example.com/444232,Company,2026-03-20 06:59:35.765
+572,1477,SnowPro Core,Snowflake,Cloud Data Platform,2024-10-26,2026-02-12,Renewal Due,CRED-691482,https://verify.example.com/760719,Partial Reimbursement,2026-03-20 06:59:35.765
+176,1432,SnowPro Advanced Architect,Snowflake,Cloud Data Platform,2024-01-28,2027-01-08,Renewal Due,CRED-604283,https://verify.example.com/143023,Partial Reimbursement,2026-03-20 06:59:35.765
+334,1128,Apache Kafka Certification,Confluent,Streaming,2026-01-20,2027-03-26,Active,CRED-552019,https://verify.example.com/158293,Company,2026-03-20 06:59:35.765
+563,1191,AWS Solutions Architect Associate,Amazon,Cloud Platform,2025-05-11,2026-09-06,Active,CRED-452178,https://verify.example.com/294620,Partial Reimbursement,2026-03-20 06:59:35.765
+13,1391,AWS Cloud Practitioner,Amazon,Cloud Platform,2025-06-18,2026-10-25,Active,CRED-683172,https://verify.example.com/940461,Company,2026-03-20 06:59:35.765
+621,1389,Azure Data Engineer Associate,Microsoft,Cloud Platform,2023-09-15,2026-03-19,Active,CRED-484366,https://verify.example.com/107016,Company,2026-03-20 06:59:35.765
+119,1229,Databricks Certified ML Professional,Databricks,Data Platform,2024-08-02,2026-01-20,Expired,CRED-832953,https://verify.example.com/898704,Company,2026-03-20 06:59:35.765
+648,1371,Apache Kafka Certification,Confluent,Streaming,2025-03-12,2026-12-27,Expired,CRED-553145,https://verify.example.com/522524,Partial Reimbursement,2026-03-20 06:59:35.765
+111,1140,Terraform Associate,HashiCorp,Infrastructure,2025-08-15,2026-05-25,Expired,CRED-535826,https://verify.example.com/201391,Self,2026-03-20 06:59:35.765
+122,1214,Terraform Associate,HashiCorp,Infrastructure,2024-09-09,2026-10-26,Active,CRED-888055,https://verify.example.com/560062,Self,2026-03-20 06:59:35.765
+659,1226,Informatica PowerCenter,Informatica,ETL,2024-08-25,2026-11-22,Active,CRED-392323,https://verify.example.com/646117,Self,2026-03-20 06:59:35.765
+399,1046,Apache Kafka Certification,Confluent,Streaming,2024-07-05,2027-10-18,In Progress,CRED-984303,https://verify.example.com/435374,Partial Reimbursement,2026-03-20 06:59:35.765
+46,1247,Tableau Desktop Specialist,Tableau,Visualization,2024-05-25,2026-09-03,Renewal Due,CRED-983694,https://verify.example.com/328543,Self,2026-03-20 06:59:35.765
+480,1277,Databricks Certified Data Engineer,Databricks,Data Platform,2025-01-27,2026-06-09,Active,CRED-836975,https://verify.example.com/543466,Company,2026-03-20 06:59:35.765
+508,1328,Databricks Certified ML Professional,Databricks,Data Platform,2025-09-21,2027-10-22,In Progress,CRED-583453,https://verify.example.com/481184,Partial Reimbursement,2026-03-20 06:59:35.765
+362,1393,Terraform Associate,HashiCorp,Infrastructure,2025-09-28,2026-10-19,Active,CRED-985947,https://verify.example.com/716808,Partial Reimbursement,2026-03-20 06:59:35.765
+454,1459,SnowPro Advanced Architect,Snowflake,Cloud Data Platform,2024-10-16,2027-08-11,Renewal Due,CRED-396865,https://verify.example.com/356638,Partial Reimbursement,2026-03-20 06:59:35.765
+143,1173,GCP Cloud Architect,Google,Cloud Platform,2024-11-18,2028-01-01,Expired,CRED-920696,https://verify.example.com/298338,Partial Reimbursement,2026-03-20 06:59:35.765
+633,1343,Databricks Certified ML Professional,Databricks,Data Platform,2024-08-23,2026-06-04,Renewal Due,CRED-784165,https://verify.example.com/670180,Self,2026-03-20 06:59:35.765
+662,1023,Tableau Desktop Specialist,Tableau,Visualization,2025-08-17,2027-11-09,In Progress,CRED-937658,https://verify.example.com/711131,Partial Reimbursement,2026-03-20 06:59:35.765
+194,1178,GCP Cloud Architect,Google,Cloud Platform,2023-09-26,2026-09-02,Renewal Due,CRED-992835,https://verify.example.com/618582,Company,2026-03-20 06:59:35.765
+103,1051,Matillion Associate,Matillion,ETL,2023-06-28,2026-04-25,In Progress,CRED-326357,https://verify.example.com/241495,Partial Reimbursement,2026-03-20 06:59:35.765
+495,1153,Azure Fundamentals,Microsoft,Cloud Platform,2025-12-22,2026-11-15,Expired,CRED-812451,https://verify.example.com/421038,Self,2026-03-20 06:59:35.765
+694,1364,Databricks Certified Data Engineer,Databricks,Data Platform,2025-09-13,2027-11-02,Expired,CRED-478001,https://verify.example.com/472524,Company,2026-03-20 06:59:35.765
+387,1073,Azure Data Engineer Associate,Microsoft,Cloud Platform,2025-02-15,2026-01-20,In Progress,CRED-911971,https://verify.example.com/612012,Company,2026-03-20 06:59:35.765
+716,1316,AWS Data Analytics Specialty,Amazon,Cloud Platform,2024-12-03,2027-06-18,In Progress,CRED-730998,https://verify.example.com/846567,Company,2026-03-20 06:59:35.765
+68,1058,AWS Cloud Practitioner,Amazon,Cloud Platform,2025-10-08,2028-02-15,Renewal Due,CRED-798094,https://verify.example.com/546060,Company,2026-03-20 06:59:35.765
+338,1192,Scrum Master CSM,Scrum Alliance,Agile,2025-07-10,2026-03-03,Expired,CRED-342709,https://verify.example.com/284630,Partial Reimbursement,2026-03-20 06:59:35.765
+473,1039,SnowPro Advanced Data Engineer,Snowflake,Cloud Data Platform,2023-10-23,2027-09-20,Active,CRED-274771,https://verify.example.com/297682,Partial Reimbursement,2026-03-20 06:59:35.765
+226,1077,Tableau Desktop Specialist,Tableau,Visualization,2023-09-10,2026-06-30,In Progress,CRED-160607,https://verify.example.com/730226,Partial Reimbursement,2026-03-20 06:59:35.765
+625,1184,Databricks Certified Data Engineer,Databricks,Data Platform,2024-02-29,2026-10-18,Renewal Due,CRED-146362,https://verify.example.com/266557,Partial Reimbursement,2026-03-20 06:59:35.765
+683,1203,Azure Fundamentals,Microsoft,Cloud Platform,2024-10-20,2027-11-06,Renewal Due,CRED-641937,https://verify.example.com/301181,Company,2026-03-20 06:59:35.765
+101,1051,Azure Solutions Architect Expert,Microsoft,Cloud Platform,2023-06-26,2026-11-09,Expired,CRED-732760,https://verify.example.com/326432,Self,2026-03-20 06:59:35.765
+365,1393,AWS Solutions Architect Associate,Amazon,Cloud Platform,2026-02-01,2027-03-09,In Progress,CRED-487160,https://verify.example.com/730250,Partial Reimbursement,2026-03-20 06:59:35.765
+431,1512,AWS Cloud Practitioner,Amazon,Cloud Platform,2025-12-18,2026-04-10,Active,CRED-198032,https://verify.example.com/225119,Partial Reimbursement,2026-03-20 06:59:35.765
+712,1104,Azure Solutions Architect Expert,Microsoft,Cloud Platform,2024-12-25,2027-09-13,Active,CRED-626296,https://verify.example.com/632431,Company,2026-03-20 06:59:35.765
+366,1018,SnowPro Core,Snowflake,Cloud Data Platform,2024-11-09,2026-01-25,Active,CRED-368058,https://verify.example.com/956499,Self,2026-03-20 06:59:35.765
+64,1358,SnowPro Advanced Architect,Snowflake,Cloud Data Platform,2025-11-30,2027-05-26,In Progress,CRED-284238,https://verify.example.com/379263,Partial Reimbursement,2026-03-20 06:59:35.765
+440,1029,AWS Cloud Practitioner,Amazon,Cloud Platform,2024-05-07,2027-07-18,Expired,CRED-519503,https://verify.example.com/983134,Self,2026-03-20 06:59:35.765
+300,1448,Azure Data Engineer Associate,Microsoft,Cloud Platform,2024-05-21,2027-11-09,Renewal Due,CRED-657118,https://verify.example.com/132277,Partial Reimbursement,2026-03-20 06:59:35.765
+168,1324,Scrum Master CSM,Scrum Alliance,Agile,2025-05-06,2026-06-15,Renewal Due,CRED-639164,https://verify.example.com/546268,Company,2026-03-20 06:59:35.765
+661,1023,SnowPro Advanced Data Analyst,Snowflake,Cloud Data Platform,2025-04-02,2027-09-23,Expired,CRED-955342,https://verify.example.com/442930,Self,2026-03-20 06:59:35.765
+88,1245,Apache Kafka Certification,Confluent,Streaming,2025-02-15,2026-06-08,Expired,CRED-708157,https://verify.example.com/784668,Self,2026-03-20 06:59:35.765
+501,1130,Tableau Desktop Specialist,Tableau,Visualization,2024-06-29,2026-05-11,Renewal Due,CRED-197350,https://verify.example.com/202237,Self,2026-03-20 06:59:35.765
+608,1208,Fivetran Partner Certification,Fivetran,Data Integration,2023-11-29,2027-11-15,In Progress,CRED-981153,https://verify.example.com/162222,Self,2026-03-20 06:59:35.765
+619,1340,GCP Cloud Architect,Google,Cloud Platform,2024-06-24,2026-02-02,Renewal Due,CRED-387241,https://verify.example.com/226813,Self,2026-03-20 06:59:35.765
+524,1165,dbt Analytics Engineering,dbt Labs,Data Transformation,2024-09-01,2027-04-19,Renewal Due,CRED-356288,https://verify.example.com/365855,Company,2026-03-20 06:59:35.765
+658,1015,dbt Analytics Engineering,dbt Labs,Data Transformation,2024-11-13,2027-08-12,In Progress,CRED-888000,https://verify.example.com/329081,Self,2026-03-20 06:59:35.765
+641,1374,Tableau Desktop Specialist,Tableau,Visualization,2025-03-01,2027-04-06,Active,CRED-689734,https://verify.example.com/498578,Self,2026-03-20 06:59:35.765
+471,1158,Certified Kubernetes Administrator,CNCF,DevOps,2025-12-14,2026-03-25,In Progress,CRED-675512,https://verify.example.com/911084,Partial Reimbursement,2026-03-20 06:59:35.765
+429,1174,Scrum Master CSM,Scrum Alliance,Agile,2023-08-20,2027-02-05,In Progress,CRED-340357,https://verify.example.com/948410,Self,2026-03-20 06:59:35.765
+421,1405,Apache Kafka Certification,Confluent,Streaming,2025-07-11,2027-11-07,Expired,CRED-744249,https://verify.example.com/822213,Self,2026-03-20 06:59:35.765
+260,1363,Fivetran Partner Certification,Fivetran,Data Integration,2025-09-17,2027-12-26,Expired,CRED-964127,https://verify.example.com/167652,Partial Reimbursement,2026-03-20 06:59:35.765
+294,1267,Apache Kafka Certification,Confluent,Streaming,2026-01-15,2026-12-06,Expired,CRED-785317,https://verify.example.com/516638,Self,2026-03-20 06:59:35.765
+653,1270,Power BI Data Analyst,Microsoft,Visualization,2026-01-02,2027-03-22,Active,CRED-998236,https://verify.example.com/706686,Company,2026-03-20 06:59:35.765
+135,1392,Azure Data Engineer Associate,Microsoft,Cloud Platform,2024-11-20,2027-12-19,Renewal Due,CRED-636883,https://verify.example.com/158724,Partial Reimbursement,2026-03-20 06:59:35.765
+418,1338,Terraform Associate,HashiCorp,Infrastructure,2026-02-10,2026-08-19,Renewal Due,CRED-583599,https://verify.example.com/587742,Company,2026-03-20 06:59:35.765
+630,1313,Terraform Associate,HashiCorp,Infrastructure,2025-09-26,2027-04-11,Renewal Due,CRED-708699,https://verify.example.com/996883,Self,2026-03-20 06:59:35.765
+398,1092,SnowPro Advanced Data Engineer,Snowflake,Cloud Data Platform,2025-04-05,2026-11-28,In Progress,CRED-377257,https://verify.example.com/482436,Partial Reimbursement,2026-03-20 06:59:35.765
+700,1069,Power BI Data Analyst,Microsoft,Visualization,2025-09-22,2028-02-05,Renewal Due,CRED-527333,https://verify.example.com/479413,Self,2026-03-20 06:59:35.765
+278,1118,Matillion Associate,Matillion,ETL,2023-12-26,2027-03-27,Renewal Due,CRED-867665,https://verify.example.com/447617,Partial Reimbursement,2026-03-20 06:59:35.765
+83,1418,Certified Kubernetes Administrator,CNCF,DevOps,2024-03-15,2027-03-09,Renewal Due,CRED-337205,https://verify.example.com/329011,Partial Reimbursement,2026-03-20 06:59:35.765
+113,1290,SnowPro Advanced Architect,Snowflake,Cloud Data Platform,2024-12-12,2027-07-08,Renewal Due,CRED-605556,https://verify.example.com/179059,Self,2026-03-20 06:59:35.765
+401,1046,SnowPro Advanced Data Analyst,Snowflake,Cloud Data Platform,2024-04-28,2026-07-05,In Progress,CRED-790923,https://verify.example.com/654653,Company,2026-03-20 06:59:35.765
+536,1442,Power BI Data Analyst,Microsoft,Visualization,2024-06-27,2026-10-22,Expired,CRED-477504,https://verify.example.com/284706,Company,2026-03-20 06:59:35.765
+638,1169,Databricks Certified Data Engineer,Databricks,Data Platform,2025-03-06,2027-10-15,Renewal Due,CRED-154017,https://verify.example.com/159591,Company,2026-03-20 06:59:35.765
+369,1098,SnowPro Advanced Data Analyst,Snowflake,Cloud Data Platform,2024-06-13,2027-07-13,Renewal Due,CRED-566305,https://verify.example.com/880345,Self,2026-03-20 06:59:35.765
+303,1443,Terraform Associate,HashiCorp,Infrastructure,2024-12-27,2026-02-18,Expired,CRED-307791,https://verify.example.com/900259,Company,2026-03-20 06:59:35.765
+667,1168,GCP Professional Data Engineer,Google,Cloud Platform,2024-03-06,2026-05-17,In Progress,CRED-257258,https://verify.example.com/797102,Partial Reimbursement,2026-03-20 06:59:35.765
+242,1417,AWS Cloud Practitioner,Amazon,Cloud Platform,2024-05-25,2026-08-18,Expired,CRED-239019,https://verify.example.com/854595,Partial Reimbursement,2026-03-20 06:59:35.765
+54,1213,dbt Analytics Engineering,dbt Labs,Data Transformation,2025-05-06,2026-11-09,Expired,CRED-531109,https://verify.example.com/828955,Partial Reimbursement,2026-03-20 06:59:35.765
+668,1155,SnowPro Advanced Architect,Snowflake,Cloud Data Platform,2024-04-11,2028-03-07,Renewal Due,CRED-889126,https://verify.example.com/699549,Partial Reimbursement,2026-03-20 06:59:35.765
+200,1469,SnowPro Advanced Data Engineer,Snowflake,Cloud Data Platform,2024-08-08,2028-02-17,Renewal Due,CRED-913713,https://verify.example.com/317940,Self,2026-03-20 06:59:35.765
+570,1362,Databricks Certified ML Professional,Databricks,Data Platform,2023-09-12,2026-11-12,Active,CRED-212919,https://verify.example.com/599052,Company,2026-03-20 06:59:35.765
+265,1380,Azure Fundamentals,Microsoft,Cloud Platform,2025-03-24,2026-05-14,Expired,CRED-957871,https://verify.example.com/492231,Company,2026-03-20 06:59:35.765
+8,1310,AWS Data Analytics Specialty,Amazon,Cloud Platform,2023-11-05,2026-07-14,Active,CRED-521825,https://verify.example.com/579194,Company,2026-03-20 06:59:35.765
+701,1069,SnowPro Advanced Data Analyst,Snowflake,Cloud Data Platform,2023-09-21,2027-05-09,Active,CRED-734781,https://verify.example.com/763550,Company,2026-03-20 06:59:35.765
+675,1186,Matillion Associate,Matillion,ETL,2024-04-07,2026-07-23,Expired,CRED-557978,https://verify.example.com/286616,Partial Reimbursement,2026-03-20 06:59:35.765
+496,1449,Power BI Data Analyst,Microsoft,Visualization,2025-09-22,2026-03-31,Renewal Due,CRED-360073,https://verify.example.com/136621,Partial Reimbursement,2026-03-20 06:59:35.765
+297,1176,SnowPro Core,Snowflake,Cloud Data Platform,2024-09-13,2027-06-08,Renewal Due,CRED-579841,https://verify.example.com/950581,Company,2026-03-20 06:59:35.765
+250,1321,SnowPro Advanced Data Analyst,Snowflake,Cloud Data Platform,2026-01-30,2027-03-22,Active,CRED-514769,https://verify.example.com/350333,Self,2026-03-20 06:59:35.765
+67,1058,Scrum Master CSM,Scrum Alliance,Agile,2025-03-25,2026-07-27,Renewal Due,CRED-749769,https://verify.example.com/860872,Company,2026-03-20 06:59:35.765
+419,1028,SnowPro Advanced Data Engineer,Snowflake,Cloud Data Platform,2025-08-08,2026-12-18,In Progress,CRED-169655,https://verify.example.com/630410,Company,2026-03-20 06:59:35.765
+347,1329,GCP Professional Data Engineer,Google,Cloud Platform,2024-07-19,2028-01-09,Active,CRED-430068,https://verify.example.com/833197,Self,2026-03-20 06:59:35.765
+613,1382,PMP,PMI,Project Management,2023-11-13,2026-10-27,Expired,CRED-553381,https://verify.example.com/740037,Self,2026-03-20 06:59:35.765
+255,1342,Azure Solutions Architect Expert,Microsoft,Cloud Platform,2024-05-15,2026-05-28,Expired,CRED-288824,https://verify.example.com/936866,Company,2026-03-20 06:59:35.765
+592,1146,Azure Data Engineer Associate,Microsoft,Cloud Platform,2025-12-04,2027-12-12,Active,CRED-262178,https://verify.example.com/296900,Self,2026-03-20 06:59:35.765
+341,1136,SnowPro Advanced Architect,Snowflake,Cloud Data Platform,2025-03-02,2027-08-21,In Progress,CRED-341531,https://verify.example.com/676835,Self,2026-03-20 06:59:35.765
+219,1113,Power BI Data Analyst,Microsoft,Visualization,2026-01-02,2028-01-04,Active,CRED-876236,https://verify.example.com/871246,Partial Reimbursement,2026-03-20 06:59:35.765
+441,1072,AWS Cloud Practitioner,Amazon,Cloud Platform,2025-03-23,2026-08-18,In Progress,CRED-720409,https://verify.example.com/167235,Company,2026-03-20 06:59:35.765
+223,1504,Fivetran Partner Certification,Fivetran,Data Integration,2025-08-02,2027-08-18,In Progress,CRED-533950,https://verify.example.com/515512,Self,2026-03-20 06:59:35.765
+565,1191,SnowPro Advanced Data Engineer,Snowflake,Cloud Data Platform,2025-04-15,2028-02-20,Expired,CRED-949635,https://verify.example.com/862662,Partial Reimbursement,2026-03-20 06:59:35.765
+325,1061,Matillion Associate,Matillion,ETL,2025-03-18,2026-07-16,Renewal Due,CRED-652783,https://verify.example.com/560161,Partial Reimbursement,2026-03-20 06:59:35.765
+437,1255,SnowPro Advanced Data Analyst,Snowflake,Cloud Data Platform,2026-01-03,2028-02-15,Renewal Due,CRED-416629,https://verify.example.com/939401,Self,2026-03-20 06:59:35.765
+262,1221,Matillion Associate,Matillion,ETL,2025-12-05,2026-07-07,In Progress,CRED-745498,https://verify.example.com/755570,Self,2026-03-20 06:59:35.765
+351,1320,GCP Professional Data Engineer,Google,Cloud Platform,2025-11-30,2026-09-17,Active,CRED-222190,https://verify.example.com/176946,Company,2026-03-20 06:59:35.765
+196,1022,AWS Solutions Architect Associate,Amazon,Cloud Platform,2024-01-17,2027-11-14,Renewal Due,CRED-602940,https://verify.example.com/891696,Partial Reimbursement,2026-03-20 06:59:35.765
+35,1093,Fivetran Partner Certification,Fivetran,Data Integration,2024-09-05,2028-02-19,In Progress,CRED-227895,https://verify.example.com/179516,Partial Reimbursement,2026-03-20 06:59:35.765
+285,1458,SnowPro Core,Snowflake,Cloud Data Platform,2024-10-14,2026-11-04,Renewal Due,CRED-763553,https://verify.example.com/248718,Company,2026-03-20 06:59:35.765
+447,1493,AWS Solutions Architect Associate,Amazon,Cloud Platform,2025-05-01,2027-08-30,Expired,CRED-718792,https://verify.example.com/569256,Company,2026-03-20 06:59:35.765
+412,1495,Azure Data Engineer Associate,Microsoft,Cloud Platform,2023-09-09,2026-01-27,Active,CRED-684482,https://verify.example.com/951459,Company,2026-03-20 06:59:35.765
+490,1106,SnowPro Advanced Data Analyst,Snowflake,Cloud Data Platform,2025-07-17,2026-12-08,Active,CRED-793531,https://verify.example.com/716087,Partial Reimbursement,2026-03-20 06:59:35.765
+211,1467,Tableau Desktop Specialist,Tableau,Visualization,2025-12-08,2026-08-08,Expired,CRED-867536,https://verify.example.com/841403,Partial Reimbursement,2026-03-20 06:59:35.765
+15,1102,GCP Cloud Architect,Google,Cloud Platform,2025-01-10,2026-01-21,In Progress,CRED-230255,https://verify.example.com/196594,Company,2026-03-20 06:59:35.765
+557,1177,Azure Fundamentals,Microsoft,Cloud Platform,2025-06-13,2026-12-09,Renewal Due,CRED-982620,https://verify.example.com/266682,Company,2026-03-20 06:59:35.765
+247,1205,dbt Analytics Engineering,dbt Labs,Data Transformation,2024-04-13,2027-10-15,Renewal Due,CRED-691841,https://verify.example.com/452905,Partial Reimbursement,2026-03-20 06:59:35.765
+224,1504,dbt Analytics Engineering,dbt Labs,Data Transformation,2025-04-08,2027-01-18,Active,CRED-526022,https://verify.example.com/386030,Self,2026-03-20 06:59:35.765
+584,1269,SnowPro Advanced Data Analyst,Snowflake,Cloud Data Platform,2024-08-19,2027-05-06,Renewal Due,CRED-127416,https://verify.example.com/924003,Partial Reimbursement,2026-03-20 06:59:35.765
+460,1433,SnowPro Advanced Data Engineer,Snowflake,Cloud Data Platform,2024-04-24,2028-01-11,Renewal Due,CRED-306981,https://verify.example.com/681659,Partial Reimbursement,2026-03-20 06:59:35.765
+41,1345,Scrum Master CSM,Scrum Alliance,Agile,2026-01-17,2026-05-04,Expired,CRED-557417,https://verify.example.com/637194,Self,2026-03-20 06:59:35.765
+545,1296,Matillion Associate,Matillion,ETL,2024-02-01,2026-10-28,In Progress,CRED-330957,https://verify.example.com/854377,Self,2026-03-20 06:59:35.765
+579,1286,Matillion Associate,Matillion,ETL,2024-05-12,2027-07-02,Expired,CRED-718126,https://verify.example.com/336893,Self,2026-03-20 06:59:35.765
+166,1324,SnowPro Advanced Architect,Snowflake,Cloud Data Platform,2025-03-19,2027-10-27,Renewal Due,CRED-666013,https://verify.example.com/731111,Partial Reimbursement,2026-03-20 06:59:35.765
+201,1469,Scrum Master CSM,Scrum Alliance,Agile,2024-01-11,2027-03-02,Active,CRED-790899,https://verify.example.com/741572,Self,2026-03-20 06:59:35.765
+48,1439,SnowPro Advanced Architect,Snowflake,Cloud Data Platform,2025-08-25,2026-08-06,Active,CRED-667648,https://verify.example.com/303753,Company,2026-03-20 06:59:35.765
+2,1437,Matillion Associate,Matillion,ETL,2025-05-01,2027-01-23,Expired,CRED-367804,https://verify.example.com/982761,Company,2026-03-20 06:59:35.765
+425,1420,SnowPro Advanced Data Engineer,Snowflake,Cloud Data Platform,2025-12-03,2027-08-03,Active,CRED-577728,https://verify.example.com/219693,Self,2026-03-20 06:59:35.765
+279,1118,GCP Professional Data Engineer,Google,Cloud Platform,2024-09-14,2027-07-30,In Progress,CRED-177995,https://verify.example.com/306126,Company,2026-03-20 06:59:35.765
+551,1464,Azure Solutions Architect Expert,Microsoft,Cloud Platform,2025-09-13,2026-07-27,Active,CRED-291780,https://verify.example.com/154297,Self,2026-03-20 06:59:35.765
+306,1443,SnowPro Advanced Data Analyst,Snowflake,Cloud Data Platform,2025-07-28,2026-06-21,In Progress,CRED-878935,https://verify.example.com/914774,Self,2026-03-20 06:59:35.765
+17,1423,Azure Data Engineer Associate,Microsoft,Cloud Platform,2025-09-06,2027-11-17,Renewal Due,CRED-187706,https://verify.example.com/331176,Company,2026-03-20 06:59:35.765
+402,1211,dbt Analytics Engineering,dbt Labs,Data Transformation,2023-07-14,2027-04-25,Expired,CRED-360155,https://verify.example.com/889121,Company,2026-03-20 06:59:35.765
+681,1193,Matillion Associate,Matillion,ETL,2025-08-30,2026-08-30,Active,CRED-286141,https://verify.example.com/309329,Partial Reimbursement,2026-03-20 06:59:35.765
+94,1440,Azure Data Engineer Associate,Microsoft,Cloud Platform,2025-06-17,2027-03-16,In Progress,CRED-840346,https://verify.example.com/534868,Self,2026-03-20 06:59:35.765
+483,1322,GCP Professional Data Engineer,Google,Cloud Platform,2025-03-26,2026-04-15,In Progress,CRED-692631,https://verify.example.com/330528,Company,2026-03-20 06:59:35.765
+6,1422,Terraform Associate,HashiCorp,Infrastructure,2025-01-26,2027-05-19,Renewal Due,CRED-773479,https://verify.example.com/649615,Company,2026-03-20 06:59:35.765
+388,1254,AWS Solutions Architect Associate,Amazon,Cloud Platform,2025-01-10,2026-05-13,Active,CRED-936944,https://verify.example.com/723562,Partial Reimbursement,2026-03-20 06:59:35.765
+136,1351,SnowPro Advanced Architect,Snowflake,Cloud Data Platform,2026-02-06,2026-10-02,Active,CRED-530376,https://verify.example.com/981694,Partial Reimbursement,2026-03-20 06:59:35.765
+298,1489,SnowPro Advanced Data Engineer,Snowflake,Cloud Data Platform,2024-12-08,2027-06-10,Active,CRED-554112,https://verify.example.com/194876,Partial Reimbursement,2026-03-20 06:59:35.765
+323,1434,SnowPro Advanced Data Engineer,Snowflake,Cloud Data Platform,2025-08-09,2028-03-06,In Progress,CRED-830523,https://verify.example.com/896931,Self,2026-03-20 06:59:35.765
+590,1250,Certified Kubernetes Administrator,CNCF,DevOps,2024-11-12,2026-10-31,Expired,CRED-302367,https://verify.example.com/128577,Partial Reimbursement,2026-03-20 06:59:35.765
+150,1083,Databricks Certified ML Professional,Databricks,Data Platform,2025-01-08,2026-03-15,Renewal Due,CRED-539884,https://verify.example.com/805357,Company,2026-03-20 06:59:35.765
+77,1317,Terraform Associate,HashiCorp,Infrastructure,2025-05-21,2027-01-18,Active,CRED-777719,https://verify.example.com/599025,Company,2026-03-20 06:59:35.765
+684,1249,Certified Kubernetes Administrator,CNCF,DevOps,2026-01-28,2026-06-28,Expired,CRED-583575,https://verify.example.com/491087,Self,2026-03-20 06:59:35.765
+676,1186,Azure Fundamentals,Microsoft,Cloud Platform,2025-08-27,2026-03-15,Active,CRED-657051,https://verify.example.com/112495,Partial Reimbursement,2026-03-20 06:59:35.765
+385,1318,Power BI Data Analyst,Microsoft,Visualization,2026-02-04,2026-04-14,Expired,CRED-560915,https://verify.example.com/627975,Company,2026-03-20 06:59:35.765
+642,1365,Power BI Data Analyst,Microsoft,Visualization,2025-11-15,2026-06-27,Active,CRED-429206,https://verify.example.com/754325,Partial Reimbursement,2026-03-20 06:59:35.765
+133,1262,Certified Kubernetes Administrator,CNCF,DevOps,2023-11-26,2026-10-16,Expired,CRED-198819,https://verify.example.com/698200,Company,2026-03-20 06:59:35.765
+215,1256,SnowPro Core,Snowflake,Cloud Data Platform,2024-02-20,2026-04-01,Active,CRED-503844,https://verify.example.com/642185,Company,2026-03-20 06:59:35.765
+44,1142,Certified Kubernetes Administrator,CNCF,DevOps,2025-12-28,2027-07-14,Expired,CRED-109288,https://verify.example.com/262296,Partial Reimbursement,2026-03-20 06:59:35.765
+320,1472,PMP,PMI,Project Management,2024-05-09,2026-02-17,Expired,CRED-334574,https://verify.example.com/491058,Self,2026-03-20 06:59:35.765
+574,1477,Terraform Associate,HashiCorp,Infrastructure,2024-03-08,2027-09-25,Renewal Due,CRED-408952,https://verify.example.com/185710,Company,2026-03-20 06:59:35.765
+539,1447,Scrum Master CSM,Scrum Alliance,Agile,2025-07-15,2027-11-30,Active,CRED-571271,https://verify.example.com/786053,Self,2026-03-20 06:59:35.765
+396,1462,SnowPro Advanced Architect,Snowflake,Cloud Data Platform,2026-02-10,2028-03-05,Renewal Due,CRED-745908,https://verify.example.com/620125,Company,2026-03-20 06:59:35.765
+453,1459,GCP Professional Data Engineer,Google,Cloud Platform,2024-10-22,2027-10-31,Renewal Due,CRED-605518,https://verify.example.com/746901,Company,2026-03-20 06:59:35.765
+132,1375,Databricks Certified Data Engineer,Databricks,Data Platform,2025-07-17,2028-03-04,Active,CRED-289131,https://verify.example.com/472287,Partial Reimbursement,2026-03-20 06:59:35.765
+587,1414,Azure Solutions Architect Expert,Microsoft,Cloud Platform,2023-07-21,2026-10-29,Expired,CRED-451251,https://verify.example.com/299521,Company,2026-03-20 06:59:35.765
+128,1175,Azure Solutions Architect Expert,Microsoft,Cloud Platform,2024-04-05,2027-06-11,Renewal Due,CRED-373233,https://verify.example.com/429714,Company,2026-03-20 06:59:35.765
+434,1301,SnowPro Advanced Data Engineer,Snowflake,Cloud Data Platform,2024-06-06,2027-01-01,Active,CRED-317218,https://verify.example.com/840778,Company,2026-03-20 06:59:35.765
+12,1310,Azure Solutions Architect Expert,Microsoft,Cloud Platform,2026-02-09,2026-11-15,Active,CRED-263703,https://verify.example.com/528654,Self,2026-03-20 06:59:35.765
+231,1075,Tableau Desktop Specialist,Tableau,Visualization,2025-11-01,2028-02-21,Renewal Due,CRED-986262,https://verify.example.com/554374,Company,2026-03-20 06:59:35.765
+58,1379,Databricks Certified Data Engineer,Databricks,Data Platform,2025-11-20,2027-05-05,Active,CRED-332046,https://verify.example.com/320044,Self,2026-03-20 06:59:35.765
+292,1337,Databricks Certified ML Professional,Databricks,Data Platform,2025-02-22,2026-02-21,In Progress,CRED-265730,https://verify.example.com/860501,Self,2026-03-20 06:59:35.765
+195,1022,Terraform Associate,HashiCorp,Infrastructure,2025-03-27,2026-10-13,Renewal Due,CRED-440455,https://verify.example.com/834292,Self,2026-03-20 06:59:35.765
+27,1099,PMP,PMI,Project Management,2025-08-22,2027-03-09,Renewal Due,CRED-190654,https://verify.example.com/837439,Partial Reimbursement,2026-03-20 06:59:35.765
+319,1074,Matillion Associate,Matillion,ETL,2026-01-18,2026-11-30,In Progress,CRED-468813,https://verify.example.com/794797,Company,2026-03-20 06:59:35.765
+214,1256,dbt Analytics Engineering,dbt Labs,Data Transformation,2025-09-02,2026-03-08,Renewal Due,CRED-961560,https://verify.example.com/505195,Partial Reimbursement,2026-03-20 06:59:35.765
+381,1181,SnowPro Core,Snowflake,Cloud Data Platform,2024-06-21,2026-03-03,Renewal Due,CRED-203684,https://verify.example.com/442295,Company,2026-03-20 06:59:35.765
+174,1432,Tableau Desktop Specialist,Tableau,Visualization,2024-01-01,2027-12-09,Active,CRED-119052,https://verify.example.com/535758,Self,2026-03-20 06:59:35.765
+95,1440,Scrum Master CSM,Scrum Alliance,Agile,2025-05-23,2026-09-20,Active,CRED-754391,https://verify.example.com/998134,Self,2026-03-20 06:59:35.765
+601,1187,Matillion Associate,Matillion,ETL,2024-02-21,2027-07-11,In Progress,CRED-210070,https://verify.example.com/283871,Partial Reimbursement,2026-03-20 06:59:35.765
+680,1193,Power BI Data Analyst,Microsoft,Visualization,2024-11-29,2027-09-25,In Progress,CRED-970066,https://verify.example.com/782006,Self,2026-03-20 06:59:35.765
+266,1380,Matillion Associate,Matillion,ETL,2024-06-19,2027-09-24,Active,CRED-111427,https://verify.example.com/269334,Partial Reimbursement,2026-03-20 06:59:35.765
+102,1051,Terraform Associate,HashiCorp,Infrastructure,2025-04-17,2026-09-02,Active,CRED-143863,https://verify.example.com/854136,Self,2026-03-20 06:59:35.765
+246,1369,Certified Kubernetes Administrator,CNCF,DevOps,2023-11-26,2027-11-27,In Progress,CRED-910289,https://verify.example.com/969846,Partial Reimbursement,2026-03-20 06:59:35.765
+456,1238,SnowPro Advanced Data Analyst,Snowflake,Cloud Data Platform,2024-12-06,2026-07-20,Active,CRED-678367,https://verify.example.com/414058,Self,2026-03-20 06:59:35.765
+549,1296,GCP Professional Data Engineer,Google,Cloud Platform,2024-11-08,2027-09-30,In Progress,CRED-869235,https://verify.example.com/559742,Company,2026-03-20 06:59:35.765
+691,1080,SnowPro Advanced Architect,Snowflake,Cloud Data Platform,2025-12-11,2026-10-25,In Progress,CRED-386953,https://verify.example.com/132767,Company,2026-03-20 06:59:35.765
+350,1336,GCP Professional Data Engineer,Google,Cloud Platform,2025-10-17,2027-01-09,Renewal Due,CRED-713735,https://verify.example.com/456003,Partial Reimbursement,2026-03-20 06:59:35.765
+512,1235,Databricks Certified Data Engineer,Databricks,Data Platform,2025-09-10,2026-02-02,Active,CRED-156437,https://verify.example.com/132648,Self,2026-03-20 06:59:35.765
+339,1192,Matillion Associate,Matillion,ETL,2025-03-12,2027-09-19,Expired,CRED-540054,https://verify.example.com/246636,Self,2026-03-20 06:59:35.765
+647,1311,AWS Data Analytics Specialty,Amazon,Cloud Platform,2025-05-01,2026-09-30,Renewal Due,CRED-140272,https://verify.example.com/440844,Partial Reimbursement,2026-03-20 06:59:35.765
+186,1466,Terraform Associate,HashiCorp,Infrastructure,2025-07-27,2027-11-15,Renewal Due,CRED-944923,https://verify.example.com/409133,Partial Reimbursement,2026-03-20 06:59:35.765
+24,1090,Databricks Certified Data Engineer,Databricks,Data Platform,2025-04-15,2027-12-07,Active,CRED-679838,https://verify.example.com/561519,Partial Reimbursement,2026-03-20 06:59:35.765
+179,1445,Power BI Data Analyst,Microsoft,Visualization,2024-07-09,2026-07-26,In Progress,CRED-594358,https://verify.example.com/593136,Self,2026-03-20 06:59:35.765
+519,1060,Terraform Associate,HashiCorp,Infrastructure,2025-02-28,2026-06-22,Active,CRED-890091,https://verify.example.com/778836,Company,2026-03-20 06:59:35.765
+510,1235,dbt Analytics Engineering,dbt Labs,Data Transformation,2024-12-06,2027-02-05,Renewal Due,CRED-530707,https://verify.example.com/144826,Self,2026-03-20 06:59:35.765
+16,1423,SnowPro Advanced Data Engineer,Snowflake,Cloud Data Platform,2026-01-28,2027-06-08,In Progress,CRED-820174,https://verify.example.com/782904,Company,2026-03-20 06:59:35.765
+177,1396,Azure Fundamentals,Microsoft,Cloud Platform,2024-08-14,2028-01-28,Expired,CRED-212376,https://verify.example.com/631779,Self,2026-03-20 06:59:35.765
+172,1432,SnowPro Advanced Data Engineer,Snowflake,Cloud Data Platform,2025-07-17,2026-05-26,Active,CRED-207891,https://verify.example.com/953054,Partial Reimbursement,2026-03-20 06:59:35.765
+145,1305,Power BI Data Analyst,Microsoft,Visualization,2026-01-13,2026-08-27,Expired,CRED-572541,https://verify.example.com/881720,Company,2026-03-20 06:59:35.765
+417,1121,Power BI Data Analyst,Microsoft,Visualization,2026-02-08,2027-08-16,Renewal Due,CRED-807580,https://verify.example.com/950170,Self,2026-03-20 06:59:35.765
+117,1020,AWS Solutions Architect Associate,Amazon,Cloud Platform,2026-01-20,2026-01-27,In Progress,CRED-873499,https://verify.example.com/472175,Self,2026-03-20 06:59:35.765
+355,1283,Scrum Master CSM,Scrum Alliance,Agile,2024-12-27,2027-08-15,Renewal Due,CRED-772799,https://verify.example.com/632742,Partial Reimbursement,2026-03-20 06:59:35.765
+628,1511,Informatica PowerCenter,Informatica,ETL,2023-08-24,2028-01-12,Active,CRED-435491,https://verify.example.com/340381,Company,2026-03-20 06:59:35.765
+273,1390,SnowPro Core,Snowflake,Cloud Data Platform,2023-11-26,2027-06-24,Renewal Due,CRED-921331,https://verify.example.com/734325,Company,2026-03-20 06:59:35.765
+498,1397,SnowPro Advanced Data Engineer,Snowflake,Cloud Data Platform,2025-01-24,2026-05-26,Renewal Due,CRED-282870,https://verify.example.com/447219,Partial Reimbursement,2026-03-20 06:59:35.765
+146,1403,SnowPro Advanced Architect,Snowflake,Cloud Data Platform,2026-01-19,2027-01-09,Active,CRED-386786,https://verify.example.com/915390,Partial Reimbursement,2026-03-20 06:59:35.765
+575,1407,Informatica PowerCenter,Informatica,ETL,2025-01-20,2026-09-05,Active,CRED-874267,https://verify.example.com/523842,Company,2026-03-20 06:59:35.765
+104,1346,Azure Fundamentals,Microsoft,Cloud Platform,2026-01-12,2027-02-02,Active,CRED-169987,https://verify.example.com/520117,Company,2026-03-20 06:59:35.765
+253,1342,PMP,PMI,Project Management,2025-06-29,2027-12-24,Expired,CRED-729348,https://verify.example.com/339905,Self,2026-03-20 06:59:35.765
+391,1145,dbt Analytics Engineering,dbt Labs,Data Transformation,2025-12-20,2026-03-29,Renewal Due,CRED-412424,https://verify.example.com/795621,Partial Reimbursement,2026-03-20 06:59:35.765
+155,1273,dbt Analytics Engineering,dbt Labs,Data Transformation,2023-07-09,2027-03-17,Expired,CRED-679931,https://verify.example.com/346090,Partial Reimbursement,2026-03-20 06:59:35.765
+29,1474,Scrum Master CSM,Scrum Alliance,Agile,2024-05-13,2028-02-02,Expired,CRED-284043,https://verify.example.com/846766,Company,2026-03-20 06:59:35.765
+664,1507,GCP Cloud Architect,Google,Cloud Platform,2024-11-06,2027-03-07,In Progress,CRED-795993,https://verify.example.com/280764,Self,2026-03-20 06:59:35.765
+181,1082,SnowPro Core,Snowflake,Cloud Data Platform,2025-08-01,2027-07-19,Active,CRED-230088,https://verify.example.com/166028,Partial Reimbursement,2026-03-20 06:59:35.765
+138,1506,Tableau Desktop Specialist,Tableau,Visualization,2025-06-28,2026-12-03,Expired,CRED-654605,https://verify.example.com/863487,Partial Reimbursement,2026-03-20 06:59:35.765
+357,1421,SnowPro Advanced Data Engineer,Snowflake,Cloud Data Platform,2025-05-20,2027-07-23,Renewal Due,CRED-318834,https://verify.example.com/792055,Partial Reimbursement,2026-03-20 06:59:35.765
+233,1368,AWS Cloud Practitioner,Amazon,Cloud Platform,2024-05-27,2027-07-29,Renewal Due,CRED-788482,https://verify.example.com/394200,Self,2026-03-20 06:59:35.765
+374,1004,PMP,PMI,Project Management,2026-02-06,2026-07-31,In Progress,CRED-649520,https://verify.example.com/811824,Self,2026-03-20 06:59:35.765
+604,1025,Azure Data Engineer Associate,Microsoft,Cloud Platform,2025-12-29,2027-09-24,In Progress,CRED-486885,https://verify.example.com/376728,Self,2026-03-20 06:59:35.765
+125,1117,SnowPro Advanced Architect,Snowflake,Cloud Data Platform,2024-07-17,2026-08-19,Expired,CRED-562908,https://verify.example.com/643932,Partial Reimbursement,2026-03-20 06:59:35.765
+445,1016,Matillion Associate,Matillion,ETL,2025-06-05,2027-05-25,Renewal Due,CRED-498981,https://verify.example.com/713293,Partial Reimbursement,2026-03-20 06:59:35.765
+698,1147,Databricks Certified ML Professional,Databricks,Data Platform,2025-10-15,2027-06-14,Active,CRED-889350,https://verify.example.com/914836,Company,2026-03-20 06:59:35.765
+576,1407,GCP Cloud Architect,Google,Cloud Platform,2025-11-29,2028-03-03,Expired,CRED-337312,https://verify.example.com/981505,Company,2026-03-20 06:59:35.765
+227,1077,SnowPro Advanced Architect,Snowflake,Cloud Data Platform,2024-08-25,2026-10-24,Expired,CRED-829381,https://verify.example.com/526236,Partial Reimbursement,2026-03-20 06:59:35.765
+500,1130,Apache Kafka Certification,Confluent,Streaming,2024-10-20,2026-12-31,In Progress,CRED-235788,https://verify.example.com/243705,Partial Reimbursement,2026-03-20 06:59:35.765
+449,1003,Azure Data Engineer Associate,Microsoft,Cloud Platform,2023-11-05,2026-12-26,In Progress,CRED-444374,https://verify.example.com/635775,Company,2026-03-20 06:59:35.765
+560,1463,Azure Fundamentals,Microsoft,Cloud Platform,2025-03-07,2027-07-07,Renewal Due,CRED-494786,https://verify.example.com/524609,Self,2026-03-20 06:59:35.765
+137,1506,SnowPro Advanced Data Engineer,Snowflake,Cloud Data Platform,2023-12-24,2027-11-10,Expired,CRED-687533,https://verify.example.com/493592,Self,2026-03-20 06:59:35.765
+79,1377,SnowPro Advanced Data Engineer,Snowflake,Cloud Data Platform,2024-12-13,2027-09-02,In Progress,CRED-763344,https://verify.example.com/783065,Company,2026-03-20 06:59:35.765
+127,1289,Informatica PowerCenter,Informatica,ETL,2024-07-01,2026-06-28,Expired,CRED-291006,https://verify.example.com/707743,Company,2026-03-20 06:59:35.765
+234,1119,Informatica PowerCenter,Informatica,ETL,2025-04-08,2028-01-15,In Progress,CRED-388744,https://verify.example.com/245873,Partial Reimbursement,2026-03-20 06:59:35.765
+65,1144,GCP Cloud Architect,Google,Cloud Platform,2025-01-23,2027-02-24,In Progress,CRED-348954,https://verify.example.com/891625,Company,2026-03-20 06:59:35.765
+38,1446,Apache Kafka Certification,Confluent,Streaming,2025-02-01,2027-12-27,In Progress,CRED-702556,https://verify.example.com/439421,Company,2026-03-20 06:59:35.765
+439,1047,SnowPro Advanced Data Engineer,Snowflake,Cloud Data Platform,2025-10-10,2027-09-19,Renewal Due,CRED-920501,https://verify.example.com/700963,Partial Reimbursement,2026-03-20 06:59:35.765
+423,1405,AWS Cloud Practitioner,Amazon,Cloud Platform,2025-12-24,2027-11-02,Expired,CRED-386056,https://verify.example.com/846149,Self,2026-03-20 06:59:35.765
+476,1059,GCP Professional Data Engineer,Google,Cloud Platform,2024-07-04,2026-10-15,In Progress,CRED-867681,https://verify.example.com/145911,Partial Reimbursement,2026-03-20 06:59:35.765
+465,1354,AWS Solutions Architect Associate,Amazon,Cloud Platform,2025-08-13,2028-03-01,In Progress,CRED-263222,https://verify.example.com/882791,Self,2026-03-20 06:59:35.765
+470,1366,SnowPro Advanced Data Analyst,Snowflake,Cloud Data Platform,2024-01-02,2027-03-19,In Progress,CRED-778094,https://verify.example.com/116201,Company,2026-03-20 06:59:35.765
+281,1309,Azure Fundamentals,Microsoft,Cloud Platform,2024-08-03,2026-10-11,Active,CRED-511941,https://verify.example.com/558755,Partial Reimbursement,2026-03-20 06:59:35.765
+488,1106,Databricks Certified ML Professional,Databricks,Data Platform,2024-04-29,2028-01-28,Expired,CRED-527341,https://verify.example.com/110929,Company,2026-03-20 06:59:35.765
+516,1490,AWS Cloud Practitioner,Amazon,Cloud Platform,2025-06-04,2027-03-29,Expired,CRED-760423,https://verify.example.com/948620,Company,2026-03-20 06:59:35.765
+3,1437,AWS Cloud Practitioner,Amazon,Cloud Platform,2024-07-17,2026-07-28,Active,CRED-647918,https://verify.example.com/702201,Company,2026-03-20 06:59:35.765
+430,1174,Tableau Desktop Specialist,Tableau,Visualization,2025-02-13,2026-03-08,Renewal Due,CRED-162823,https://verify.example.com/417422,Company,2026-03-20 06:59:35.765
+614,1382,Azure Solutions Architect Expert,Microsoft,Cloud Platform,2025-12-17,2027-10-26,Renewal Due,CRED-661804,https://verify.example.com/807555,Self,2026-03-20 06:59:35.765
+568,1108,SnowPro Core,Snowflake,Cloud Data Platform,2025-05-20,2026-10-12,Expired,CRED-637151,https://verify.example.com/607835,Self,2026-03-20 06:59:35.765
+383,1318,SnowPro Core,Snowflake,Cloud Data Platform,2023-12-30,2027-10-22,Renewal Due,CRED-266049,https://verify.example.com/693193,Partial Reimbursement,2026-03-20 06:59:35.765
+72,1067,Apache Kafka Certification,Confluent,Streaming,2025-01-18,2026-04-07,Active,CRED-334352,https://verify.example.com/823175,Company,2026-03-20 06:59:35.765
+66,1065,AWS Solutions Architect Associate,Amazon,Cloud Platform,2024-11-06,2027-06-01,Renewal Due,CRED-937212,https://verify.example.com/811454,Self,2026-03-20 06:59:35.765
+39,1446,Azure Fundamentals,Microsoft,Cloud Platform,2025-07-11,2026-07-08,In Progress,CRED-460091,https://verify.example.com/209412,Company,2026-03-20 06:59:35.765
+332,1160,Terraform Associate,HashiCorp,Infrastructure,2024-05-18,2027-08-26,Expired,CRED-871687,https://verify.example.com/224451,Company,2026-03-20 06:59:35.765
+514,1114,SnowPro Advanced Data Engineer,Snowflake,Cloud Data Platform,2025-01-30,2026-02-26,Active,CRED-554726,https://verify.example.com/533336,Partial Reimbursement,2026-03-20 06:59:35.765
+274,1390,GCP Cloud Architect,Google,Cloud Platform,2025-07-11,2027-12-07,In Progress,CRED-549455,https://verify.example.com/645892,Self,2026-03-20 06:59:35.765
+678,1186,Informatica PowerCenter,Informatica,ETL,2026-01-19,2027-07-04,Renewal Due,CRED-871874,https://verify.example.com/696193,Self,2026-03-20 06:59:35.765
+598,1231,Terraform Associate,HashiCorp,Infrastructure,2025-11-18,2028-01-18,In Progress,CRED-745576,https://verify.example.com/515077,Partial Reimbursement,2026-03-20 06:59:35.765
+60,1483,Certified Kubernetes Administrator,CNCF,DevOps,2025-10-18,2027-02-15,Renewal Due,CRED-762176,https://verify.example.com/550239,Company,2026-03-20 06:59:35.765
+129,1307,Tableau Desktop Specialist,Tableau,Visualization,2025-07-24,2026-04-22,Expired,CRED-233987,https://verify.example.com/119064,Company,2026-03-20 06:59:35.765
+144,1305,SnowPro Advanced Architect,Snowflake,Cloud Data Platform,2024-12-21,2026-06-26,In Progress,CRED-421845,https://verify.example.com/696470,Self,2026-03-20 06:59:35.765
+51,1485,Tableau Desktop Specialist,Tableau,Visualization,2025-09-07,2026-12-10,Renewal Due,CRED-488931,https://verify.example.com/830515,Company,2026-03-20 06:59:35.765
+361,1456,AWS Cloud Practitioner,Amazon,Cloud Platform,2024-10-09,2026-11-02,Renewal Due,CRED-526728,https://verify.example.com/593743,Self,2026-03-20 06:59:35.765
+509,1328,Azure Fundamentals,Microsoft,Cloud Platform,2025-11-19,2027-10-23,Renewal Due,CRED-587131,https://verify.example.com/367236,Partial Reimbursement,2026-03-20 06:59:35.765
+167,1324,SnowPro Advanced Data Analyst,Snowflake,Cloud Data Platform,2024-07-28,2026-12-19,Renewal Due,CRED-751370,https://verify.example.com/967826,Self,2026-03-20 06:59:35.765
+318,1212,Azure Data Engineer Associate,Microsoft,Cloud Platform,2025-03-27,2027-02-05,Renewal Due,CRED-362260,https://verify.example.com/816729,Self,2026-03-20 06:59:35.765
+600,1231,Databricks Certified ML Professional,Databricks,Data Platform,2024-07-11,2026-02-23,In Progress,CRED-507586,https://verify.example.com/286759,Partial Reimbursement,2026-03-20 06:59:35.765
+623,1096,SnowPro Core,Snowflake,Cloud Data Platform,2025-02-09,2027-07-15,In Progress,CRED-755670,https://verify.example.com/614300,Self,2026-03-20 06:59:35.765
+580,1285,Informatica PowerCenter,Informatica,ETL,2024-12-20,2027-03-27,Renewal Due,CRED-660586,https://verify.example.com/589187,Company,2026-03-20 06:59:35.765
+672,1021,Azure Solutions Architect Expert,Microsoft,Cloud Platform,2024-08-01,2027-12-02,Active,CRED-948567,https://verify.example.com/802228,Self,2026-03-20 06:59:35.765
+228,1413,Databricks Certified ML Professional,Databricks,Data Platform,2023-09-20,2027-09-03,Expired,CRED-861779,https://verify.example.com/806643,Company,2026-03-20 06:59:35.765
+49,1485,PMP,PMI,Project Management,2023-09-28,2028-01-18,In Progress,CRED-467968,https://verify.example.com/311476,Self,2026-03-20 06:59:35.765
+582,1269,SnowPro Advanced Architect,Snowflake,Cloud Data Platform,2024-12-22,2027-09-09,Renewal Due,CRED-644128,https://verify.example.com/989750,Partial Reimbursement,2026-03-20 06:59:35.765
+248,1171,Databricks Certified ML Professional,Databricks,Data Platform,2024-08-04,2027-09-10,Active,CRED-114697,https://verify.example.com/482629,Partial Reimbursement,2026-03-20 06:59:35.765
+567,1011,Certified Kubernetes Administrator,CNCF,DevOps,2024-06-26,2026-03-21,In Progress,CRED-187917,https://verify.example.com/977507,Self,2026-03-20 06:59:35.765
+295,1471,Tableau Desktop Specialist,Tableau,Visualization,2024-11-24,2027-07-23,In Progress,CRED-742523,https://verify.example.com/418482,Partial Reimbursement,2026-03-20 06:59:35.765
+307,1292,PMP,PMI,Project Management,2025-11-30,2026-09-02,Expired,CRED-618842,https://verify.example.com/296887,Partial Reimbursement,2026-03-20 06:59:35.765
+697,1147,Databricks Certified Data Engineer,Databricks,Data Platform,2024-09-02,2027-12-10,In Progress,CRED-564635,https://verify.example.com/425742,Company,2026-03-20 06:59:35.765
+19,1271,GCP Professional Data Engineer,Google,Cloud Platform,2025-04-05,2027-03-07,In Progress,CRED-198183,https://verify.example.com/830343,Partial Reimbursement,2026-03-20 06:59:35.765
+185,1466,dbt Analytics Engineering,dbt Labs,Data Transformation,2024-12-25,2026-05-08,Expired,CRED-651672,https://verify.example.com/271725,Company,2026-03-20 06:59:35.765
+617,1120,Scrum Master CSM,Scrum Alliance,Agile,2025-12-15,2027-01-07,Expired,CRED-463512,https://verify.example.com/815772,Partial Reimbursement,2026-03-20 06:59:35.765
+433,1512,PMP,PMI,Project Management,2023-08-12,2027-10-24,In Progress,CRED-243969,https://verify.example.com/138257,Self,2026-03-20 06:59:35.765
+241,1417,Certified Kubernetes Administrator,CNCF,DevOps,2024-07-08,2026-03-14,Expired,CRED-124345,https://verify.example.com/333157,Self,2026-03-20 06:59:35.765
+462,1242,SnowPro Core,Snowflake,Cloud Data Platform,2023-09-23,2028-01-31,Active,CRED-563918,https://verify.example.com/546258,Partial Reimbursement,2026-03-20 06:59:35.765
+71,1167,AWS Data Analytics Specialty,Amazon,Cloud Platform,2024-02-28,2028-03-17,Renewal Due,CRED-328655,https://verify.example.com/211971,Company,2026-03-20 06:59:35.765
+671,1125,GCP Professional Data Engineer,Google,Cloud Platform,2024-02-05,2026-07-24,Active,CRED-811837,https://verify.example.com/242408,Self,2026-03-20 06:59:35.765
+85,1418,dbt Analytics Engineering,dbt Labs,Data Transformation,2025-01-30,2027-09-28,Renewal Due,CRED-626688,https://verify.example.com/853604,Company,2026-03-20 06:59:35.765
+221,1400,Tableau Desktop Specialist,Tableau,Visualization,2025-11-10,2026-03-05,Expired,CRED-718958,https://verify.example.com/328772,Self,2026-03-20 06:59:35.765
+458,1410,Apache Kafka Certification,Confluent,Streaming,2025-02-14,2026-09-13,Active,CRED-627435,https://verify.example.com/742163,Company,2026-03-20 06:59:35.765
+502,1385,Terraform Associate,HashiCorp,Infrastructure,2025-10-10,2028-03-10,Active,CRED-141850,https://verify.example.com/555815,Company,2026-03-20 06:59:35.765
+75,1317,Azure Fundamentals,Microsoft,Cloud Platform,2025-03-02,2027-10-30,Expired,CRED-741026,https://verify.example.com/422396,Self,2026-03-20 06:59:35.765
+709,1122,Tableau Desktop Specialist,Tableau,Visualization,2025-05-06,2028-03-05,Expired,CRED-317640,https://verify.example.com/744536,Company,2026-03-20 06:59:35.765
+316,1408,AWS Solutions Architect Associate,Amazon,Cloud Platform,2024-11-02,2026-09-02,Renewal Due,CRED-105742,https://verify.example.com/762822,Partial Reimbursement,2026-03-20 06:59:35.765
+537,1442,Fivetran Partner Certification,Fivetran,Data Integration,2023-07-10,2026-03-07,Active,CRED-235777,https://verify.example.com/190412,Partial Reimbursement,2026-03-20 06:59:35.765
+333,1279,AWS Cloud Practitioner,Amazon,Cloud Platform,2025-08-23,2027-06-29,In Progress,CRED-398211,https://verify.example.com/649078,Company,2026-03-20 06:59:35.765
+272,1137,AWS Solutions Architect Associate,Amazon,Cloud Platform,2025-10-27,2027-05-20,In Progress,CRED-749771,https://verify.example.com/852842,Partial Reimbursement,2026-03-20 06:59:35.765
+153,1068,AWS Data Analytics Specialty,Amazon,Cloud Platform,2025-05-02,2026-03-31,Active,CRED-964431,https://verify.example.com/955398,Partial Reimbursement,2026-03-20 06:59:35.765
+602,1335,AWS Data Analytics Specialty,Amazon,Cloud Platform,2025-04-02,2028-01-11,Renewal Due,CRED-137302,https://verify.example.com/686982,Partial Reimbursement,2026-03-20 06:59:35.765
+187,1284,Power BI Data Analyst,Microsoft,Visualization,2025-09-19,2027-06-14,In Progress,CRED-605188,https://verify.example.com/403487,Partial Reimbursement,2026-03-20 06:59:35.765
+607,1208,AWS Cloud Practitioner,Amazon,Cloud Platform,2025-01-23,2027-05-01,Active,CRED-825021,https://verify.example.com/781277,Partial Reimbursement,2026-03-20 06:59:35.765
+631,1313,AWS Cloud Practitioner,Amazon,Cloud Platform,2025-05-15,2027-01-31,Renewal Due,CRED-335031,https://verify.example.com/502381,Company,2026-03-20 06:59:35.765
+326,1404,Certified Kubernetes Administrator,CNCF,DevOps,2023-07-08,2027-07-24,Expired,CRED-327845,https://verify.example.com/439528,Company,2026-03-20 06:59:35.765
+591,1250,AWS Solutions Architect Associate,Amazon,Cloud Platform,2023-07-01,2027-11-13,In Progress,CRED-386679,https://verify.example.com/997217,Self,2026-03-20 06:59:35.765
+243,1272,Databricks Certified Data Engineer,Databricks,Data Platform,2024-08-17,2026-09-22,In Progress,CRED-434466,https://verify.example.com/540254,Self,2026-03-20 06:59:35.765
+330,1182,Azure Solutions Architect Expert,Microsoft,Cloud Platform,2023-10-15,2026-10-25,Renewal Due,CRED-207774,https://verify.example.com/947814,Partial Reimbursement,2026-03-20 06:59:35.765
+322,1350,dbt Analytics Engineering,dbt Labs,Data Transformation,2023-08-20,2027-03-19,Active,CRED-946991,https://verify.example.com/996135,Partial Reimbursement,2026-03-20 06:59:35.765
+548,1296,SnowPro Advanced Data Engineer,Snowflake,Cloud Data Platform,2025-09-14,2026-08-29,In Progress,CRED-123434,https://verify.example.com/568412,Self,2026-03-20 06:59:35.765
+609,1097,GCP Professional Data Engineer,Google,Cloud Platform,2025-09-26,2026-11-17,Active,CRED-582386,https://verify.example.com/234812,Company,2026-03-20 06:59:35.765
+657,1465,Azure Fundamentals,Microsoft,Cloud Platform,2025-07-10,2027-12-23,Renewal Due,CRED-778245,https://verify.example.com/250925,Partial Reimbursement,2026-03-20 06:59:35.765
+331,1394,Scrum Master CSM,Scrum Alliance,Agile,2025-10-19,2027-03-04,Expired,CRED-248519,https://verify.example.com/793211,Self,2026-03-20 06:59:35.765
+22,1271,PMP,PMI,Project Management,2025-06-20,2027-04-19,Renewal Due,CRED-550410,https://verify.example.com/358169,Company,2026-03-20 06:59:35.765
+649,1148,Apache Kafka Certification,Confluent,Streaming,2025-01-22,2027-05-03,Renewal Due,CRED-760529,https://verify.example.com/314379,Self,2026-03-20 06:59:35.765
+504,1328,Terraform Associate,HashiCorp,Infrastructure,2025-01-22,2026-04-26,Expired,CRED-395732,https://verify.example.com/791121,Self,2026-03-20 06:59:35.765
+370,1002,SnowPro Core,Snowflake,Cloud Data Platform,2024-10-07,2027-06-27,Active,CRED-607859,https://verify.example.com/442785,Partial Reimbursement,2026-03-20 06:59:35.765
+276,1390,Certified Kubernetes Administrator,CNCF,DevOps,2025-06-30,2027-06-24,In Progress,CRED-354833,https://verify.example.com/629642,Partial Reimbursement,2026-03-20 06:59:35.765
+528,1078,Terraform Associate,HashiCorp,Infrastructure,2025-05-31,2027-05-23,Active,CRED-821543,https://verify.example.com/389642,Self,2026-03-20 06:59:35.765
+531,1034,Azure Data Engineer Associate,Microsoft,Cloud Platform,2025-11-25,2027-07-01,In Progress,CRED-152713,https://verify.example.com/437016,Partial Reimbursement,2026-03-20 06:59:35.765
+616,1382,dbt Analytics Engineering,dbt Labs,Data Transformation,2025-07-19,2028-01-30,In Progress,CRED-684215,https://verify.example.com/964606,Company,2026-03-20 06:59:35.765
+124,1327,Fivetran Partner Certification,Fivetran,Data Integration,2025-07-07,2026-06-02,In Progress,CRED-418977,https://verify.example.com/790624,Company,2026-03-20 06:59:35.765
+183,1401,Azure Data Engineer Associate,Microsoft,Cloud Platform,2024-09-13,2027-12-29,Expired,CRED-940275,https://verify.example.com/308444,Company,2026-03-20 06:59:35.765
+259,1139,Certified Kubernetes Administrator,CNCF,DevOps,2023-10-10,2027-12-03,In Progress,CRED-507421,https://verify.example.com/174726,Partial Reimbursement,2026-03-20 06:59:35.765
+543,1347,Databricks Certified ML Professional,Databricks,Data Platform,2025-05-18,2026-05-24,Expired,CRED-533465,https://verify.example.com/958685,Partial Reimbursement,2026-03-20 06:59:35.765
+652,1045,SnowPro Advanced Data Engineer,Snowflake,Cloud Data Platform,2024-11-15,2026-05-23,In Progress,CRED-189087,https://verify.example.com/492197,Self,2026-03-20 06:59:35.765
+493,1150,Azure Solutions Architect Expert,Microsoft,Cloud Platform,2024-09-03,2027-11-20,Expired,CRED-603418,https://verify.example.com/146187,Company,2026-03-20 06:59:35.765
+612,1263,SnowPro Advanced Architect,Snowflake,Cloud Data Platform,2025-06-07,2027-02-17,In Progress,CRED-200889,https://verify.example.com/251093,Self,2026-03-20 06:59:35.765
+695,1008,GCP Professional Data Engineer,Google,Cloud Platform,2025-07-15,2027-10-19,Active,CRED-978459,https://verify.example.com/243335,Company,2026-03-20 06:59:35.765
+594,1501,Power BI Data Analyst,Microsoft,Visualization,2023-07-28,2028-03-17,Active,CRED-212820,https://verify.example.com/994656,Company,2026-03-20 06:59:35.765
+487,1106,Matillion Associate,Matillion,ETL,2023-10-12,2027-10-16,Active,CRED-246426,https://verify.example.com/885461,Self,2026-03-20 06:59:35.765
+665,1048,Databricks Certified ML Professional,Databricks,Data Platform,2025-07-28,2026-09-15,Active,CRED-695871,https://verify.example.com/125831,Partial Reimbursement,2026-03-20 06:59:35.765
+674,1264,Azure Solutions Architect Expert,Microsoft,Cloud Platform,2025-06-21,2027-07-05,Active,CRED-927229,https://verify.example.com/860114,Company,2026-03-20 06:59:35.765
+267,1380,Terraform Associate,HashiCorp,Infrastructure,2024-10-22,2026-01-19,Renewal Due,CRED-470699,https://verify.example.com/952650,Self,2026-03-20 06:59:35.765
+461,1242,SnowPro Advanced Architect,Snowflake,Cloud Data Platform,2024-02-02,2027-07-13,In Progress,CRED-128938,https://verify.example.com/719827,Self,2026-03-20 06:59:35.765
+296,1081,Matillion Associate,Matillion,ETL,2023-11-12,2026-07-10,In Progress,CRED-634440,https://verify.example.com/223388,Company,2026-03-20 06:59:35.765
+109,1349,Databricks Certified Data Engineer,Databricks,Data Platform,2025-04-12,2026-10-12,In Progress,CRED-350732,https://verify.example.com/779450,Partial Reimbursement,2026-03-20 06:59:35.765
+533,1034,Scrum Master CSM,Scrum Alliance,Agile,2024-12-11,2027-10-31,Renewal Due,CRED-859879,https://verify.example.com/156387,Self,2026-03-20 06:59:35.765
+390,1254,Informatica PowerCenter,Informatica,ETL,2023-09-21,2027-06-06,Expired,CRED-623930,https://verify.example.com/772366,Self,2026-03-20 06:59:35.765
+711,1122,Azure Fundamentals,Microsoft,Cloud Platform,2026-01-18,2028-01-13,Expired,CRED-871774,https://verify.example.com/725125,Self,2026-03-20 06:59:35.765
+257,1378,Terraform Associate,HashiCorp,Infrastructure,2024-06-05,2027-04-25,Expired,CRED-945449,https://verify.example.com/559214,Self,2026-03-20 06:59:35.765
+588,1250,Azure Fundamentals,Microsoft,Cloud Platform,2026-02-01,2026-04-16,Active,CRED-150574,https://verify.example.com/762455,Partial Reimbursement,2026-03-20 06:59:35.765
+299,1448,PMP,PMI,Project Management,2025-08-07,2027-03-11,Expired,CRED-854830,https://verify.example.com/321926,Self,2026-03-20 06:59:35.765
+184,1206,GCP Professional Data Engineer,Google,Cloud Platform,2024-10-04,2028-01-17,Renewal Due,CRED-712069,https://verify.example.com/640084,Partial Reimbursement,2026-03-20 06:59:35.765
+459,1156,Apache Kafka Certification,Confluent,Streaming,2023-11-16,2028-02-09,Active,CRED-728502,https://verify.example.com/278183,Company,2026-03-20 06:59:35.765
+218,1265,Certified Kubernetes Administrator,CNCF,DevOps,2025-07-17,2027-07-16,Active,CRED-840520,https://verify.example.com/418556,Self,2026-03-20 06:59:35.765
+596,1231,Fivetran Partner Certification,Fivetran,Data Integration,2024-01-31,2027-09-10,Expired,CRED-875434,https://verify.example.com/920762,Company,2026-03-20 06:59:35.765
+414,1162,Matillion Associate,Matillion,ETL,2025-07-21,2027-06-29,Active,CRED-679821,https://verify.example.com/293066,Partial Reimbursement,2026-03-20 06:59:35.765
+57,1141,Matillion Associate,Matillion,ETL,2025-08-11,2028-03-13,In Progress,CRED-650516,https://verify.example.com/105867,Partial Reimbursement,2026-03-20 06:59:35.765
+1,1437,SnowPro Advanced Data Analyst,Snowflake,Cloud Data Platform,2026-02-06,2027-06-19,Active,CRED-136486,https://verify.example.com/816512,Company,2026-03-20 06:59:35.765
+302,1372,SnowPro Advanced Architect,Snowflake,Cloud Data Platform,2025-10-25,2026-09-17,In Progress,CRED-790810,https://verify.example.com/948439,Self,2026-03-20 06:59:35.765
+232,1075,Scrum Master CSM,Scrum Alliance,Agile,2025-05-09,2026-12-25,Active,CRED-443885,https://verify.example.com/129891,Company,2026-03-20 06:59:35.765
+47,1360,dbt Analytics Engineering,dbt Labs,Data Transformation,2025-03-16,2027-10-18,In Progress,CRED-266114,https://verify.example.com/764299,Partial Reimbursement,2026-03-20 06:59:35.765
+693,1364,Power BI Data Analyst,Microsoft,Visualization,2024-11-09,2026-06-25,Renewal Due,CRED-810165,https://verify.example.com/175498,Partial Reimbursement,2026-03-20 06:59:35.765
+92,1503,Informatica PowerCenter,Informatica,ETL,2025-05-19,2027-02-16,Active,CRED-403402,https://verify.example.com/855851,Company,2026-03-20 06:59:35.765
+,1513,SnowPro Advanced Architect,Snowflake,Cloud Platform,2025-06-15,2027-06-15,Active,CRED-513001,https://verify.example.com/513001,Company,
+,1513,AWS Solutions Architect Professional,Amazon,Cloud Platform,2024-11-20,2027-11-20,Active,CRED-513002,https://verify.example.com/513002,Company,
+,1514,SnowPro Core,Snowflake,Cloud Platform,2025-03-10,2027-03-10,Active,CRED-514001,https://verify.example.com/514001,Company,
+,1514,Azure AI Engineer Associate,Microsoft,AI/ML,2025-01-15,2027-01-15,Active,CRED-514002,https://verify.example.com/514002,Self,
+,1515,GCP Cloud Architect,Google,Cloud Platform,2025-08-22,2027-08-22,Active,CRED-515001,https://verify.example.com/515001,Company,
+,1515,Terraform Associate,HashiCorp,DevOps,2025-04-10,2027-04-10,Active,CRED-515002,https://verify.example.com/515002,Self,
+,1516,Azure Solutions Architect Expert,Microsoft,Cloud Platform,2025-05-18,2027-05-18,Active,CRED-516001,https://verify.example.com/516001,Company,
+,1517,SnowPro Advanced Architect,Snowflake,Cloud Platform,2025-09-05,2027-09-05,Active,CRED-517001,https://verify.example.com/517001,Company,
+,1517,dbt Analytics Engineering,dbt Labs,Data Engineering,2025-07-20,2027-07-20,Active,CRED-517002,https://verify.example.com/517002,Company,
+,1518,Tableau Desktop Specialist,Tableau,Visualization,2025-02-28,2027-02-28,Active,CRED-518001,https://verify.example.com/518001,Self,
+,1519,SnowPro Advanced Architect,Snowflake,Cloud Platform,2025-01-10,2027-01-10,Active,CRED-519001,https://verify.example.com/519001,Company,
+,1519,AWS Solutions Architect Professional,Amazon,Cloud Platform,2024-08-15,2027-08-15,Active,CRED-519002,https://verify.example.com/519002,Company,
+,1519,Kubernetes Administrator CKA,CNCF,DevOps,2025-05-20,2027-05-20,Active,CRED-519003,https://verify.example.com/519003,Company,
+,1520,SnowPro Core,Snowflake,Cloud Platform,2025-04-12,2027-04-12,Active,CRED-520001,https://verify.example.com/520001,Company,
+,1520,Databricks Machine Learning Professional,Databricks,AI/ML,2025-07-30,2027-07-30,Active,CRED-520002,https://verify.example.com/520002,Company,
+,1521,GCP Cloud Architect,Google,Cloud Platform,2025-02-18,2027-02-18,Active,CRED-521001,https://verify.example.com/521001,Company,
+,1521,SnowPro Advanced Data Analyst,Snowflake,Cloud Platform,2025-10-05,2027-10-05,Active,CRED-521002,https://verify.example.com/521002,Self,
+,1522,Azure Solutions Architect Expert,Microsoft,Cloud Platform,2025-06-25,2027-06-25,Active,CRED-522001,https://verify.example.com/522001,Company,
+,1522,PMP,PMI,Project Management,2024-12-10,2027-12-10,Active,CRED-522002,https://verify.example.com/522002,Company,
+,1523,SnowPro Advanced Architect,Snowflake,Cloud Platform,2025-03-22,2027-03-22,Active,CRED-523001,https://verify.example.com/523001,Company,
+,1523,dbt Analytics Engineering,dbt Labs,Data Engineering,2025-08-15,2027-08-15,Active,CRED-523002,https://verify.example.com/523002,Company,
+,1523,Informatica PowerCenter,Informatica,Data Integration,2024-06-10,2026-06-10,Active,CRED-523003,https://verify.example.com/523003,Self,
+,1524,Databricks Machine Learning Professional,Databricks,AI/ML,2025-05-10,2027-05-10,Active,CRED-524001,https://verify.example.com/524001,Company,
+,1524,SnowPro Core,Snowflake,Cloud Platform,2025-09-18,2027-09-18,Active,CRED-524002,https://verify.example.com/524002,Company,
+,1519,Azure Data Factory Certification,Microsoft,Data Integration,2025-04-15,2027-04-15,Active,CRED-ADF001,https://verify.example.com/adf001,Company,
+,1513,Azure Data Factory Certification,Microsoft,Data Integration,2025-06-20,2027-06-20,Active,CRED-ADF002,https://verify.example.com/adf002,Company,
+,1517,Azure Data Factory Certification,Microsoft,Data Integration,2025-08-10,2027-08-10,Active,CRED-ADF003,https://verify.example.com/adf003,Self,
+,1523,Azure Data Factory Certification,Microsoft,Data Integration,2025-03-25,2027-03-25,Active,CRED-ADF004,https://verify.example.com/adf004,Company,
+,1362,Azure Data Factory Certification,Microsoft,Data Integration,2025-09-15,2027-09-15,Active,CRED-ADF005,https://verify.example.com/adf005,Company,
+,1145,Azure Data Factory Certification,Microsoft,Data Integration,2025-07-05,2027-07-05,Active,CRED-ADF006,https://verify.example.com/adf006,Self,
+,1525,PMP,PMI,Project Management,2025-02-15,2028-02-15,Active,CRED-PM001,https://verify.example.com/pm001,Company,
+,1525,SnowPro Core,Snowflake,Cloud Platform,2025-06-10,2027-06-10,Active,CRED-PM002,https://verify.example.com/pm002,Company,
+,1526,PMP,PMI,Project Management,2025-04-20,2028-04-20,Active,CRED-PM003,https://verify.example.com/pm003,Company,
+,1526,Scrum Master CSM,Scrum Alliance,Agile,2025-01-08,2027-01-08,Active,CRED-PM004,https://verify.example.com/pm004,Self,
+,1527,PMP,PMI,Project Management,2024-11-15,2027-11-15,Active,CRED-PM005,https://verify.example.com/pm005,Company,
+,1527,AWS Cloud Practitioner,Amazon,Cloud Platform,2025-03-22,2027-03-22,Active,CRED-PM006,https://verify.example.com/pm006,Company,
+,1528,Scrum Master CSM,Scrum Alliance,Agile,2025-05-10,2027-05-10,Active,CRED-PM007,https://verify.example.com/pm007,Company,
+,1529,PMP,PMI,Project Management,2024-06-20,2027-06-20,Active,CRED-PM008,https://verify.example.com/pm008,Company,
+,1529,SnowPro Advanced Architect,Snowflake,Cloud Platform,2025-08-15,2027-08-15,Active,CRED-PM009,https://verify.example.com/pm009,Company,
+,1529,Scrum Master CSM,Scrum Alliance,Agile,2025-01-25,2027-01-25,Active,CRED-PM010,https://verify.example.com/pm010,Self,
+,1530,PMP,PMI,Project Management,2024-03-10,2027-03-10,Active,CRED-PM011,https://verify.example.com/pm011,Company,
+,1530,Databricks Machine Learning Professional,Databricks,AI/ML,2025-07-05,2027-07-05,Active,CRED-PM012,https://verify.example.com/pm012,Company,
+,1531,PMP,PMI,Project Management,2024-09-18,2027-09-18,Active,CRED-PM013,https://verify.example.com/pm013,Company,
+,1531,Azure Solutions Architect Expert,Microsoft,Cloud Platform,2025-04-12,2027-04-12,Active,CRED-PM014,https://verify.example.com/pm014,Company,
+,1531,Azure Data Factory Certification,Microsoft,Data Integration,2025-06-28,2027-06-28,Active,CRED-PM015,https://verify.example.com/pm015,Self,
+,1532,PMP,PMI,Project Management,2024-07-22,2027-07-22,Active,CRED-PM016,https://verify.example.com/pm016,Company,
+,1532,GCP Cloud Architect,Google,Cloud Platform,2025-02-18,2027-02-18,Active,CRED-PM017,https://verify.example.com/pm017,Company,
+,1000,Certified Data Modeler (CDM),DAMA International,Data Engineering,2024-06-15,2027-06-15,Active,CDM-2024-1000,https://dama.org/verify/CDM-2024-1000,Company,
+,1007,Data Modeling Associate,Snowflake,Data Engineering,2025-01-10,2027-01-10,Active,SFC-DMA-1007,https://achieve.snowflake.com/verify/SFC-DMA-1007,Company,
+,1010,Certified Data Modeler (CDM),DAMA International,Data Engineering,2023-09-20,2026-09-20,Active,CDM-2023-1010,https://dama.org/verify/CDM-2023-1010,Self,
+,1000,SnowPro Core Certification,Snowflake,Cloud,2025-06-15,2027-06-15,Active,SPC-2025-1000,https://achieve.snowflake.com/verify/SPC-2025-1000,Company,
+,1018,SnowPro Advanced: Data Engineer,Snowflake,Cloud,2025-03-10,2027-03-10,Active,SPADE-2025-1018,https://achieve.snowflake.com/verify/SPADE-2025-1018,Company,
+,1026,SnowPro Advanced: Architect,Snowflake,Cloud,2024-11-20,2026-11-20,Active,SPAA-2024-1026,https://achieve.snowflake.com/verify/SPAA-2024-1026,Company,
+,1002,SnowPro Core Certification,Snowflake,Cloud,2025-09-05,2027-09-05,Active,SPC-2025-1002,https://achieve.snowflake.com/verify/SPC-2025-1002,Company,
+,1005,SnowPro Core Certification,Snowflake,Cloud,2025-01-20,2027-01-20,Active,SPC-2025-1005,https://achieve.snowflake.com/verify/SPC-2025-1005,Self,
+,1010,SnowPro Advanced: Data Engineer,Snowflake,Cloud,2025-08-15,2027-08-15,Active,SPADE-2025-1010,https://achieve.snowflake.com/verify/SPADE-2025-1010,Company,
+,1007,dbt Analytics Engineering Certification,dbt Labs,Data Engineering,2025-04-10,2027-04-10,Active,DBT-AE-2025-1007,https://www.getdbt.com/certifications/verify/DBT-AE-2025-1007,Company,
+,1013,AWS Certified Data Engineer Associate,AWS,Cloud,2025-07-22,2028-07-22,Active,AWS-DEA-2025-1013,https://aws.amazon.com/verification/AWS-DEA-2025-1013,Company,
+,1020,Azure Data Engineer Associate,Microsoft,Cloud,2025-05-18,2027-05-18,Active,AZ-DE-2025-1020,https://learn.microsoft.com/verify/AZ-DE-2025-1020,Self,

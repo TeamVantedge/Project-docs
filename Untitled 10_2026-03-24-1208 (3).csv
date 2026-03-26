@@ -1,0 +1,521 @@
+EMPLOYEE_ID,EMPLOYEE_NAME,EMAIL,DESIGNATION,DEPARTMENT,BUSINESS_UNIT,HIRE_DATE,MANAGER_NAME,LOCATION,EMPLOYMENT_STATUS,BILLABLE_STATUS,TOTAL_EXPERIENCE_YEARS,CREATED_AT
+1001,Diya Singh,diya.singh@kipi.bi,Sr. Lead Engineer,Data Science,FSEM,2022-08-28,Arun Nair,Pune,Inactive,Billable,5.2,2026-03-20 06:48:52.462
+1009,Prisha Kapoor,prisha.kapoor@kipi.bi,Software Engineer,Data Science,CM,2024-12-23,Manoj Gupta,Chicago,Active,Billable,17.1,2026-03-20 06:48:52.462
+1017,Aarush Verma,aarush.verma@kipi.bi,Sr. Software Engineer,Data Engineering,FSEM,2021-05-14,Manoj Gupta,Chicago,Inactive,Billable,10.7,2026-03-20 06:48:52.462
+1025,Navya Hegde,navya.hegde@kipi.bi,Software Engineer,Data Science,CM,2025-01-22,Kavitha Rao,Noida,Active,Billable,6.1,2026-03-20 06:48:52.462
+1033,Nikhil Pai,nikhil.pai@kipi.bi,Software Engineer,Data Science,CM,2022-07-09,Sanjay Reddy,Noida,Active,Partially Billable,1.7,2026-03-20 06:48:52.462
+1041,Rohan Verma,rohan.verma@kipi.bi,Software Engineer,Data Science,FSEM,2022-09-12,Sunita Desai,Dallas,Active,Billable,16.7,2026-03-20 06:48:52.462
+1057,Diya Mehta,diya.mehta@kipi.bi,Software Engineer,Data Science,CM,2020-08-26,Priya Sharma,Hyderabad,Active,Billable,3.6,2026-03-20 06:48:52.462
+1065,Shaurya Kamath,shaurya.kamath@kipi.bi,Sr. Software Engineer,Data Engineering,FSEM,2020-11-30,Manoj Gupta,Bangalore,Active,Billable,16.9,2026-03-20 06:48:52.462
+1073,Ananya Mehta,ananya.mehta@kipi.bi,Sr. Software Engineer,Data Science,HT,2024-12-07,Sanjay Reddy,Bangalore,Active,Partially Billable,6.2,2026-03-20 06:48:52.462
+1081,Dhruv Naidu,dhruv.naidu@kipi.bi,Sr. Software Engineer,Data Engineering,FSEM,2023-11-29,Manoj Gupta,Bangalore,Active,Billable,19.8,2026-03-20 06:48:52.462
+1089,Suresh Joshi,suresh.joshi@kipi.bi,Sr. Software Engineer,Data Science,FSEM,2021-05-20,Sanjay Reddy,Chicago,On Notice,Bench,19.4,2026-03-20 06:48:52.462
+1097,Kavya Saxena,kavya.saxena@kipi.bi,Software Engineer,Data Science,FSEM,2024-08-02,Manoj Gupta,Dallas,Active,Partially Billable,9.7,2026-03-20 06:48:52.462
+1105,Aarush Pandey,aarush.pandey@kipi.bi,Software Engineer,Data Science,FSEM,2020-05-04,Kavitha Rao,Dallas,Active,Billable,19.3,2026-03-20 06:48:52.462
+1113,Shruti Saxena,shruti.saxena@kipi.bi,Sr. Software Engineer,Data Engineering,CM,2020-12-21,Sunita Desai,Hyderabad,Active,Partially Billable,6.7,2026-03-20 06:48:52.462
+1121,Pooja Mishra,pooja.mishra@kipi.bi,Software Engineer,Data Science,HT,2022-04-03,Manoj Gupta,Bangalore,Active,Partially Billable,8.1,2026-03-20 06:48:52.462
+1129,Suresh Sinha,suresh.sinha@kipi.bi,Sr. Software Engineer,Data Engineering,HT,2023-12-12,Manoj Gupta,Remote - India,Active,Bench,5.6,2026-03-20 06:48:52.462
+1137,Reyansh Kumar,reyansh.kumar@kipi.bi,Software Engineer,Data Engineering,HT,2021-07-11,Anita Pillai,Pune,Active,Billable,9.1,2026-03-20 06:48:52.462
+1145,Shaurya Deshpande,shaurya.deshpande@kipi.bi,Sr. Lead Engineer,Data Engineering,HT,2025-08-31,Arun Nair,Hyderabad,Active,Billable,4.0,2026-03-20 06:48:52.462
+1153,Advik Patil,advik.patil@kipi.bi,Sr. Software Engineer,Data Engineering,CM,2021-01-23,Rajiv Kapoor,Pune,Inactive,Partially Billable,17.7,2026-03-20 06:48:52.462
+1161,Krishna Sinha,krishna.sinha@kipi.bi,Lead Engineer,Data Engineering,CM,2022-02-16,Sunita Desai,Chicago,Active,Billable,19.0,2026-03-20 06:48:52.462
+1169,Priya Patel,priya.patel@kipi.bi,Software Engineer,Data Engineering,CM,2021-04-29,Vikash Mehta,Noida,Active,Billable,13.3,2026-03-20 06:48:52.462
+1177,Manish Tiwari,manish.tiwari@kipi.bi,Software Engineer,Data Engineering,CM,2022-09-21,Priya Sharma,Dallas,Active,Bench,14.8,2026-03-20 06:48:52.462
+1185,Aarush Agarwal,aarush.agarwal@kipi.bi,Lead Engineer,Data Science,FSEM,2024-10-15,Priya Sharma,Hyderabad,Active,Billable,13.0,2026-03-20 06:48:52.462
+1193,Priya Rao,priya.rao@kipi.bi,Lead Engineer,Data Science,FSEM,2022-11-02,Anita Pillai,Hyderabad,Active,Partially Billable,8.7,2026-03-20 06:48:52.462
+1201,Aarav Deshpande,aarav.deshpande@kipi.bi,Software Engineer,Data Engineering,CM,2022-08-14,Priya Sharma,Chicago,Active,Billable,5.9,2026-03-20 06:48:52.462
+1209,Shruti Agarwal,shruti.agarwal@kipi.bi,Sr. Software Engineer,Data Engineering,CM,2024-04-01,Deepa Iyer,Dallas,Active,Billable,7.8,2026-03-20 06:48:52.462
+1217,Sai Reddy,sai.reddy@kipi.bi,Sr. Software Engineer,Data Science,FSEM,2022-07-14,Anita Pillai,Dallas,Active,Billable,3.2,2026-03-20 06:48:52.462
+1225,Meera Shetty,meera.shetty@kipi.bi,Sr. Software Engineer,Data Engineering,FSEM,2024-09-08,Vikash Mehta,Bangalore,Active,Billable,18.7,2026-03-20 06:48:52.462
+1233,Navya Yadav,navya.yadav@kipi.bi,Lead Engineer,Data Science,HT,2020-09-15,Kavitha Rao,Hyderabad,Active,Billable,3.1,2026-03-20 06:48:52.462
+1241,Rahul Rao,rahul.rao@kipi.bi,Lead Engineer,Data Science,CM,2024-02-25,Vikash Mehta,Bangalore,Active,Billable,11.3,2026-03-20 06:48:52.462
+1249,Ananya Reddy,ananya.reddy@kipi.bi,Software Engineer,Data Science,HT,2025-04-22,Rajiv Kapoor,Pune,Active,Bench,16.2,2026-03-20 06:48:52.462
+1257,Rahul Verma,rahul.verma@kipi.bi,Software Engineer,Data Engineering,HT,2020-01-22,Deepa Iyer,Noida,Active,Billable,9.0,2026-03-20 06:48:52.462
+1265,Divya Chatterjee,divya.chatterjee@kipi.bi,Associate Solutions Architect,Data Science,CM,2024-11-18,Manoj Gupta,Pune,Active,Billable,17.0,2026-03-20 06:48:52.462
+1273,Deepak Rao,deepak.rao@kipi.bi,Sr. Software Engineer,Data Science,CM,2019-09-05,Arun Nair,Chicago,Active,Bench,16.9,2026-03-20 06:48:52.462
+1281,Aarav Gupta,aarav.gupta@kipi.bi,Software Engineer,Data Engineering,HT,2022-02-24,Vikash Mehta,Remote - India,Active,Bench,3.5,2026-03-20 06:48:52.462
+1289,Tanvi Menon,tanvi.menon@kipi.bi,Sr. Software Engineer,Data Engineering,HT,2024-10-10,Arun Nair,Bangalore,Active,Partially Billable,3.4,2026-03-20 06:48:52.462
+1297,Advik Sharma,advik.sharma@kipi.bi,Solutions Architect,Data Science,CM,2023-02-06,Sunita Desai,Dallas,Active,Partially Billable,15.8,2026-03-20 06:48:52.462
+1305,Sara Patel,sara.patel@kipi.bi,Software Engineer,Data Engineering,CM,2020-04-11,Vikash Mehta,Chicago,Active,Bench,11.1,2026-03-20 06:48:52.462
+1313,Kavya Verma,kavya.verma@kipi.bi,Software Engineer,Data Engineering,FSEM,2021-03-20,Vikash Mehta,Remote - US,Active,Bench,18.4,2026-03-20 06:48:52.462
+1321,Divya Pandey,divya.pandey@kipi.bi,Sr. Software Engineer,Data Science,HT,2019-12-05,Arun Nair,Noida,Active,Bench,18.7,2026-03-20 06:48:52.462
+1329,Rahul Sinha,rahul.sinha@kipi.bi,Software Engineer,Data Science,CM,2022-01-23,Arun Nair,Noida,Active,Partially Billable,15.8,2026-03-20 06:48:52.462
+1337,Ayaan Das,ayaan.das@kipi.bi,Software Engineer,Data Engineering,CM,2025-04-17,Deepa Iyer,Dallas,Active,Billable,7.1,2026-03-20 06:48:52.462
+1345,Ayaan Iyer,ayaan.iyer@kipi.bi,Software Engineer,Data Engineering,HT,2020-05-16,Rajiv Kapoor,Bangalore,Active,Bench,8.5,2026-03-20 06:48:52.462
+1353,Ananya Sharma,ananya.sharma@kipi.bi,Software Engineer,Data Engineering,HT,2019-06-05,Sunita Desai,Remote - US,Active,Billable,10.3,2026-03-20 06:48:52.462
+1361,Dhruv Sinha,dhruv.sinha@kipi.bi,Software Engineer,Data Science,FSEM,2025-06-16,Deepa Iyer,Chicago,On Notice,Billable,12.4,2026-03-20 06:48:52.462
+1369,Aditya Verma,aditya.verma@kipi.bi,Associate Solutions Architect,Data Engineering,HT,2021-10-19,Priya Sharma,Hyderabad,Active,Billable,1.6,2026-03-20 06:48:52.462
+1377,Kabir Singh,kabir.singh@kipi.bi,Sr. Software Engineer,Data Science,HT,2024-10-29,Deepa Iyer,Dallas,Active,Billable,1.9,2026-03-20 06:48:52.462
+1385,Rahul Gupta,rahul.gupta@kipi.bi,Software Engineer,Data Science,HT,2025-03-08,Kavitha Rao,Remote - India,Active,Billable,11.2,2026-03-20 06:48:52.462
+1393,Shaurya Pillai,shaurya.pillai@kipi.bi,Sr. Software Engineer,Data Engineering,FSEM,2021-02-12,Deepa Iyer,Remote - India,Active,Bench,3.5,2026-03-20 06:48:52.462
+1401,Sneha Ghosh,sneha.ghosh@kipi.bi,Sr. Software Engineer,Data Science,CM,2021-02-17,Deepa Iyer,Remote - US,Active,Billable,11.8,2026-03-20 06:48:52.462
+1409,Riya Nair,riya.nair@kipi.bi,Software Engineer,Data Science,CM,2020-11-23,Kavitha Rao,Dallas,Active,Billable,18.7,2026-03-20 06:48:52.462
+1417,Kavya Verma,kavya.verma@kipi.bi,Sr. Software Engineer,Data Science,HT,2022-01-04,Priya Sharma,Chicago,On Notice,Billable,13.1,2026-03-20 06:48:52.462
+1425,Divya Joshi,divya.joshi@kipi.bi,Software Engineer,Data Science,FSEM,2020-11-29,Sanjay Reddy,Remote - India,Inactive,Bench,18.6,2026-03-20 06:48:52.462
+1433,Shruti Pandey,shruti.pandey@kipi.bi,Software Engineer,Data Engineering,FSEM,2024-01-09,Priya Sharma,Remote - US,Active,Bench,6.0,2026-03-20 06:48:52.462
+1441,Pooja Reddy,pooja.reddy@kipi.bi,Sr. Software Engineer,Data Science,FSEM,2022-05-14,Anita Pillai,Dallas,Active,Billable,10.5,2026-03-20 06:48:52.462
+1449,Tanvi Yadav,tanvi.yadav@kipi.bi,Sr. Software Engineer,Data Engineering,HT,2021-02-03,Sunita Desai,Pune,Active,Billable,6.7,2026-03-20 06:48:52.462
+1457,Nandini Banerjee,nandini.banerjee@kipi.bi,Software Engineer,Data Science,HT,2020-10-30,Sanjay Reddy,Hyderabad,Active,Billable,5.9,2026-03-20 06:48:52.462
+1465,Deepak Kulkarni,deepak.kulkarni@kipi.bi,Software Engineer,Data Science,CM,2022-03-31,Priya Sharma,Bangalore,Active,Billable,12.9,2026-03-20 06:48:52.462
+1473,Reyansh Nair,reyansh.nair@kipi.bi,Software Engineer,Data Science,FSEM,2019-08-30,Sunita Desai,Pune,On Notice,Billable,12.7,2026-03-20 06:48:52.462
+1481,Krishna Das,krishna.das@kipi.bi,Sr. Software Engineer,Data Engineering,CM,2021-05-22,Deepa Iyer,Bangalore,Active,Billable,15.3,2026-03-20 06:48:52.462
+1489,Nikhil Patil,nikhil.patil@kipi.bi,Sr. Software Engineer,Data Science,HT,2021-01-25,Deepa Iyer,Dallas,Active,Bench,13.6,2026-03-20 06:48:52.462
+1497,Sneha Mishra,sneha.mishra@kipi.bi,Lead Engineer,Data Science,HT,2024-03-06,Manoj Gupta,Noida,Inactive,Billable,15.1,2026-03-20 06:48:52.462
+1505,Sneha Thakur,sneha.thakur@kipi.bi,Software Engineer,Data Engineering,HT,2024-06-07,Deepa Iyer,Remote - US,Active,Billable,13.7,2026-03-20 06:48:52.462
+1006,Advaith Sharma,advaith.sharma@kipi.bi,Sr. Software Engineer,Data Science,CM,2023-06-25,Manoj Gupta,Pune,Active,Billable,16.7,2026-03-20 06:48:52.462
+1014,Arnav Kulkarni,arnav.kulkarni@kipi.bi,Sr. Software Engineer,Data Engineering,CM,2023-04-13,Rajiv Kapoor,Chicago,Active,Billable,3.5,2026-03-20 06:48:52.462
+1022,Krishna Kumar,krishna.kumar@kipi.bi,Software Engineer,Data Science,HT,2024-03-15,Kavitha Rao,Hyderabad,Active,Billable,5.0,2026-03-20 06:48:52.462
+1030,Ananya Kapoor,ananya.kapoor@kipi.bi,Lead Engineer,Data Science,FSEM,2023-09-11,Sanjay Reddy,Hyderabad,Active,Billable,18.4,2026-03-20 06:48:52.462
+1038,Pooja Menon,pooja.menon@kipi.bi,Associate Solutions Architect,Data Engineering,CM,2024-06-08,Rajiv Kapoor,Bangalore,Active,Bench,19.9,2026-03-20 06:48:52.462
+1046,Deepak Mishra,deepak.mishra@kipi.bi,Sr. Software Engineer,Data Engineering,HT,2023-08-31,Manoj Gupta,Hyderabad,Active,Billable,9.5,2026-03-20 06:48:52.462
+1054,Prisha Kamath,prisha.kamath@kipi.bi,Sr. Software Engineer,Data Science,FSEM,2020-07-09,Anita Pillai,Remote - US,Active,Bench,5.2,2026-03-20 06:48:52.462
+1062,Tanvi Deshpande,tanvi.deshpande@kipi.bi,Sr. Software Engineer,Data Science,FSEM,2022-05-09,Deepa Iyer,Remote - India,Active,Bench,16.6,2026-03-20 06:48:52.462
+1070,Deepak Pai,deepak.pai@kipi.bi,Sr. Lead Engineer,Data Engineering,CM,2023-09-25,Arun Nair,Remote - US,Active,Bench,15.3,2026-03-20 06:48:52.462
+1078,Vihaan Patel,vihaan.patel@kipi.bi,Associate Solutions Architect,Data Engineering,CM,2020-05-10,Rajiv Kapoor,Pune,Active,Bench,9.3,2026-03-20 06:48:52.462
+1086,Deepak Ghosh,deepak.ghosh@kipi.bi,Sr. Software Engineer,Data Science,CM,2025-03-16,Vikash Mehta,Remote - India,Inactive,Billable,17.4,2026-03-20 06:48:52.462
+1094,Amit Mishra,amit.mishra@kipi.bi,Software Engineer,Data Engineering,CM,2023-05-27,Sanjay Reddy,Chicago,Active,Billable,17.5,2026-03-20 06:48:52.462
+1102,Rahul Patel,rahul.patel@kipi.bi,Sr. Lead Engineer,Data Science,FSEM,2021-08-03,Manoj Gupta,Dallas,Active,Billable,17.8,2026-03-20 06:48:52.462
+1049,Rahul Yadav,rahul.yadav@kipi.bi,Software Engineer,Data Engineering,CM,2024-03-20,Vikash Mehta,Remote - India,Active,Billable,19.3,2026-03-20 06:48:52.462
+1110,Rajesh Saxena,rajesh.saxena@kipi.bi,Associate Solutions Architect,Data Science,FSEM,2025-08-30,Manoj Gupta,Dallas,Active,Billable,19.9,2026-03-20 06:48:52.462
+1118,Aarush Patil,aarush.patil@kipi.bi,Software Engineer,Data Engineering,FSEM,2025-08-21,Vikash Mehta,Bangalore,Active,Billable,15.2,2026-03-20 06:48:52.462
+1126,Vikram Rao,vikram.rao@kipi.bi,Associate Solutions Architect,Data Engineering,HT,2019-09-24,Manoj Gupta,Pune,On Notice,Billable,7.8,2026-03-20 06:48:52.462
+1134,Shaurya Kapoor,shaurya.kapoor@kipi.bi,Software Engineer,Data Science,HT,2020-07-16,Arun Nair,Chicago,Active,Billable,1.2,2026-03-20 06:48:52.462
+1142,Diya Joshi,diya.joshi@kipi.bi,Associate Solutions Architect,Data Science,HT,2022-12-17,Deepa Iyer,Remote - India,Active,Billable,10.5,2026-03-20 06:48:52.462
+1150,Dhruv Pandey,dhruv.pandey@kipi.bi,Sr. Lead Engineer,Data Engineering,FSEM,2021-11-14,Manoj Gupta,Bangalore,Active,Bench,18.2,2026-03-20 06:48:52.462
+1158,Nandini Ghosh,nandini.ghosh@kipi.bi,Software Engineer,Data Science,CM,2024-07-02,Anita Pillai,Remote - US,Active,Billable,16.2,2026-03-20 06:48:52.462
+1166,Tanvi Jain,tanvi.jain@kipi.bi,Software Engineer,Data Science,HT,2022-12-02,Anita Pillai,Pune,Active,Billable,19.3,2026-03-20 06:48:52.462
+1174,Rajesh Mehta,rajesh.mehta@kipi.bi,Software Engineer,Data Science,HT,2025-02-01,Rajiv Kapoor,Pune,Active,Partially Billable,15.6,2026-03-20 06:48:52.462
+1182,Karan Joshi,karan.joshi@kipi.bi,Software Engineer,Data Science,CM,2025-05-24,Sanjay Reddy,Dallas,Inactive,Billable,11.9,2026-03-20 06:48:52.462
+1190,Sneha Rao,sneha.rao@kipi.bi,Software Engineer,Data Science,FSEM,2021-09-22,Priya Sharma,Dallas,Active,Bench,3.4,2026-03-20 06:48:52.462
+1198,Vivaan Ghosh,vivaan.ghosh@kipi.bi,Lead Engineer,Data Science,CM,2023-03-18,Arun Nair,Chicago,Active,Partially Billable,15.5,2026-03-20 06:48:52.462
+1206,Atharv Patel,atharv.patel@kipi.bi,Solutions Architect,Data Science,FSEM,2023-10-03,Rajiv Kapoor,Bangalore,Active,Billable,6.4,2026-03-20 06:48:52.462
+1214,Sai Ghosh,sai.ghosh@kipi.bi,Software Engineer,Data Science,HT,2022-11-26,Arun Nair,Bangalore,Active,Billable,13.5,2026-03-20 06:48:52.462
+1222,Isha Rao,isha.rao@kipi.bi,Solutions Architect,Data Engineering,HT,2025-01-28,Rajiv Kapoor,Hyderabad,Active,Billable,4.7,2026-03-20 06:48:52.462
+1230,Priya Patil,priya.patil@kipi.bi,Sr. Software Engineer,Data Engineering,CM,2020-12-15,Priya Sharma,Remote - India,Active,Partially Billable,15.0,2026-03-20 06:48:52.462
+1238,Sneha Kamath,sneha.kamath@kipi.bi,Software Engineer,Data Engineering,CM,2024-05-24,Sanjay Reddy,Noida,Active,Billable,7.0,2026-03-20 06:48:52.462
+1246,Priya Chauhan,priya.chauhan@kipi.bi,Software Engineer,Data Engineering,CM,2019-08-23,Rajiv Kapoor,Hyderabad,Active,Billable,16.7,2026-03-20 06:48:52.462
+1254,Navya Yadav,navya.yadav@kipi.bi,Sr. Software Engineer,Data Engineering,CM,2021-06-12,Vikash Mehta,Remote - India,On Notice,Bench,6.6,2026-03-20 06:48:52.462
+1262,Diya Singh,diya.singh@kipi.bi,Sr. Software Engineer,Data Science,HT,2021-04-29,Manoj Gupta,Bangalore,Active,Partially Billable,5.3,2026-03-20 06:48:52.462
+1270,Riya Hegde,riya.hegde@kipi.bi,Software Engineer,Data Science,HT,2020-01-23,Kavitha Rao,Bangalore,Active,Billable,5.5,2026-03-20 06:48:52.462
+1278,Karan Das,karan.das@kipi.bi,Lead Engineer,Data Science,CM,2020-02-29,Sanjay Reddy,Pune,Active,Partially Billable,6.1,2026-03-20 06:48:52.462
+1286,Arnav Bhat,arnav.bhat@kipi.bi,Software Engineer,Data Science,HT,2022-08-04,Sunita Desai,Remote - US,Active,Billable,12.3,2026-03-20 06:48:52.462
+1294,Rajesh Shetty,rajesh.shetty@kipi.bi,Sr. Software Engineer,Data Engineering,HT,2019-10-22,Rajiv Kapoor,Remote - US,Active,Billable,12.6,2026-03-20 06:48:52.462
+1302,Atharv Sharma,atharv.sharma@kipi.bi,Software Engineer,Data Science,HT,2022-05-18,Priya Sharma,Chicago,Active,Billable,9.3,2026-03-20 06:48:52.462
+1310,Deepak Singh,deepak.singh@kipi.bi,Sr. Software Engineer,Data Science,CM,2021-02-28,Priya Sharma,Bangalore,Active,Billable,17.9,2026-03-20 06:48:52.462
+1318,Vikram Ghosh,vikram.ghosh@kipi.bi,Solutions Architect,Data Engineering,HT,2024-05-17,Kavitha Rao,Remote - India,Active,Billable,18.3,2026-03-20 06:48:52.462
+1326,Sneha Joshi,sneha.joshi@kipi.bi,Sr. Software Engineer,Data Science,CM,2021-04-25,Anita Pillai,Bangalore,Active,Billable,16.8,2026-03-20 06:48:52.462
+1334,Neha Pai,neha.pai@kipi.bi,Software Engineer,Data Science,CM,2022-06-07,Deepa Iyer,Remote - India,Active,Bench,6.2,2026-03-20 06:48:52.462
+1342,Advik Shetty,advik.shetty@kipi.bi,Solutions Architect,Data Engineering,HT,2024-10-19,Deepa Iyer,Dallas,Active,Bench,19.7,2026-03-20 06:48:52.462
+1350,Myra Mishra,myra.mishra@kipi.bi,Sr. Software Engineer,Data Engineering,FSEM,2025-06-19,Arun Nair,Noida,Active,Billable,10.1,2026-03-20 06:48:52.462
+1358,Aanya Banerjee,aanya.banerjee@kipi.bi,Software Engineer,Data Engineering,CM,2021-08-12,Anita Pillai,Chicago,Active,Partially Billable,3.2,2026-03-20 06:48:52.462
+1366,Ananya Joshi,ananya.joshi@kipi.bi,Sr. Software Engineer,Data Engineering,HT,2021-03-13,Manoj Gupta,Pune,Active,Billable,19.1,2026-03-20 06:48:52.462
+1374,Vihaan Patil,vihaan.patil@kipi.bi,Sr. Software Engineer,Data Science,FSEM,2019-09-26,Arun Nair,Remote - US,Active,Partially Billable,8.7,2026-03-20 06:48:52.462
+1382,Manish Nair,manish.nair@kipi.bi,Software Engineer,Data Science,HT,2024-08-22,Priya Sharma,Noida,Active,Billable,2.8,2026-03-20 06:48:52.462
+1390,Karan Jain,karan.jain@kipi.bi,Software Engineer,Data Science,CM,2022-06-02,Vikash Mehta,Bangalore,Active,Billable,1.2,2026-03-20 06:48:52.462
+1398,Nandini Bhat,nandini.bhat@kipi.bi,Software Engineer,Data Science,HT,2022-03-03,Sunita Desai,Bangalore,Active,Billable,8.1,2026-03-20 06:48:52.462
+1406,Kabir Mishra,kabir.mishra@kipi.bi,Software Engineer,Data Engineering,CM,2022-02-04,Priya Sharma,Remote - US,Active,Bench,13.6,2026-03-20 06:48:52.462
+1414,Amit Menon,amit.menon@kipi.bi,Sr. Software Engineer,Data Engineering,CM,2019-12-31,Deepa Iyer,Remote - US,On Notice,Billable,1.2,2026-03-20 06:48:52.462
+1422,Aditya Verma,aditya.verma@kipi.bi,Solutions Architect,Data Science,HT,2020-07-09,Anita Pillai,Bangalore,Inactive,Billable,10.7,2026-03-20 06:48:52.462
+1430,Nikhil Jain,nikhil.jain@kipi.bi,Software Engineer,Data Engineering,HT,2019-09-20,Kavitha Rao,Noida,Active,Billable,4.2,2026-03-20 06:48:52.462
+1438,Atharv Nair,atharv.nair@kipi.bi,Sr. Lead Engineer,Data Engineering,FSEM,2021-02-09,Priya Sharma,Hyderabad,Active,Bench,3.7,2026-03-20 06:48:52.462
+1446,Tanvi Bhat,tanvi.bhat@kipi.bi,Software Engineer,Data Science,HT,2025-05-13,Priya Sharma,Chicago,Active,Billable,5.5,2026-03-20 06:48:52.462
+1454,Kavya Sharma,kavya.sharma@kipi.bi,Software Engineer,Data Engineering,FSEM,2022-11-26,Sunita Desai,Dallas,Active,Billable,14.8,2026-03-20 06:48:52.462
+1462,Deepak Mehta,deepak.mehta@kipi.bi,Sr. Software Engineer,Data Science,CM,2024-05-22,Anita Pillai,Hyderabad,Active,Bench,1.5,2026-03-20 06:48:52.462
+1470,Karan Yadav,karan.yadav@kipi.bi,Software Engineer,Data Science,HT,2023-04-06,Manoj Gupta,Remote - India,Active,Billable,17.5,2026-03-20 06:48:52.462
+1007,Ayaan Das,ayaan.das@kipi.bi,Sr. Software Engineer,Data Engineering,FSEM,2023-10-13,Deepa Iyer,Hyderabad,Active,Billable,7.3,2026-03-20 06:48:52.462
+1015,Sara Agarwal,sara.agarwal@kipi.bi,Sr. Software Engineer,Data Engineering,FSEM,2022-03-09,Sanjay Reddy,Pune,Active,Bench,7.9,2026-03-20 06:48:52.462
+1023,Atharv Yadav,atharv.yadav@kipi.bi,Software Engineer,Data Science,HT,2023-11-16,Deepa Iyer,Dallas,Active,Billable,11.2,2026-03-20 06:48:52.462
+1031,Rahul Rao,rahul.rao@kipi.bi,Software Engineer,Data Science,HT,2020-12-17,Sunita Desai,Bangalore,Active,Bench,7.2,2026-03-20 06:48:52.462
+1039,Deepak Rao,deepak.rao@kipi.bi,Solutions Architect,Data Science,HT,2019-06-02,Rajiv Kapoor,Remote - India,Active,Billable,9.5,2026-03-20 06:48:52.462
+1047,Divya Verma,divya.verma@kipi.bi,Lead Engineer,Data Engineering,HT,2021-07-10,Priya Sharma,Remote - India,Active,Billable,9.1,2026-03-20 06:48:52.462
+1055,Rohan Jain,rohan.jain@kipi.bi,Software Engineer,Data Engineering,HT,2022-04-04,Vikash Mehta,Hyderabad,Active,Partially Billable,10.0,2026-03-20 06:48:52.462
+1063,Aarav Verma,aarav.verma@kipi.bi,Lead Engineer,Data Science,CM,2023-10-25,Vikash Mehta,Pune,Active,Billable,1.5,2026-03-20 06:48:52.462
+1071,Nikhil Pillai,nikhil.pillai@kipi.bi,Associate Solutions Architect,Data Engineering,HT,2023-11-08,Manoj Gupta,Remote - India,Active,Billable,6.7,2026-03-20 06:48:52.462
+1079,Pooja Rao,pooja.rao@kipi.bi,Sr. Lead Engineer,Data Science,FSEM,2025-05-06,Manoj Gupta,Noida,Active,Partially Billable,10.9,2026-03-20 06:48:52.462
+1087,Advik Agarwal,advik.agarwal@kipi.bi,Software Engineer,Data Science,FSEM,2020-05-09,Deepa Iyer,Noida,On Notice,Partially Billable,19.1,2026-03-20 06:48:52.462
+1095,Aanya Das,aanya.das@kipi.bi,Software Engineer,Data Engineering,CM,2019-05-25,Deepa Iyer,Dallas,Active,Billable,2.1,2026-03-20 06:48:52.462
+1103,Deepak Deshmukh,deepak.deshmukh@kipi.bi,Lead Engineer,Data Science,FSEM,2025-08-18,Anita Pillai,Hyderabad,Active,Billable,1.2,2026-03-20 06:48:52.462
+1111,Anika Banerjee,anika.banerjee@kipi.bi,Sr. Software Engineer,Data Science,HT,2022-10-08,Sanjay Reddy,Pune,Active,Billable,19.8,2026-03-20 06:48:52.462
+1119,Kavya Sinha,kavya.sinha@kipi.bi,Sr. Lead Engineer,Data Science,HT,2021-07-12,Rajiv Kapoor,Dallas,Active,Bench,2.8,2026-03-20 06:48:52.462
+1127,Nandini Deshmukh,nandini.deshmukh@kipi.bi,Sr. Software Engineer,Data Engineering,FSEM,2024-07-29,Sunita Desai,Noida,Active,Billable,18.7,2026-03-20 06:48:52.462
+1135,Manish Patel,manish.patel@kipi.bi,Sr. Software Engineer,Data Science,HT,2020-07-24,Vikash Mehta,Pune,Active,Billable,9.0,2026-03-20 06:48:52.462
+1143,Aarush Gupta,aarush.gupta@kipi.bi,Software Engineer,Data Engineering,HT,2020-01-05,Deepa Iyer,Dallas,Active,Billable,9.7,2026-03-20 06:48:52.462
+1151,Rajesh Jain,rajesh.jain@kipi.bi,Lead Engineer,Data Science,CM,2023-05-02,Deepa Iyer,Hyderabad,Active,Billable,17.6,2026-03-20 06:48:52.462
+1159,Isha Pandey,isha.pandey@kipi.bi,Sr. Lead Engineer,Data Science,FSEM,2022-07-03,Priya Sharma,Hyderabad,Active,Partially Billable,9.2,2026-03-20 06:48:52.462
+1167,Suresh Singh,suresh.singh@kipi.bi,Lead Engineer,Data Engineering,HT,2019-06-27,Sunita Desai,Remote - US,Active,Billable,4.0,2026-03-20 06:48:52.462
+1175,Arjun Jain,arjun.jain@kipi.bi,Software Engineer,Data Engineering,FSEM,2020-09-14,Anita Pillai,Bangalore,On Notice,Billable,2.3,2026-03-20 06:48:52.462
+1183,Priya Tiwari,priya.tiwari@kipi.bi,Software Engineer,Data Engineering,HT,2025-03-09,Kavitha Rao,Pune,Active,Partially Billable,6.0,2026-03-20 06:48:52.462
+1191,Krishna Pandey,krishna.pandey@kipi.bi,Software Engineer,Data Science,FSEM,2023-05-15,Deepa Iyer,Chicago,Active,Billable,6.4,2026-03-20 06:48:52.462
+1199,Tanvi Pai,tanvi.pai@kipi.bi,Software Engineer,Data Engineering,CM,2021-08-26,Kavitha Rao,Chicago,Active,Bench,15.0,2026-03-20 06:48:52.462
+1207,Sai Chauhan,sai.chauhan@kipi.bi,Lead Engineer,Data Engineering,FSEM,2022-12-02,Arun Nair,Remote - India,Active,Billable,3.3,2026-03-20 06:48:52.462
+1215,Vivaan Sharma,vivaan.sharma@kipi.bi,Lead Engineer,Data Engineering,FSEM,2022-11-24,Sunita Desai,Hyderabad,On Notice,Billable,9.1,2026-03-20 06:48:52.462
+1223,Advik Goyal,advik.goyal@kipi.bi,Sr. Software Engineer,Data Science,FSEM,2020-05-23,Anita Pillai,Remote - US,Active,Billable,16.3,2026-03-20 06:48:52.462
+1231,Atharv Patil,atharv.patil@kipi.bi,Sr. Software Engineer,Data Engineering,HT,2020-08-04,Rajiv Kapoor,Bangalore,Active,Billable,1.7,2026-03-20 06:48:52.462
+1239,Navya Saxena,navya.saxena@kipi.bi,Associate Solutions Architect,Data Engineering,FSEM,2023-06-02,Kavitha Rao,Remote - US,Active,Billable,4.3,2026-03-20 06:48:52.462
+1247,Divya Saxena,divya.saxena@kipi.bi,Sr. Software Engineer,Data Engineering,FSEM,2023-04-21,Anita Pillai,Remote - US,Active,Bench,11.8,2026-03-20 06:48:52.462
+1255,Meera Mishra,meera.mishra@kipi.bi,Sr. Software Engineer,Data Science,HT,2022-11-14,Vikash Mehta,Remote - US,Active,Billable,12.1,2026-03-20 06:48:52.462
+1263,Amit Sharma,amit.sharma@kipi.bi,Sr. Software Engineer,Data Engineering,CM,2022-06-15,Vikash Mehta,Pune,Active,Billable,10.1,2026-03-20 06:48:52.462
+1271,Myra Verma,myra.verma@kipi.bi,Software Engineer,Data Science,HT,2021-10-02,Priya Sharma,Hyderabad,Active,Bench,19.5,2026-03-20 06:48:52.462
+1279,Ritvik Mishra,ritvik.mishra@kipi.bi,Sr. Software Engineer,Data Science,CM,2024-10-29,Kavitha Rao,Remote - India,Active,Partially Billable,16.1,2026-03-20 06:48:52.462
+1287,Nandini Sharma,nandini.sharma@kipi.bi,Software Engineer,Data Science,FSEM,2023-07-22,Kavitha Rao,Remote - India,Active,Billable,6.9,2026-03-20 06:48:52.462
+1295,Shruti Menon,shruti.menon@kipi.bi,Lead Engineer,Data Engineering,FSEM,2022-10-04,Priya Sharma,Dallas,Inactive,Billable,1.7,2026-03-20 06:48:52.462
+1303,Ishaan Pandey,ishaan.pandey@kipi.bi,Software Engineer,Data Engineering,CM,2022-05-27,Priya Sharma,Chicago,On Notice,Billable,19.1,2026-03-20 06:48:52.462
+1311,Aarav Mishra,aarav.mishra@kipi.bi,Software Engineer,Data Engineering,CM,2024-05-10,Arun Nair,Pune,Inactive,Billable,1.7,2026-03-20 06:48:52.462
+1319,Tanvi Goyal,tanvi.goyal@kipi.bi,Software Engineer,Data Science,HT,2021-12-16,Kavitha Rao,Bangalore,Active,Billable,3.1,2026-03-20 06:48:52.462
+1327,Aanya Chauhan,aanya.chauhan@kipi.bi,Sr. Software Engineer,Data Science,HT,2021-06-10,Manoj Gupta,Noida,Active,Billable,17.5,2026-03-20 06:48:52.462
+1335,Myra Gupta,myra.gupta@kipi.bi,Software Engineer,Data Science,CM,2020-11-28,Vikash Mehta,Noida,On Notice,Billable,4.2,2026-03-20 06:48:52.462
+1343,Vihaan Mehta,vihaan.mehta@kipi.bi,Software Engineer,Data Engineering,HT,2019-08-31,Manoj Gupta,Bangalore,Inactive,Partially Billable,13.5,2026-03-20 06:48:52.462
+1351,Rohan Jain,rohan.jain@kipi.bi,Software Engineer,Data Engineering,FSEM,2023-11-01,Vikash Mehta,Chicago,Active,Billable,7.8,2026-03-20 06:48:52.462
+1359,Ritvik Deshmukh,ritvik.deshmukh@kipi.bi,Sr. Software Engineer,Data Science,FSEM,2023-06-23,Deepa Iyer,Bangalore,Active,Partially Billable,16.8,2026-03-20 06:48:52.462
+1367,Deepak Thakur,deepak.thakur@kipi.bi,Lead Engineer,Data Engineering,CM,2019-05-25,Arun Nair,Dallas,Active,Billable,13.9,2026-03-20 06:48:52.462
+1375,Divya Joshi,divya.joshi@kipi.bi,Lead Engineer,Data Engineering,HT,2025-06-06,Vikash Mehta,Dallas,Active,Billable,4.0,2026-03-20 06:48:52.462
+1383,Navya Yadav,navya.yadav@kipi.bi,Sr. Software Engineer,Data Science,FSEM,2023-08-22,Priya Sharma,Dallas,Active,Billable,8.3,2026-03-20 06:48:52.462
+1391,Myra Menon,myra.menon@kipi.bi,Software Engineer,Data Engineering,FSEM,2023-10-28,Rajiv Kapoor,Dallas,Active,Billable,3.1,2026-03-20 06:48:52.462
+1399,Dhruv Pillai,dhruv.pillai@kipi.bi,Software Engineer,Data Engineering,HT,2023-05-29,Vikash Mehta,Bangalore,Active,Billable,5.7,2026-03-20 06:48:52.462
+1407,Krishna Thakur,krishna.thakur@kipi.bi,Sr. Lead Engineer,Data Science,HT,2020-11-23,Sanjay Reddy,Chicago,Active,Billable,3.9,2026-03-20 06:48:52.462
+1415,Prisha Kulkarni,prisha.kulkarni@kipi.bi,Software Engineer,Data Science,FSEM,2024-04-13,Anita Pillai,Hyderabad,Active,Billable,17.1,2026-03-20 06:48:52.462
+1423,Sai Pillai,sai.pillai@kipi.bi,Sr. Software Engineer,Data Science,CM,2023-08-28,Vikash Mehta,Chicago,Inactive,Bench,5.6,2026-03-20 06:48:52.462
+1431,Aditya Deshmukh,aditya.deshmukh@kipi.bi,Software Engineer,Data Science,HT,2023-02-07,Rajiv Kapoor,Hyderabad,Active,Billable,2.1,2026-03-20 06:48:52.462
+1439,Vikram Singh,vikram.singh@kipi.bi,Sr. Software Engineer,Data Science,HT,2022-01-09,Manoj Gupta,Bangalore,Active,Partially Billable,5.8,2026-03-20 06:48:52.462
+1447,Isha Kapoor,isha.kapoor@kipi.bi,Software Engineer,Data Science,HT,2020-06-29,Vikash Mehta,Hyderabad,Active,Billable,1.3,2026-03-20 06:48:52.462
+1455,Prisha Kamath,prisha.kamath@kipi.bi,Software Engineer,Data Engineering,HT,2023-08-05,Kavitha Rao,Hyderabad,Active,Billable,8.2,2026-03-20 06:48:52.462
+1463,Kabir Iyer,kabir.iyer@kipi.bi,Sr. Software Engineer,Data Science,HT,2022-08-15,Anita Pillai,Chicago,Inactive,Bench,14.0,2026-03-20 06:48:52.462
+1471,Isha Chatterjee,isha.chatterjee@kipi.bi,Sr. Software Engineer,Data Science,HT,2024-04-30,Anita Pillai,Dallas,Active,Billable,12.5,2026-03-20 06:48:52.462
+1479,Pooja Deshmukh,pooja.deshmukh@kipi.bi,Sr. Lead Engineer,Data Engineering,FSEM,2023-11-09,Arun Nair,Bangalore,Active,Partially Billable,9.6,2026-03-20 06:48:52.462
+1487,Sara Hegde,sara.hegde@kipi.bi,Solutions Architect,Data Engineering,HT,2019-12-29,Kavitha Rao,Hyderabad,Active,Partially Billable,3.9,2026-03-20 06:48:52.462
+1495,Nandini Kamath,nandini.kamath@kipi.bi,Sr. Software Engineer,Data Science,CM,2023-06-01,Sunita Desai,Chicago,Active,Billable,6.2,2026-03-20 06:48:52.462
+1503,Reyansh Gupta,reyansh.gupta@kipi.bi,Solutions Architect,Data Engineering,FSEM,2022-12-20,Manoj Gupta,Remote - India,Active,Billable,3.6,2026-03-20 06:48:52.462
+1511,Isha Banerjee,isha.banerjee@kipi.bi,Software Engineer,Data Engineering,HT,2021-02-24,Sunita Desai,Pune,Inactive,Billable,11.1,2026-03-20 06:48:52.462
+1004,Advaith Kumar,advaith.kumar@kipi.bi,Software Engineer,Data Engineering,CM,2021-07-12,Deepa Iyer,Remote - India,Active,Billable,14.5,2026-03-20 06:48:52.462
+1012,Sai Naidu,sai.naidu@kipi.bi,Software Engineer,Data Science,CM,2024-04-09,Sunita Desai,Pune,Active,Bench,19.6,2026-03-20 06:48:52.462
+1020,Aditya Banerjee,aditya.banerjee@kipi.bi,Lead Engineer,Data Engineering,CM,2024-09-29,Manoj Gupta,Pune,Active,Billable,2.8,2026-03-20 06:48:52.462
+1028,Shruti Gupta,shruti.gupta@kipi.bi,Sr. Software Engineer,Data Engineering,HT,2021-07-17,Sunita Desai,Dallas,Active,Partially Billable,4.5,2026-03-20 06:48:52.462
+1036,Ananya Hegde,ananya.hegde@kipi.bi,Lead Engineer,Data Engineering,FSEM,2019-09-28,Vikash Mehta,Bangalore,Active,Billable,3.6,2026-03-20 06:48:52.462
+1044,Isha Verma,isha.verma@kipi.bi,Software Engineer,Data Science,FSEM,2020-05-31,Kavitha Rao,Remote - US,Active,Billable,4.6,2026-03-20 06:48:52.462
+1052,Reyansh Rao,reyansh.rao@kipi.bi,Lead Engineer,Data Science,CM,2024-11-06,Arun Nair,Hyderabad,Active,Billable,17.7,2026-03-20 06:48:52.462
+1060,Advaith Saxena,advaith.saxena@kipi.bi,Software Engineer,Data Engineering,HT,2020-07-24,Arun Nair,Noida,Active,Billable,5.0,2026-03-20 06:48:52.462
+1068,Deepak Ghosh,deepak.ghosh@kipi.bi,Software Engineer,Data Science,CM,2021-02-07,Vikash Mehta,Remote - US,Active,Billable,11.4,2026-03-20 06:48:52.462
+1076,Tanvi Shetty,tanvi.shetty@kipi.bi,Lead Engineer,Data Engineering,HT,2021-02-01,Kavitha Rao,Dallas,Active,Billable,4.9,2026-03-20 06:48:52.462
+1084,Karan Nair,karan.nair@kipi.bi,Software Engineer,Data Science,CM,2020-11-10,Manoj Gupta,Chicago,Active,Billable,12.9,2026-03-20 06:48:52.462
+1092,Aarav Singh,aarav.singh@kipi.bi,Software Engineer,Data Science,HT,2020-08-15,Arun Nair,Bangalore,Active,Billable,1.3,2026-03-20 06:48:52.462
+1100,Aditya Singh,aditya.singh@kipi.bi,Sr. Software Engineer,Data Science,FSEM,2020-02-16,Sunita Desai,Remote - India,Active,Billable,14.5,2026-03-20 06:48:52.462
+1108,Atharv Patel,atharv.patel@kipi.bi,Sr. Software Engineer,Data Science,CM,2019-11-18,Kavitha Rao,Chicago,Active,Bench,18.2,2026-03-20 06:48:52.462
+1116,Anika Gupta,anika.gupta@kipi.bi,Lead Engineer,Data Science,CM,2025-04-23,Vikash Mehta,Chicago,Inactive,Billable,18.2,2026-03-20 06:48:52.462
+1124,Kabir Chatterjee,kabir.chatterjee@kipi.bi,Sr. Software Engineer,Data Engineering,FSEM,2022-07-03,Sunita Desai,Hyderabad,Active,Billable,11.3,2026-03-20 06:48:52.462
+1132,Priya Patel,priya.patel@kipi.bi,Sr. Lead Engineer,Data Science,HT,2020-08-28,Vikash Mehta,Noida,Active,Bench,17.5,2026-03-20 06:48:52.462
+1140,Aanya Deshpande,aanya.deshpande@kipi.bi,Sr. Software Engineer,Data Science,HT,2022-05-16,Deepa Iyer,Remote - US,Active,Partially Billable,2.0,2026-03-20 06:48:52.462
+1148,Kavya Chauhan,kavya.chauhan@kipi.bi,Lead Engineer,Data Engineering,CM,2020-09-23,Sunita Desai,Chicago,Active,Bench,18.3,2026-03-20 06:48:52.462
+1156,Reyansh Chatterjee,reyansh.chatterjee@kipi.bi,Software Engineer,Data Engineering,HT,2024-10-03,Sunita Desai,Pune,Active,Billable,12.0,2026-03-20 06:48:52.462
+1164,Deepak Pillai,deepak.pillai@kipi.bi,Software Engineer,Data Engineering,HT,2024-01-20,Sunita Desai,Remote - US,Active,Billable,6.5,2026-03-20 06:48:52.462
+1172,Shaurya Patil,shaurya.patil@kipi.bi,Solutions Architect,Data Science,CM,2021-05-25,Sanjay Reddy,Remote - US,Active,Partially Billable,5.5,2026-03-20 06:48:52.462
+1180,Sneha Yadav,sneha.yadav@kipi.bi,Software Engineer,Data Engineering,FSEM,2020-01-31,Arun Nair,Dallas,Active,Billable,11.1,2026-03-20 06:48:52.462
+1188,Riya Pandey,riya.pandey@kipi.bi,Software Engineer,Data Engineering,CM,2025-01-16,Manoj Gupta,Hyderabad,Active,Billable,16.1,2026-03-20 06:48:52.462
+1196,Krishna Naidu,krishna.naidu@kipi.bi,Software Engineer,Data Engineering,HT,2021-12-31,Deepa Iyer,Dallas,On Notice,Billable,15.8,2026-03-20 06:48:52.462
+1204,Aanya Banerjee,aanya.banerjee@kipi.bi,Software Engineer,Data Engineering,FSEM,2025-06-30,Deepa Iyer,Remote - India,Active,Billable,5.8,2026-03-20 06:48:52.462
+1212,Isha Mishra,isha.mishra@kipi.bi,Solutions Architect,Data Science,HT,2024-10-01,Rajiv Kapoor,Dallas,Active,Billable,10.4,2026-03-20 06:48:52.462
+1220,Aarav Pai,aarav.pai@kipi.bi,Software Engineer,Data Engineering,CM,2023-05-03,Priya Sharma,Remote - US,Active,Billable,8.0,2026-03-20 06:48:52.462
+1228,Arnav Gupta,arnav.gupta@kipi.bi,Software Engineer,Data Science,FSEM,2024-10-12,Priya Sharma,Noida,Active,Billable,17.3,2026-03-20 06:48:52.462
+1236,Aarush Kulkarni,aarush.kulkarni@kipi.bi,Sr. Software Engineer,Data Engineering,HT,2022-06-09,Rajiv Kapoor,Hyderabad,Active,Bench,11.1,2026-03-20 06:48:52.462
+1244,Pranav Mehta,pranav.mehta@kipi.bi,Sr. Lead Engineer,Data Science,CM,2024-03-29,Manoj Gupta,Hyderabad,Active,Billable,12.3,2026-03-20 06:48:52.462
+1252,Rajesh Singh,rajesh.singh@kipi.bi,Sr. Software Engineer,Data Engineering,HT,2020-01-11,Kavitha Rao,Pune,Active,Bench,9.7,2026-03-20 06:48:52.462
+1260,Vivaan Sinha,vivaan.sinha@kipi.bi,Sr. Software Engineer,Data Engineering,FSEM,2022-09-19,Vikash Mehta,Hyderabad,Active,Billable,14.3,2026-03-20 06:48:52.462
+1268,Diya Thakur,diya.thakur@kipi.bi,Software Engineer,Data Science,FSEM,2019-06-24,Vikash Mehta,Pune,Active,Bench,6.3,2026-03-20 06:48:52.462
+1276,Rahul Sinha,rahul.sinha@kipi.bi,Lead Engineer,Data Engineering,FSEM,2025-01-20,Priya Sharma,Chicago,Active,Partially Billable,5.6,2026-03-20 06:48:52.462
+1284,Suresh Das,suresh.das@kipi.bi,Software Engineer,Data Science,FSEM,2019-06-23,Anita Pillai,Remote - US,Active,Billable,8.9,2026-03-20 06:48:52.462
+1292,Ritvik Saxena,ritvik.saxena@kipi.bi,Software Engineer,Data Engineering,HT,2020-04-22,Rajiv Kapoor,Chicago,Active,Bench,19.3,2026-03-20 06:48:52.462
+1300,Arjun Nair,arjun.nair@kipi.bi,Software Engineer,Data Engineering,HT,2019-12-17,Rajiv Kapoor,Chicago,Active,Billable,16.7,2026-03-20 06:48:52.462
+1308,Ritvik Yadav,ritvik.yadav@kipi.bi,Software Engineer,Data Science,HT,2020-03-17,Rajiv Kapoor,Hyderabad,Active,Billable,18.0,2026-03-20 06:48:52.462
+1316,Rohan Nair,rohan.nair@kipi.bi,Sr. Software Engineer,Data Engineering,FSEM,2024-03-26,Arun Nair,Remote - India,Active,Billable,5.4,2026-03-20 06:48:52.462
+1324,Pooja Thakur,pooja.thakur@kipi.bi,Solutions Architect,Data Engineering,HT,2022-12-21,Arun Nair,Noida,Active,Billable,16.9,2026-03-20 06:48:52.462
+1332,Suresh Iyer,suresh.iyer@kipi.bi,Sr. Software Engineer,Data Science,HT,2021-07-12,Arun Nair,Hyderabad,On Notice,Partially Billable,14.5,2026-03-20 06:48:52.462
+1340,Advik Thakur,advik.thakur@kipi.bi,Software Engineer,Data Engineering,CM,2024-08-02,Vikash Mehta,Bangalore,Active,Billable,11.1,2026-03-20 06:48:52.462
+1348,Rajesh Joshi,rajesh.joshi@kipi.bi,Software Engineer,Data Engineering,FSEM,2023-10-21,Priya Sharma,Bangalore,Active,Partially Billable,2.8,2026-03-20 06:48:52.462
+1356,Aanya Chatterjee,aanya.chatterjee@kipi.bi,Lead Engineer,Data Engineering,HT,2024-06-22,Rajiv Kapoor,Chicago,Active,Partially Billable,7.5,2026-03-20 06:48:52.462
+1364,Myra Tiwari,myra.tiwari@kipi.bi,Lead Engineer,Data Engineering,CM,2024-10-10,Anita Pillai,Dallas,Active,Billable,9.4,2026-03-20 06:48:52.462
+1372,Deepak Hegde,deepak.hegde@kipi.bi,Software Engineer,Data Science,CM,2024-12-02,Anita Pillai,Chicago,Active,Partially Billable,8.6,2026-03-20 06:48:52.462
+1380,Krishna Gupta,krishna.gupta@kipi.bi,Software Engineer,Data Engineering,CM,2021-04-11,Rajiv Kapoor,Remote - US,Active,Billable,16.3,2026-03-20 06:48:52.462
+1388,Atharv Goyal,atharv.goyal@kipi.bi,Lead Engineer,Data Engineering,FSEM,2022-10-10,Sunita Desai,Remote - US,Active,Bench,3.8,2026-03-20 06:48:52.462
+1396,Ritvik Singh,ritvik.singh@kipi.bi,Sr. Software Engineer,Data Engineering,CM,2022-06-07,Vikash Mehta,Chicago,On Notice,Billable,14.1,2026-03-20 06:48:52.462
+1404,Manish Gupta,manish.gupta@kipi.bi,Sr. Software Engineer,Data Engineering,CM,2022-05-20,Anita Pillai,Hyderabad,Active,Billable,20.0,2026-03-20 06:48:52.462
+1412,Tanvi Nair,tanvi.nair@kipi.bi,Sr. Software Engineer,Data Engineering,FSEM,2022-10-16,Rajiv Kapoor,Hyderabad,Active,Billable,8.2,2026-03-20 06:48:52.462
+1420,Atharv Joshi,atharv.joshi@kipi.bi,Software Engineer,Data Engineering,HT,2021-05-29,Sunita Desai,Pune,Active,Billable,2.3,2026-03-20 06:48:52.462
+1428,Kavya Pillai,kavya.pillai@kipi.bi,Software Engineer,Data Engineering,HT,2025-09-15,Anita Pillai,Noida,Active,Bench,1.9,2026-03-20 06:48:52.462
+1436,Arjun Banerjee,arjun.banerjee@kipi.bi,Sr. Software Engineer,Data Science,HT,2022-01-22,Sanjay Reddy,Hyderabad,Active,Partially Billable,8.5,2026-03-20 06:48:52.462
+1444,Shruti Thakur,shruti.thakur@kipi.bi,Sr. Software Engineer,Data Engineering,FSEM,2023-02-10,Priya Sharma,Remote - US,Active,Billable,13.4,2026-03-20 06:48:52.462
+1005,Rohan Sinha,rohan.sinha@kipi.bi,Sr. Software Engineer,Data Science,HT,2019-08-06,Sunita Desai,Chicago,Active,Bench,18.0,2026-03-20 06:48:52.462
+1013,Shruti Verma,shruti.verma@kipi.bi,Lead Engineer,Data Science,FSEM,2025-03-24,Kavitha Rao,Remote - US,Active,Billable,18.3,2026-03-20 06:48:52.462
+1021,Aarav Hegde,aarav.hegde@kipi.bi,Software Engineer,Data Engineering,HT,2024-06-22,Sanjay Reddy,Hyderabad,Active,Billable,10.2,2026-03-20 06:48:52.462
+1029,Shaurya Das,shaurya.das@kipi.bi,Software Engineer,Data Science,FSEM,2024-09-05,Kavitha Rao,Bangalore,Active,Billable,2.3,2026-03-20 06:48:52.462
+1037,Deepak Singh,deepak.singh@kipi.bi,Software Engineer,Data Science,CM,2021-02-16,Anita Pillai,Chicago,Active,Billable,9.5,2026-03-20 06:48:52.462
+1045,Rajesh Tiwari,rajesh.tiwari@kipi.bi,Software Engineer,Data Engineering,HT,2023-03-12,Kavitha Rao,Noida,Active,Billable,17.2,2026-03-20 06:48:52.462
+1053,Arjun Saxena,arjun.saxena@kipi.bi,Software Engineer,Data Engineering,HT,2024-02-29,Manoj Gupta,Noida,Active,Billable,17.9,2026-03-20 06:48:52.462
+1061,Rohan Menon,rohan.menon@kipi.bi,Software Engineer,Data Science,CM,2025-06-12,Arun Nair,Dallas,Active,Bench,17.5,2026-03-20 06:48:52.462
+1069,Aditya Shetty,aditya.shetty@kipi.bi,Software Engineer,Data Engineering,CM,2024-11-23,Sanjay Reddy,Hyderabad,Active,Bench,15.8,2026-03-20 06:48:52.462
+1077,Riya Joshi,riya.joshi@kipi.bi,Lead Engineer,Data Engineering,FSEM,2019-11-16,Kavitha Rao,Dallas,Active,Billable,7.3,2026-03-20 06:48:52.462
+1085,Rohan Thakur,rohan.thakur@kipi.bi,Lead Engineer,Data Engineering,FSEM,2024-10-04,Deepa Iyer,Remote - US,Active,Billable,1.8,2026-03-20 06:48:52.462
+1093,Ishaan Joshi,ishaan.joshi@kipi.bi,Sr. Software Engineer,Data Engineering,FSEM,2023-04-10,Sunita Desai,Hyderabad,Active,Partially Billable,4.3,2026-03-20 06:48:52.462
+1101,Advik Verma,advik.verma@kipi.bi,Software Engineer,Data Science,FSEM,2020-09-27,Arun Nair,Noida,Active,Bench,7.5,2026-03-20 06:48:52.462
+1109,Tanvi Hegde,tanvi.hegde@kipi.bi,Sr. Software Engineer,Data Engineering,FSEM,2022-01-20,Rajiv Kapoor,Hyderabad,On Notice,Billable,5.8,2026-03-20 06:48:52.462
+1117,Vihaan Reddy,vihaan.reddy@kipi.bi,Lead Engineer,Data Engineering,HT,2020-05-25,Priya Sharma,Pune,Active,Billable,17.3,2026-03-20 06:48:52.462
+1125,Navya Patil,navya.patil@kipi.bi,Lead Engineer,Data Science,CM,2019-05-30,Arun Nair,Hyderabad,Active,Billable,15.4,2026-03-20 06:48:52.462
+1133,Advik Kumar,advik.kumar@kipi.bi,Software Engineer,Data Engineering,CM,2021-08-04,Anita Pillai,Dallas,Active,Bench,5.8,2026-03-20 06:48:52.462
+1141,Aanya Kapoor,aanya.kapoor@kipi.bi,Lead Engineer,Data Science,CM,2025-07-03,Deepa Iyer,Remote - India,Active,Billable,5.0,2026-03-20 06:48:52.462
+1149,Pooja Pillai,pooja.pillai@kipi.bi,Software Engineer,Data Science,HT,2023-12-01,Anita Pillai,Remote - US,Active,Billable,14.9,2026-03-20 06:48:52.462
+1157,Arnav Das,arnav.das@kipi.bi,Sr. Software Engineer,Data Science,CM,2020-09-22,Vikash Mehta,Dallas,Active,Billable,9.5,2026-03-20 06:48:52.462
+1165,Myra Goyal,myra.goyal@kipi.bi,Software Engineer,Data Engineering,HT,2024-12-02,Priya Sharma,Noida,Active,Bench,18.2,2026-03-20 06:48:52.462
+1173,Arnav Pai,arnav.pai@kipi.bi,Sr. Software Engineer,Data Science,FSEM,2020-03-30,Deepa Iyer,Dallas,Active,Billable,18.6,2026-03-20 06:48:52.462
+1181,Suresh Rao,suresh.rao@kipi.bi,Software Engineer,Data Science,FSEM,2019-06-30,Priya Sharma,Dallas,Inactive,Partially Billable,7.0,2026-03-20 06:48:52.462
+1189,Navya Yadav,navya.yadav@kipi.bi,Software Engineer,Data Engineering,FSEM,2023-10-26,Sanjay Reddy,Noida,Active,Bench,4.2,2026-03-20 06:48:52.462
+1197,Aarush Sinha,aarush.sinha@kipi.bi,Sr. Software Engineer,Data Engineering,CM,2019-07-13,Sunita Desai,Hyderabad,Active,Billable,5.9,2026-03-20 06:48:52.462
+1205,Pooja Naidu,pooja.naidu@kipi.bi,Lead Engineer,Data Science,HT,2021-02-10,Sanjay Reddy,Chicago,Active,Billable,19.6,2026-03-20 06:48:52.462
+1213,Sara Saxena,sara.saxena@kipi.bi,Sr. Software Engineer,Data Science,HT,2022-01-21,Vikash Mehta,Pune,Active,Bench,13.8,2026-03-20 06:48:52.462
+1221,Ananya Sinha,ananya.sinha@kipi.bi,Solutions Architect,Data Engineering,CM,2020-07-24,Rajiv Kapoor,Bangalore,Active,Billable,5.6,2026-03-20 06:48:52.462
+1229,Aarush Kumar,aarush.kumar@kipi.bi,Associate Solutions Architect,Data Engineering,FSEM,2021-08-18,Manoj Gupta,Pune,Active,Billable,8.5,2026-03-20 06:48:52.462
+1237,Pooja Pillai,pooja.pillai@kipi.bi,Sr. Lead Engineer,Data Science,CM,2019-08-27,Arun Nair,Noida,Inactive,Billable,17.6,2026-03-20 06:48:52.462
+1245,Atharv Agarwal,atharv.agarwal@kipi.bi,Sr. Software Engineer,Data Science,CM,2022-01-16,Manoj Gupta,Chicago,Active,Bench,4.5,2026-03-20 06:48:52.462
+1253,Tanvi Saxena,tanvi.saxena@kipi.bi,Sr. Lead Engineer,Data Science,FSEM,2019-06-14,Deepa Iyer,Chicago,Active,Billable,5.7,2026-03-20 06:48:52.462
+1261,Neha Nair,neha.nair@kipi.bi,Software Engineer,Data Engineering,FSEM,2023-09-25,Rajiv Kapoor,Pune,On Notice,Partially Billable,19.6,2026-03-20 06:48:52.462
+1269,Aarush Pai,aarush.pai@kipi.bi,Lead Engineer,Data Engineering,HT,2023-03-06,Priya Sharma,Bangalore,Active,Billable,1.1,2026-03-20 06:48:52.462
+1277,Sara Hegde,sara.hegde@kipi.bi,Software Engineer,Data Science,HT,2024-12-03,Vikash Mehta,Hyderabad,Active,Billable,17.4,2026-03-20 06:48:52.462
+1285,Kabir Tiwari,kabir.tiwari@kipi.bi,Software Engineer,Data Science,FSEM,2023-01-17,Vikash Mehta,Pune,Active,Partially Billable,2.1,2026-03-20 06:48:52.462
+1293,Vihaan Shetty,vihaan.shetty@kipi.bi,Lead Engineer,Data Engineering,HT,2023-05-10,Priya Sharma,Remote - US,Active,Billable,14.2,2026-03-20 06:48:52.462
+1301,Ananya Iyer,ananya.iyer@kipi.bi,Software Engineer,Data Science,CM,2020-05-07,Priya Sharma,Remote - India,On Notice,Billable,14.7,2026-03-20 06:48:52.462
+1309,Tanvi Menon,tanvi.menon@kipi.bi,Sr. Lead Engineer,Data Engineering,HT,2020-01-12,Kavitha Rao,Remote - US,Active,Billable,16.3,2026-03-20 06:48:52.462
+1317,Nandini Kumar,nandini.kumar@kipi.bi,Software Engineer,Data Science,CM,2024-07-04,Deepa Iyer,Noida,Active,Billable,4.7,2026-03-20 06:48:52.462
+1325,Aditya Iyer,aditya.iyer@kipi.bi,Associate Solutions Architect,Data Science,HT,2020-11-09,Priya Sharma,Pune,Active,Billable,15.8,2026-03-20 06:48:52.462
+1333,Kabir Thakur,kabir.thakur@kipi.bi,Sr. Software Engineer,Data Science,HT,2024-08-30,Vikash Mehta,Bangalore,Active,Partially Billable,10.8,2026-03-20 06:48:52.462
+1341,Navya Tiwari,navya.tiwari@kipi.bi,Sr. Software Engineer,Data Engineering,HT,2023-12-26,Deepa Iyer,Dallas,Active,Bench,18.3,2026-03-20 06:48:52.462
+1349,Reyansh Sinha,reyansh.sinha@kipi.bi,Sr. Software Engineer,Data Engineering,CM,2021-12-18,Priya Sharma,Remote - India,Active,Billable,1.0,2026-03-20 06:48:52.462
+1357,Pranav Sinha,pranav.sinha@kipi.bi,Software Engineer,Data Engineering,HT,2023-05-07,Anita Pillai,Bangalore,Active,Partially Billable,12.1,2026-03-20 06:48:52.462
+1365,Pooja Pillai,pooja.pillai@kipi.bi,Lead Engineer,Data Science,CM,2021-02-23,Arun Nair,Hyderabad,Active,Billable,7.2,2026-03-20 06:48:52.462
+1373,Ayaan Kumar,ayaan.kumar@kipi.bi,Lead Engineer,Data Science,HT,2025-08-20,Sanjay Reddy,Bangalore,Active,Billable,15.5,2026-03-20 06:48:52.462
+1381,Sai Tiwari,sai.tiwari@kipi.bi,Software Engineer,Data Science,FSEM,2019-09-01,Vikash Mehta,Dallas,Active,Billable,4.6,2026-03-20 06:48:52.462
+1389,Tanvi Saxena,tanvi.saxena@kipi.bi,Software Engineer,Data Science,CM,2020-07-30,Anita Pillai,Dallas,Active,Billable,11.0,2026-03-20 06:48:52.462
+1397,Ishaan Yadav,ishaan.yadav@kipi.bi,Solutions Architect,Data Science,FSEM,2019-12-18,Anita Pillai,Remote - India,Active,Billable,2.8,2026-03-20 06:48:52.462
+1405,Aditya Sharma,aditya.sharma@kipi.bi,Sr. Software Engineer,Data Science,HT,2020-11-13,Vikash Mehta,Dallas,Active,Billable,5.5,2026-03-20 06:48:52.462
+1413,Pooja Yadav,pooja.yadav@kipi.bi,Sr. Lead Engineer,Data Science,CM,2024-07-30,Priya Sharma,Remote - India,Active,Partially Billable,15.5,2026-03-20 06:48:52.462
+1421,Arnav Patel,arnav.patel@kipi.bi,Software Engineer,Data Engineering,FSEM,2025-06-04,Anita Pillai,Remote - India,Active,Billable,7.7,2026-03-20 06:48:52.462
+1429,Aarav Das,aarav.das@kipi.bi,Lead Engineer,Data Science,CM,2024-10-08,Anita Pillai,Chicago,Active,Billable,16.4,2026-03-20 06:48:52.462
+1437,Arjun Deshmukh,arjun.deshmukh@kipi.bi,Software Engineer,Data Engineering,HT,2021-05-15,Arun Nair,Hyderabad,Active,Partially Billable,3.7,2026-03-20 06:48:52.462
+1445,Karan Banerjee,karan.banerjee@kipi.bi,Sr. Software Engineer,Data Science,CM,2019-12-12,Rajiv Kapoor,Pune,Active,Bench,5.5,2026-03-20 06:48:52.462
+1453,Divya Naidu,divya.naidu@kipi.bi,Lead Engineer,Data Engineering,FSEM,2022-04-30,Manoj Gupta,Dallas,On Notice,Bench,6.9,2026-03-20 06:48:52.462
+1461,Dhruv Goyal,dhruv.goyal@kipi.bi,Software Engineer,Data Engineering,HT,2023-05-14,Vikash Mehta,Dallas,Active,Billable,4.4,2026-03-20 06:48:52.462
+1469,Advik Hegde,advik.hegde@kipi.bi,Software Engineer,Data Science,HT,2023-12-20,Sanjay Reddy,Chicago,Inactive,Billable,4.2,2026-03-20 06:48:52.462
+1477,Rajesh Agarwal,rajesh.agarwal@kipi.bi,Lead Engineer,Data Science,FSEM,2019-12-23,Deepa Iyer,Dallas,Active,Bench,17.5,2026-03-20 06:48:52.462
+1485,Navya Shetty,navya.shetty@kipi.bi,Software Engineer,Data Engineering,FSEM,2025-04-26,Anita Pillai,Hyderabad,Active,Billable,12.3,2026-03-20 06:48:52.462
+1493,Dhruv Deshpande,dhruv.deshpande@kipi.bi,Software Engineer,Data Engineering,CM,2024-06-27,Manoj Gupta,Noida,Active,Partially Billable,3.4,2026-03-20 06:48:52.462
+1501,Aanya Shetty,aanya.shetty@kipi.bi,Software Engineer,Data Engineering,HT,2022-07-09,Vikash Mehta,Pune,Active,Bench,4.5,2026-03-20 06:48:52.462
+1509,Manish Deshmukh,manish.deshmukh@kipi.bi,Sr. Software Engineer,Data Science,CM,2025-04-19,Priya Sharma,Hyderabad,Active,Partially Billable,13.2,2026-03-20 06:48:52.462
+1003,Tanvi Banerjee,tanvi.banerjee@kipi.bi,Software Engineer,Data Science,HT,2022-02-04,Arun Nair,Bangalore,Active,Partially Billable,16.6,2026-03-20 06:48:52.462
+1011,Neha Gupta,neha.gupta@kipi.bi,Sr. Software Engineer,Data Engineering,CM,2024-02-06,Priya Sharma,Remote - US,Active,Billable,2.5,2026-03-20 06:48:52.462
+1019,Rajesh Mehta,rajesh.mehta@kipi.bi,Sr. Software Engineer,Data Engineering,CM,2021-04-23,Deepa Iyer,Remote - US,On Notice,Bench,14.3,2026-03-20 06:48:52.462
+1027,Prisha Pai,prisha.pai@kipi.bi,Sr. Software Engineer,Data Engineering,HT,2024-04-03,Deepa Iyer,Pune,Active,Partially Billable,11.2,2026-03-20 06:48:52.462
+1035,Nandini Pai,nandini.pai@kipi.bi,Sr. Software Engineer,Data Engineering,FSEM,2019-05-16,Sunita Desai,Dallas,Active,Billable,17.7,2026-03-20 06:48:52.462
+1043,Meera Thakur,meera.thakur@kipi.bi,Lead Engineer,Data Science,CM,2024-03-15,Deepa Iyer,Chicago,Active,Billable,2.9,2026-03-20 06:48:52.462
+1051,Nandini Verma,nandini.verma@kipi.bi,Sr. Software Engineer,Data Engineering,FSEM,2022-02-12,Kavitha Rao,Remote - US,On Notice,Billable,8.4,2026-03-20 06:48:52.462
+1059,Krishna Kamath,krishna.kamath@kipi.bi,Software Engineer,Data Engineering,CM,2020-06-07,Sunita Desai,Bangalore,Active,Billable,13.1,2026-03-20 06:48:52.462
+1067,Nikhil Patil,nikhil.patil@kipi.bi,Software Engineer,Data Engineering,HT,2020-04-19,Priya Sharma,Bangalore,Active,Billable,7.8,2026-03-20 06:48:52.462
+1075,Sara Gupta,sara.gupta@kipi.bi,Software Engineer,Data Science,CM,2025-02-18,Sanjay Reddy,Remote - US,Active,Billable,8.6,2026-03-20 06:48:52.462
+1083,Karan Joshi,karan.joshi@kipi.bi,Software Engineer,Data Engineering,FSEM,2023-11-27,Rajiv Kapoor,Hyderabad,Active,Billable,3.4,2026-03-20 06:48:52.462
+1091,Meera Mehta,meera.mehta@kipi.bi,Sr. Software Engineer,Data Engineering,HT,2020-04-26,Vikash Mehta,Chicago,Active,Billable,2.6,2026-03-20 06:48:52.462
+1099,Manish Bhat,manish.bhat@kipi.bi,Sr. Software Engineer,Data Science,HT,2024-05-30,Sunita Desai,Hyderabad,Active,Partially Billable,5.0,2026-03-20 06:48:52.462
+1107,Karan Pandey,karan.pandey@kipi.bi,Sr. Software Engineer,Data Engineering,HT,2020-04-22,Rajiv Kapoor,Bangalore,Active,Bench,13.9,2026-03-20 06:48:52.462
+1115,Diya Deshpande,diya.deshpande@kipi.bi,Software Engineer,Data Science,CM,2023-01-22,Arun Nair,Pune,Active,Bench,11.0,2026-03-20 06:48:52.462
+1123,Atharv Hegde,atharv.hegde@kipi.bi,Software Engineer,Data Engineering,HT,2024-05-30,Priya Sharma,Hyderabad,Active,Billable,12.2,2026-03-20 06:48:52.462
+1131,Amit Agarwal,amit.agarwal@kipi.bi,Software Engineer,Data Science,CM,2025-07-14,Sunita Desai,Remote - India,Active,Billable,1.0,2026-03-20 06:48:52.462
+1139,Priya Das,priya.das@kipi.bi,Sr. Software Engineer,Data Engineering,FSEM,2022-01-27,Anita Pillai,Pune,Active,Billable,9.5,2026-03-20 06:48:52.462
+1147,Amit Chauhan,amit.chauhan@kipi.bi,Sr. Software Engineer,Data Engineering,CM,2021-07-09,Sanjay Reddy,Remote - US,Active,Partially Billable,7.6,2026-03-20 06:48:52.462
+1155,Anika Verma,anika.verma@kipi.bi,Sr. Software Engineer,Data Science,CM,2023-05-03,Vikash Mehta,Remote - US,Active,Billable,4.0,2026-03-20 06:48:52.462
+1163,Divya Joshi,divya.joshi@kipi.bi,Sr. Software Engineer,Data Science,FSEM,2023-02-12,Rajiv Kapoor,Chicago,Active,Partially Billable,18.8,2026-03-20 06:48:52.462
+1171,Sara Jain,sara.jain@kipi.bi,Solutions Architect,Data Engineering,HT,2021-11-27,Manoj Gupta,Bangalore,Active,Bench,12.5,2026-03-20 06:48:52.462
+1179,Aarav Tiwari,aarav.tiwari@kipi.bi,Solutions Architect,Data Science,HT,2020-11-28,Vikash Mehta,Remote - India,Active,Bench,16.6,2026-03-20 06:48:52.462
+1187,Rohan Shetty,rohan.shetty@kipi.bi,Lead Engineer,Data Science,HT,2025-01-23,Priya Sharma,Dallas,Active,Billable,7.4,2026-03-20 06:48:52.462
+1195,Sneha Patel,sneha.patel@kipi.bi,Sr. Software Engineer,Data Science,HT,2024-12-03,Priya Sharma,Chicago,Active,Billable,16.9,2026-03-20 06:48:52.462
+1203,Atharv Nair,atharv.nair@kipi.bi,Sr. Software Engineer,Data Engineering,CM,2022-12-24,Kavitha Rao,Bangalore,Active,Partially Billable,13.6,2026-03-20 06:48:52.462
+1211,Aditya Menon,aditya.menon@kipi.bi,Sr. Software Engineer,Data Engineering,FSEM,2022-12-06,Vikash Mehta,Bangalore,Active,Billable,17.9,2026-03-20 06:48:52.462
+1219,Aditya Tiwari,aditya.tiwari@kipi.bi,Software Engineer,Data Science,FSEM,2022-11-01,Anita Pillai,Dallas,On Notice,Partially Billable,6.7,2026-03-20 06:48:52.462
+1227,Arjun Gupta,arjun.gupta@kipi.bi,Lead Engineer,Data Science,FSEM,2024-04-09,Kavitha Rao,Noida,Active,Billable,19.3,2026-03-20 06:48:52.462
+1235,Arjun Singh,arjun.singh@kipi.bi,Software Engineer,Data Engineering,HT,2020-04-11,Sunita Desai,Chicago,Active,Billable,3.4,2026-03-20 06:48:52.462
+1243,Atharv Patel,atharv.patel@kipi.bi,Software Engineer,Data Engineering,FSEM,2023-06-17,Rajiv Kapoor,Remote - India,Active,Billable,12.9,2026-03-20 06:48:52.462
+1251,Kavya Joshi,kavya.joshi@kipi.bi,Sr. Software Engineer,Data Engineering,FSEM,2023-07-27,Manoj Gupta,Bangalore,Active,Billable,8.8,2026-03-20 06:48:52.462
+1259,Rajesh Nair,rajesh.nair@kipi.bi,Sr. Software Engineer,Data Engineering,FSEM,2022-11-27,Sanjay Reddy,Remote - India,Active,Billable,12.7,2026-03-20 06:48:52.462
+1267,Shruti Verma,shruti.verma@kipi.bi,Software Engineer,Data Science,HT,2021-04-04,Kavitha Rao,Chicago,Active,Billable,3.6,2026-03-20 06:48:52.462
+1275,Advik Mishra,advik.mishra@kipi.bi,Software Engineer,Data Engineering,HT,2021-08-20,Kavitha Rao,Remote - India,Active,Billable,11.3,2026-03-20 06:48:52.462
+1283,Divya Sinha,divya.sinha@kipi.bi,Lead Engineer,Data Engineering,CM,2020-02-07,Anita Pillai,Noida,Active,Billable,5.9,2026-03-20 06:48:52.462
+1291,Shaurya Ghosh,shaurya.ghosh@kipi.bi,Sr. Lead Engineer,Data Science,FSEM,2022-04-15,Manoj Gupta,Remote - US,Active,Billable,12.0,2026-03-20 06:48:52.462
+1299,Rohan Sharma,rohan.sharma@kipi.bi,Sr. Software Engineer,Data Engineering,HT,2021-02-28,Sunita Desai,Dallas,Active,Billable,7.8,2026-03-20 06:48:52.462
+1307,Rahul Pai,rahul.pai@kipi.bi,Sr. Software Engineer,Data Science,FSEM,2024-02-22,Anita Pillai,Bangalore,Active,Billable,14.8,2026-03-20 06:48:52.462
+1315,Nikhil Yadav,nikhil.yadav@kipi.bi,Sr. Software Engineer,Data Engineering,CM,2020-10-09,Kavitha Rao,Noida,Active,Bench,3.7,2026-03-20 06:48:52.462
+1323,Advik Kapoor,advik.kapoor@kipi.bi,Software Engineer,Data Science,CM,2020-04-02,Vikash Mehta,Remote - US,Active,Partially Billable,8.5,2026-03-20 06:48:52.462
+1331,Suresh Pandey,suresh.pandey@kipi.bi,Sr. Software Engineer,Data Science,CM,2022-02-07,Vikash Mehta,Pune,Active,Billable,15.0,2026-03-20 06:48:52.462
+1339,Reyansh Kapoor,reyansh.kapoor@kipi.bi,Software Engineer,Data Science,FSEM,2022-11-24,Rajiv Kapoor,Hyderabad,Active,Billable,1.0,2026-03-20 06:48:52.462
+1347,Isha Sharma,isha.sharma@kipi.bi,Sr. Software Engineer,Data Engineering,HT,2020-09-10,Vikash Mehta,Bangalore,Active,Billable,11.9,2026-03-20 06:48:52.462
+1355,Deepak Chatterjee,deepak.chatterjee@kipi.bi,Solutions Architect,Data Engineering,CM,2021-04-24,Anita Pillai,Pune,Active,Billable,1.8,2026-03-20 06:48:52.462
+1363,Karan Pillai,karan.pillai@kipi.bi,Sr. Software Engineer,Data Engineering,HT,2025-01-29,Sunita Desai,Remote - US,Active,Bench,13.7,2026-03-20 06:48:52.462
+1371,Ayaan Ghosh,ayaan.ghosh@kipi.bi,Sr. Software Engineer,Data Engineering,HT,2024-10-12,Sunita Desai,Pune,Active,Billable,12.2,2026-03-20 06:48:52.462
+1379,Pranav Banerjee,pranav.banerjee@kipi.bi,Software Engineer,Data Science,CM,2022-08-13,Kavitha Rao,Remote - US,Active,Bench,9.0,2026-03-20 06:48:52.462
+1387,Karan Yadav,karan.yadav@kipi.bi,Software Engineer,Data Science,FSEM,2022-08-12,Rajiv Kapoor,Hyderabad,Active,Billable,7.0,2026-03-20 06:48:52.462
+1395,Ayaan Agarwal,ayaan.agarwal@kipi.bi,Software Engineer,Data Engineering,HT,2022-04-17,Anita Pillai,Noida,Active,Bench,4.5,2026-03-20 06:48:52.462
+1403,Aditya Chatterjee,aditya.chatterjee@kipi.bi,Software Engineer,Data Science,HT,2019-07-18,Sunita Desai,Chicago,Active,Partially Billable,4.9,2026-03-20 06:48:52.462
+1411,Myra Banerjee,myra.banerjee@kipi.bi,Software Engineer,Data Engineering,HT,2020-10-10,Sanjay Reddy,Remote - US,Active,Billable,2.1,2026-03-20 06:48:52.462
+1419,Amit Sharma,amit.sharma@kipi.bi,Lead Engineer,Data Engineering,HT,2025-01-22,Vikash Mehta,Dallas,Active,Billable,18.2,2026-03-20 06:48:52.462
+1427,Neha Kamath,neha.kamath@kipi.bi,Sr. Software Engineer,Data Engineering,CM,2021-01-07,Rajiv Kapoor,Chicago,Active,Bench,18.1,2026-03-20 06:48:52.462
+1435,Aditya Saxena,aditya.saxena@kipi.bi,Lead Engineer,Data Engineering,FSEM,2022-12-10,Sanjay Reddy,Dallas,Active,Billable,18.2,2026-03-20 06:48:52.462
+1443,Dhruv Das,dhruv.das@kipi.bi,Solutions Architect,Data Engineering,FSEM,2021-03-12,Rajiv Kapoor,Pune,Active,Billable,3.0,2026-03-20 06:48:52.462
+1451,Aarav Patil,aarav.patil@kipi.bi,Lead Engineer,Data Science,HT,2025-08-23,Manoj Gupta,Hyderabad,On Notice,Billable,16.2,2026-03-20 06:48:52.462
+1459,Reyansh Naidu,reyansh.naidu@kipi.bi,Lead Engineer,Data Engineering,CM,2022-09-07,Manoj Gupta,Hyderabad,On Notice,Bench,6.8,2026-03-20 06:48:52.462
+1467,Ananya Banerjee,ananya.banerjee@kipi.bi,Lead Engineer,Data Engineering,CM,2021-11-21,Sunita Desai,Remote - US,Active,Billable,18.1,2026-03-20 06:48:52.462
+1475,Myra Chatterjee,myra.chatterjee@kipi.bi,Software Engineer,Data Science,CM,2023-09-21,Rajiv Kapoor,Hyderabad,Active,Partially Billable,6.4,2026-03-20 06:48:52.462
+1483,Ananya Banerjee,ananya.banerjee@kipi.bi,Solutions Architect,Data Engineering,CM,2024-11-18,Priya Sharma,Hyderabad,Active,Bench,16.4,2026-03-20 06:48:52.462
+1491,Dhruv Kamath,dhruv.kamath@kipi.bi,Sr. Software Engineer,Data Science,HT,2023-09-23,Vikash Mehta,Chicago,Active,Billable,16.6,2026-03-20 06:48:52.462
+1499,Prisha Chauhan,prisha.chauhan@kipi.bi,Sr. Software Engineer,Data Science,HT,2023-11-08,Manoj Gupta,Bangalore,Active,Bench,12.5,2026-03-20 06:48:52.462
+1507,Ritvik Goyal,ritvik.goyal@kipi.bi,Software Engineer,Data Engineering,CM,2025-09-14,Kavitha Rao,Remote - India,Active,Billable,10.8,2026-03-20 06:48:52.462
+1000,Arnav Sharma,arnav.sharma@kipi.bi,Sr. Software Engineer,Data Engineering,CM,2023-04-03,Rajiv Kapoor,Noida,Active,Billable,1.0,2026-03-20 06:48:52.462
+1008,Aarav Bhat,aarav.bhat@kipi.bi,Software Engineer,Data Science,FSEM,2022-08-28,Sunita Desai,Noida,Active,Partially Billable,4.8,2026-03-20 06:48:52.462
+1016,Atharv Reddy,atharv.reddy@kipi.bi,Software Engineer,Data Engineering,FSEM,2024-06-01,Kavitha Rao,Remote - US,Active,Bench,15.5,2026-03-20 06:48:52.462
+1024,Rohan Gupta,rohan.gupta@kipi.bi,Software Engineer,Data Engineering,HT,2021-08-05,Vikash Mehta,Dallas,On Notice,Billable,10.7,2026-03-20 06:48:52.462
+1032,Vivaan Kamath,vivaan.kamath@kipi.bi,Sr. Software Engineer,Data Science,CM,2021-04-29,Anita Pillai,Hyderabad,Active,Bench,16.7,2026-03-20 06:48:52.462
+1040,Kavya Patil,kavya.patil@kipi.bi,Sr. Software Engineer,Data Engineering,FSEM,2024-09-01,Vikash Mehta,Dallas,Active,Bench,6.7,2026-03-20 06:48:52.462
+1048,Rohan Yadav,rohan.yadav@kipi.bi,Software Engineer,Data Engineering,HT,2021-03-23,Rajiv Kapoor,Noida,On Notice,Billable,18.1,2026-03-20 06:48:52.462
+1056,Kavya Menon,kavya.menon@kipi.bi,Sr. Software Engineer,Data Engineering,FSEM,2020-01-05,Rajiv Kapoor,Dallas,Active,Billable,18.9,2026-03-20 06:48:52.462
+1064,Shaurya Jain,shaurya.jain@kipi.bi,Software Engineer,Data Science,FSEM,2023-06-13,Rajiv Kapoor,Dallas,Active,Billable,5.4,2026-03-20 06:48:52.462
+1072,Pranav Banerjee,pranav.banerjee@kipi.bi,Solutions Architect,Data Science,HT,2021-09-02,Priya Sharma,Dallas,Active,Billable,15.7,2026-03-20 06:48:52.462
+1080,Nikhil Joshi,nikhil.joshi@kipi.bi,Software Engineer,Data Engineering,HT,2021-02-17,Arun Nair,Chicago,Active,Billable,12.2,2026-03-20 06:48:52.462
+1088,Sai Reddy,sai.reddy@kipi.bi,Software Engineer,Data Science,HT,2024-01-16,Manoj Gupta,Remote - India,Active,Billable,1.1,2026-03-20 06:48:52.462
+1096,Priya Joshi,priya.joshi@kipi.bi,Sr. Software Engineer,Data Engineering,CM,2024-03-16,Priya Sharma,Remote - India,Active,Partially Billable,12.4,2026-03-20 06:48:52.462
+1104,Pooja Deshpande,pooja.deshpande@kipi.bi,Sr. Lead Engineer,Data Science,HT,2022-10-26,Rajiv Kapoor,Dallas,Active,Partially Billable,11.3,2026-03-20 06:48:52.462
+1112,Rohan Joshi,rohan.joshi@kipi.bi,Sr. Software Engineer,Data Engineering,CM,2024-04-18,Manoj Gupta,Bangalore,Active,Billable,14.6,2026-03-20 06:48:52.462
+1120,Aanya Deshpande,aanya.deshpande@kipi.bi,Software Engineer,Data Science,FSEM,2024-04-28,Deepa Iyer,Hyderabad,Active,Partially Billable,7.7,2026-03-20 06:48:52.462
+1128,Amit Hegde,amit.hegde@kipi.bi,Software Engineer,Data Science,FSEM,2022-07-15,Sanjay Reddy,Remote - India,Active,Bench,7.2,2026-03-20 06:48:52.462
+1136,Ayaan Jain,ayaan.jain@kipi.bi,Solutions Architect,Data Science,HT,2020-11-25,Sunita Desai,Pune,Active,Billable,8.2,2026-03-20 06:48:52.462
+1144,Atharv Tiwari,atharv.tiwari@kipi.bi,Software Engineer,Data Science,FSEM,2021-07-14,Sunita Desai,Remote - India,Active,Billable,18.4,2026-03-20 06:48:52.462
+1152,Arjun Naidu,arjun.naidu@kipi.bi,Sr. Software Engineer,Data Engineering,FSEM,2023-10-15,Manoj Gupta,Bangalore,Active,Billable,7.5,2026-03-20 06:48:52.462
+1160,Shaurya Gupta,shaurya.gupta@kipi.bi,Software Engineer,Data Science,CM,2023-12-26,Manoj Gupta,Chicago,Active,Billable,17.3,2026-03-20 06:48:52.462
+1168,Krishna Verma,krishna.verma@kipi.bi,Software Engineer,Data Science,FSEM,2020-12-01,Manoj Gupta,Remote - US,Active,Partially Billable,6.0,2026-03-20 06:48:52.462
+1176,Manish Patil,manish.patil@kipi.bi,Solutions Architect,Data Science,FSEM,2023-10-21,Arun Nair,Noida,Active,Billable,14.0,2026-03-20 06:48:52.462
+1184,Aanya Hegde,aanya.hegde@kipi.bi,Sr. Lead Engineer,Data Science,CM,2025-01-05,Deepa Iyer,Pune,Active,Billable,4.3,2026-03-20 06:48:52.462
+1192,Ishaan Yadav,ishaan.yadav@kipi.bi,Lead Engineer,Data Engineering,FSEM,2020-05-14,Sanjay Reddy,Hyderabad,Active,Billable,16.0,2026-03-20 06:48:52.462
+1200,Pranav Sinha,pranav.sinha@kipi.bi,Software Engineer,Data Engineering,FSEM,2019-12-16,Kavitha Rao,Remote - US,Active,Billable,2.9,2026-03-20 06:48:52.462
+1208,Amit Reddy,amit.reddy@kipi.bi,Software Engineer,Data Science,CM,2022-12-04,Priya Sharma,Noida,Active,Billable,12.4,2026-03-20 06:48:52.462
+1216,Nandini Kulkarni,nandini.kulkarni@kipi.bi,Sr. Software Engineer,Data Science,CM,2024-02-23,Sunita Desai,Remote - India,Active,Billable,15.2,2026-03-20 06:48:52.462
+1224,Shruti Goyal,shruti.goyal@kipi.bi,Solutions Architect,Data Science,FSEM,2022-04-21,Priya Sharma,Chicago,Active,Billable,12.2,2026-03-20 06:48:52.462
+1232,Manish Agarwal,manish.agarwal@kipi.bi,Software Engineer,Data Engineering,HT,2024-06-24,Manoj Gupta,Chicago,Active,Billable,3.0,2026-03-20 06:48:52.462
+1240,Dhruv Menon,dhruv.menon@kipi.bi,Software Engineer,Data Science,CM,2022-01-17,Vikash Mehta,Noida,Active,Partially Billable,12.0,2026-03-20 06:48:52.462
+1248,Ritvik Gupta,ritvik.gupta@kipi.bi,Software Engineer,Data Science,HT,2020-12-10,Priya Sharma,Remote - US,Active,Billable,18.7,2026-03-20 06:48:52.462
+1256,Meera Reddy,meera.reddy@kipi.bi,Sr. Software Engineer,Data Engineering,HT,2019-07-29,Anita Pillai,Noida,Active,Bench,13.4,2026-03-20 06:48:52.462
+1264,Shaurya Singh,shaurya.singh@kipi.bi,Lead Engineer,Data Engineering,FSEM,2024-05-26,Manoj Gupta,Noida,Active,Bench,16.9,2026-03-20 06:48:52.462
+1272,Pooja Agarwal,pooja.agarwal@kipi.bi,Sr. Software Engineer,Data Engineering,FSEM,2021-09-13,Rajiv Kapoor,Remote - India,Active,Billable,19.4,2026-03-20 06:48:52.462
+1280,Advik Jain,advik.jain@kipi.bi,Associate Solutions Architect,Data Science,CM,2019-05-24,Manoj Gupta,Bangalore,Active,Billable,1.9,2026-03-20 06:48:52.462
+1288,Pranav Sharma,pranav.sharma@kipi.bi,Sr. Lead Engineer,Data Science,FSEM,2019-08-23,Rajiv Kapoor,Remote - US,Active,Billable,13.9,2026-03-20 06:48:52.462
+1296,Nikhil Chauhan,nikhil.chauhan@kipi.bi,Sr. Software Engineer,Data Science,FSEM,2024-01-06,Rajiv Kapoor,Remote - India,Active,Bench,1.2,2026-03-20 06:48:52.462
+1304,Priya Das,priya.das@kipi.bi,Lead Engineer,Data Science,FSEM,2021-05-09,Manoj Gupta,Hyderabad,Active,Billable,8.1,2026-03-20 06:48:52.462
+1312,Arjun Kumar,arjun.kumar@kipi.bi,Software Engineer,Data Science,FSEM,2021-06-10,Arun Nair,Pune,Inactive,Billable,17.1,2026-03-20 06:48:52.462
+1320,Priya Nair,priya.nair@kipi.bi,Sr. Lead Engineer,Data Engineering,HT,2024-02-23,Priya Sharma,Noida,Active,Billable,15.8,2026-03-20 06:48:52.462
+1328,Anika Sharma,anika.sharma@kipi.bi,Sr. Software Engineer,Data Engineering,CM,2023-12-15,Deepa Iyer,Dallas,Active,Partially Billable,5.6,2026-03-20 06:48:52.462
+1336,Priya Iyer,priya.iyer@kipi.bi,Sr. Software Engineer,Data Science,CM,2022-06-25,Vikash Mehta,Pune,Active,Partially Billable,17.3,2026-03-20 06:48:52.462
+1344,Shruti Shetty,shruti.shetty@kipi.bi,Sr. Software Engineer,Data Science,HT,2020-05-09,Deepa Iyer,Remote - India,Inactive,Billable,8.2,2026-03-20 06:48:52.462
+1352,Ayaan Kamath,ayaan.kamath@kipi.bi,Software Engineer,Data Engineering,HT,2020-02-28,Arun Nair,Dallas,Active,Billable,16.9,2026-03-20 06:48:52.462
+1360,Suresh Iyer,suresh.iyer@kipi.bi,Sr. Lead Engineer,Data Science,FSEM,2025-01-22,Sunita Desai,Noida,Active,Partially Billable,19.1,2026-03-20 06:48:52.462
+1368,Neha Das,neha.das@kipi.bi,Lead Engineer,Data Engineering,FSEM,2023-08-23,Priya Sharma,Bangalore,Active,Billable,15.2,2026-03-20 06:48:52.462
+1376,Ishaan Patil,ishaan.patil@kipi.bi,Software Engineer,Data Science,CM,2020-04-29,Sanjay Reddy,Bangalore,Active,Billable,18.9,2026-03-20 06:48:52.462
+1384,Nandini Thakur,nandini.thakur@kipi.bi,Sr. Software Engineer,Data Engineering,HT,2019-07-07,Anita Pillai,Hyderabad,Active,Billable,16.7,2026-03-20 06:48:52.462
+1392,Anika Sharma,anika.sharma@kipi.bi,Software Engineer,Data Engineering,HT,2025-06-25,Rajiv Kapoor,Hyderabad,Active,Billable,1.8,2026-03-20 06:48:52.462
+1400,Tanvi Kumar,tanvi.kumar@kipi.bi,Lead Engineer,Data Science,FSEM,2022-10-29,Sunita Desai,Hyderabad,Active,Billable,9.8,2026-03-20 06:48:52.462
+1408,Priya Joshi,priya.joshi@kipi.bi,Lead Engineer,Data Engineering,HT,2025-07-20,Vikash Mehta,Hyderabad,Active,Partially Billable,14.5,2026-03-20 06:48:52.462
+1416,Advik Yadav,advik.yadav@kipi.bi,Sr. Software Engineer,Data Engineering,CM,2024-11-05,Vikash Mehta,Pune,Active,Billable,17.8,2026-03-20 06:48:52.462
+1424,Advaith Menon,advaith.menon@kipi.bi,Software Engineer,Data Science,CM,2020-09-26,Deepa Iyer,Remote - India,Active,Billable,2.8,2026-03-20 06:48:52.462
+1432,Sneha Kapoor,sneha.kapoor@kipi.bi,Software Engineer,Data Science,FSEM,2023-02-22,Vikash Mehta,Bangalore,Active,Billable,5.1,2026-03-20 06:48:52.462
+1440,Suresh Saxena,suresh.saxena@kipi.bi,Lead Engineer,Data Engineering,HT,2022-08-09,Manoj Gupta,Dallas,On Notice,Billable,17.5,2026-03-20 06:48:52.462
+1448,Kavya Joshi,kavya.joshi@kipi.bi,Lead Engineer,Data Engineering,CM,2020-03-26,Priya Sharma,Pune,Active,Billable,4.0,2026-03-20 06:48:52.462
+1456,Sneha Hegde,sneha.hegde@kipi.bi,Software Engineer,Data Engineering,CM,2022-08-09,Kavitha Rao,Hyderabad,Active,Partially Billable,7.2,2026-03-20 06:48:52.462
+1464,Prisha Pillai,prisha.pillai@kipi.bi,Software Engineer,Data Engineering,FSEM,2025-05-28,Kavitha Rao,Dallas,Active,Billable,10.0,2026-03-20 06:48:52.462
+1472,Ishaan Chauhan,ishaan.chauhan@kipi.bi,Lead Engineer,Data Engineering,HT,2019-05-28,Vikash Mehta,Remote - US,Active,Bench,10.5,2026-03-20 06:48:52.462
+1480,Suresh Jain,suresh.jain@kipi.bi,Software Engineer,Data Science,FSEM,2021-12-19,Vikash Mehta,Bangalore,Active,Bench,7.8,2026-03-20 06:48:52.462
+1488,Tanvi Pillai,tanvi.pillai@kipi.bi,Software Engineer,Data Engineering,FSEM,2024-06-06,Deepa Iyer,Pune,Active,Bench,14.6,2026-03-20 06:48:52.462
+1496,Sneha Deshmukh,sneha.deshmukh@kipi.bi,Software Engineer,Data Engineering,HT,2020-10-18,Anita Pillai,Bangalore,Active,Billable,9.4,2026-03-20 06:48:52.462
+1504,Advik Reddy,advik.reddy@kipi.bi,Software Engineer,Data Engineering,FSEM,2020-05-05,Manoj Gupta,Hyderabad,Active,Billable,15.1,2026-03-20 06:48:52.462
+1512,Aarav Kumar,aarav.kumar@kipi.bi,Software Engineer,Data Science,FSEM,2024-02-28,Vikash Mehta,Pune,Active,Billable,1.4,2026-03-20 06:48:52.462
+1002,Isha Sharma,isha.sharma@kipi.bi,Sr. Software Engineer,Data Engineering,FSEM,2021-06-24,Rajiv Kapoor,Remote - India,Active,Partially Billable,14.0,2026-03-20 06:48:52.462
+1010,Vikram Chatterjee,vikram.chatterjee@kipi.bi,Sr. Software Engineer,Data Science,FSEM,2023-07-16,Arun Nair,Noida,Active,Billable,7.9,2026-03-20 06:48:52.462
+1018,Manish Chatterjee,manish.chatterjee@kipi.bi,Associate Solutions Architect,Data Science,CM,2020-05-14,Sanjay Reddy,Dallas,Active,Billable,19.7,2026-03-20 06:48:52.462
+1026,Riya Kapoor,riya.kapoor@kipi.bi,Solutions Architect,Data Engineering,FSEM,2023-06-28,Kavitha Rao,Remote - US,Active,Billable,5.3,2026-03-20 06:48:52.462
+1034,Nandini Agarwal,nandini.agarwal@kipi.bi,Software Engineer,Data Science,CM,2022-04-25,Anita Pillai,Remote - US,Active,Partially Billable,17.6,2026-03-20 06:48:52.462
+1042,Deepak Kamath,deepak.kamath@kipi.bi,Software Engineer,Data Engineering,HT,2025-02-01,Sunita Desai,Dallas,Active,Billable,11.6,2026-03-20 06:48:52.462
+1050,Rohan Pai,rohan.pai@kipi.bi,Sr. Software Engineer,Data Engineering,HT,2023-04-29,Priya Sharma,Noida,Active,Billable,19.6,2026-03-20 06:48:52.462
+1058,Advaith Tiwari,advaith.tiwari@kipi.bi,Solutions Architect,Data Science,FSEM,2020-05-06,Anita Pillai,Bangalore,Active,Bench,9.1,2026-03-20 06:48:52.462
+1066,Ananya Bhat,ananya.bhat@kipi.bi,Software Engineer,Data Science,CM,2023-04-07,Sanjay Reddy,Pune,Active,Billable,2.8,2026-03-20 06:48:52.462
+1074,Krishna Mishra,krishna.mishra@kipi.bi,Lead Engineer,Data Science,FSEM,2021-05-15,Kavitha Rao,Remote - US,Active,Billable,7.5,2026-03-20 06:48:52.462
+1082,Vihaan Sharma,vihaan.sharma@kipi.bi,Lead Engineer,Data Engineering,CM,2020-09-07,Arun Nair,Chicago,Inactive,Billable,17.2,2026-03-20 06:48:52.462
+1090,Aanya Kumar,aanya.kumar@kipi.bi,Software Engineer,Data Engineering,CM,2025-07-06,Deepa Iyer,Remote - India,Active,Billable,1.9,2026-03-20 06:48:52.462
+1098,Anika Ghosh,anika.ghosh@kipi.bi,Software Engineer,Data Engineering,HT,2023-10-02,Sunita Desai,Bangalore,Active,Partially Billable,9.6,2026-03-20 06:48:52.462
+1106,Sai Banerjee,sai.banerjee@kipi.bi,Sr. Software Engineer,Data Science,HT,2021-03-11,Priya Sharma,Hyderabad,Active,Bench,1.5,2026-03-20 06:48:52.462
+1114,Shaurya Iyer,shaurya.iyer@kipi.bi,Sr. Software Engineer,Data Engineering,CM,2024-05-31,Vikash Mehta,Noida,Active,Billable,6.6,2026-03-20 06:48:52.462
+1122,Karan Hegde,karan.hegde@kipi.bi,Lead Engineer,Data Science,CM,2024-09-14,Deepa Iyer,Remote - US,Active,Billable,4.5,2026-03-20 06:48:52.462
+1130,Vihaan Banerjee,vihaan.banerjee@kipi.bi,Sr. Software Engineer,Data Engineering,HT,2019-11-13,Sanjay Reddy,Noida,Active,Billable,9.3,2026-03-20 06:48:52.462
+1138,Myra Chauhan,myra.chauhan@kipi.bi,Software Engineer,Data Engineering,HT,2023-12-30,Kavitha Rao,Pune,Active,Billable,19.7,2026-03-20 06:48:52.462
+1146,Manish Goyal,manish.goyal@kipi.bi,Lead Engineer,Data Science,CM,2021-02-01,Kavitha Rao,Pune,Active,Partially Billable,1.3,2026-03-20 06:48:52.462
+1154,Dhruv Pillai,dhruv.pillai@kipi.bi,Lead Engineer,Data Engineering,HT,2023-11-15,Vikash Mehta,Remote - US,Active,Billable,12.9,2026-03-20 06:48:52.462
+1162,Riya Deshpande,riya.deshpande@kipi.bi,Sr. Software Engineer,Data Science,HT,2019-11-18,Priya Sharma,Noida,Active,Billable,19.4,2026-03-20 06:48:52.462
+1170,Shaurya Ghosh,shaurya.ghosh@kipi.bi,Lead Engineer,Data Engineering,CM,2021-07-20,Sunita Desai,Chicago,Active,Billable,7.5,2026-03-20 06:48:52.462
+1178,Vihaan Shetty,vihaan.shetty@kipi.bi,Sr. Software Engineer,Data Engineering,HT,2019-11-27,Vikash Mehta,Hyderabad,Active,Billable,12.8,2026-03-20 06:48:52.462
+1186,Arnav Patil,arnav.patil@kipi.bi,Sr. Software Engineer,Data Engineering,FSEM,2021-07-19,Anita Pillai,Noida,Active,Partially Billable,12.6,2026-03-20 06:48:52.462
+1194,Myra Joshi,myra.joshi@kipi.bi,Software Engineer,Data Engineering,HT,2024-01-08,Kavitha Rao,Noida,Active,Bench,7.8,2026-03-20 06:48:52.462
+1202,Nikhil Rao,nikhil.rao@kipi.bi,Sr. Software Engineer,Data Science,CM,2021-05-01,Priya Sharma,Bangalore,Active,Partially Billable,7.5,2026-03-20 06:48:52.462
+1210,Vikram Pandey,vikram.pandey@kipi.bi,Software Engineer,Data Science,FSEM,2020-06-02,Anita Pillai,Chicago,Active,Billable,15.9,2026-03-20 06:48:52.462
+1218,Sai Bhat,sai.bhat@kipi.bi,Sr. Software Engineer,Data Science,FSEM,2025-05-31,Anita Pillai,Dallas,Active,Billable,2.2,2026-03-20 06:48:52.462
+1226,Arjun Gupta,arjun.gupta@kipi.bi,Sr. Software Engineer,Data Science,FSEM,2023-09-17,Deepa Iyer,Pune,Active,Billable,8.4,2026-03-20 06:48:52.462
+1234,Sneha Rao,sneha.rao@kipi.bi,Software Engineer,Data Engineering,HT,2021-04-18,Deepa Iyer,Remote - US,Active,Billable,15.9,2026-03-20 06:48:52.462
+1242,Vihaan Mishra,vihaan.mishra@kipi.bi,Associate Solutions Architect,Data Engineering,FSEM,2022-07-19,Manoj Gupta,Dallas,Active,Bench,11.2,2026-03-20 06:48:52.462
+1250,Navya Naidu,navya.naidu@kipi.bi,Software Engineer,Data Science,HT,2023-07-27,Sunita Desai,Pune,Active,Bench,12.2,2026-03-20 06:48:52.462
+1258,Diya Chauhan,diya.chauhan@kipi.bi,Sr. Software Engineer,Data Engineering,FSEM,2021-03-25,Vikash Mehta,Dallas,Active,Billable,18.6,2026-03-20 06:48:52.462
+1266,Advaith Iyer,advaith.iyer@kipi.bi,Software Engineer,Data Science,CM,2025-04-04,Vikash Mehta,Remote - US,Active,Partially Billable,17.0,2026-03-20 06:48:52.462
+1274,Advik Banerjee,advik.banerjee@kipi.bi,Software Engineer,Data Engineering,HT,2020-06-12,Arun Nair,Noida,Active,Billable,16.3,2026-03-20 06:48:52.462
+1282,Rohan Hegde,rohan.hegde@kipi.bi,Sr. Software Engineer,Data Engineering,FSEM,2023-03-29,Kavitha Rao,Hyderabad,Active,Billable,12.6,2026-03-20 06:48:52.462
+1290,Vikram Ghosh,vikram.ghosh@kipi.bi,Lead Engineer,Data Engineering,CM,2022-05-07,Manoj Gupta,Remote - India,Active,Bench,20.0,2026-03-20 06:48:52.462
+1298,Sai Pillai,sai.pillai@kipi.bi,Solutions Architect,Data Science,FSEM,2021-03-20,Sanjay Reddy,Noida,Active,Bench,6.7,2026-03-20 06:48:52.462
+1306,Anika Iyer,anika.iyer@kipi.bi,Software Engineer,Data Science,HT,2024-10-15,Manoj Gupta,Noida,Active,Billable,2.2,2026-03-20 06:48:52.462
+1314,Arnav Tiwari,arnav.tiwari@kipi.bi,Solutions Architect,Data Science,CM,2021-05-10,Sunita Desai,Chicago,Active,Partially Billable,19.8,2026-03-20 06:48:52.462
+1322,Ananya Pai,ananya.pai@kipi.bi,Sr. Software Engineer,Data Engineering,CM,2020-08-30,Priya Sharma,Noida,Active,Bench,9.7,2026-03-20 06:48:52.462
+1330,Prisha Tiwari,prisha.tiwari@kipi.bi,Sr. Software Engineer,Data Engineering,HT,2020-09-29,Rajiv Kapoor,Hyderabad,Active,Bench,3.8,2026-03-20 06:48:52.462
+1338,Kavya Nair,kavya.nair@kipi.bi,Sr. Software Engineer,Data Engineering,FSEM,2021-02-27,Kavitha Rao,Remote - India,Active,Bench,16.6,2026-03-20 06:48:52.462
+1346,Atharv Yadav,atharv.yadav@kipi.bi,Sr. Software Engineer,Data Science,CM,2022-02-05,Sunita Desai,Chicago,Active,Partially Billable,2.4,2026-03-20 06:48:52.462
+1354,Pranav Pillai,pranav.pillai@kipi.bi,Software Engineer,Data Science,CM,2025-09-17,Deepa Iyer,Noida,Active,Partially Billable,7.2,2026-03-20 06:48:52.462
+1362,Sai Das,sai.das@kipi.bi,Solutions Architect,Data Engineering,CM,2019-11-03,Arun Nair,Hyderabad,Active,Bench,13.6,2026-03-20 06:48:52.462
+1370,Rajesh Jain,rajesh.jain@kipi.bi,Sr. Software Engineer,Data Engineering,FSEM,2024-11-28,Manoj Gupta,Remote - US,Active,Billable,7.5,2026-03-20 06:48:52.462
+1378,Kavya Sinha,kavya.sinha@kipi.bi,Solutions Architect,Data Science,HT,2019-06-28,Kavitha Rao,Hyderabad,Active,Partially Billable,14.6,2026-03-20 06:48:52.462
+1386,Ritvik Thakur,ritvik.thakur@kipi.bi,Sr. Software Engineer,Data Engineering,FSEM,2020-01-04,Rajiv Kapoor,Pune,Active,Billable,1.0,2026-03-20 06:48:52.462
+1394,Manish Joshi,manish.joshi@kipi.bi,Software Engineer,Data Science,FSEM,2022-05-18,Vikash Mehta,Pune,Active,Billable,18.5,2026-03-20 06:48:52.462
+1402,Sai Pillai,sai.pillai@kipi.bi,Associate Solutions Architect,Data Science,HT,2023-06-26,Manoj Gupta,Pune,Inactive,Billable,7.1,2026-03-20 06:48:52.462
+1410,Ritvik Patel,ritvik.patel@kipi.bi,Software Engineer,Data Science,HT,2022-10-23,Priya Sharma,Dallas,Active,Partially Billable,15.4,2026-03-20 06:48:52.462
+1418,Kabir Verma,kabir.verma@kipi.bi,Lead Engineer,Data Science,HT,2020-04-19,Rajiv Kapoor,Remote - India,Active,Bench,19.6,2026-03-20 06:48:52.462
+1426,Diya Patel,diya.patel@kipi.bi,Software Engineer,Data Science,CM,2024-06-12,Kavitha Rao,Noida,Active,Billable,5.6,2026-03-20 06:48:52.462
+1434,Manish Shetty,manish.shetty@kipi.bi,Sr. Software Engineer,Data Engineering,HT,2025-05-23,Anita Pillai,Chicago,Active,Billable,10.6,2026-03-20 06:48:52.462
+1442,Aarav Kamath,aarav.kamath@kipi.bi,Lead Engineer,Data Science,CM,2023-01-09,Rajiv Kapoor,Remote - India,Active,Billable,18.6,2026-03-20 06:48:52.462
+1450,Meera Thakur,meera.thakur@kipi.bi,Software Engineer,Data Engineering,FSEM,2023-08-17,Rajiv Kapoor,Hyderabad,Active,Partially Billable,6.8,2026-03-20 06:48:52.462
+1458,Kabir Sharma,kabir.sharma@kipi.bi,Software Engineer,Data Science,FSEM,2020-04-02,Anita Pillai,Hyderabad,On Notice,Billable,6.3,2026-03-20 06:48:52.462
+1466,Reyansh Das,reyansh.das@kipi.bi,Software Engineer,Data Engineering,FSEM,2019-12-01,Vikash Mehta,Pune,Active,Billable,15.0,2026-03-20 06:48:52.462
+1474,Diya Nair,diya.nair@kipi.bi,Solutions Architect,Data Engineering,CM,2020-11-10,Sunita Desai,Remote - India,Active,Billable,7.7,2026-03-20 06:48:52.462
+1482,Atharv Mehta,atharv.mehta@kipi.bi,Sr. Software Engineer,Data Science,FSEM,2021-05-04,Rajiv Kapoor,Bangalore,Active,Billable,10.9,2026-03-20 06:48:52.462
+1490,Sneha Patil,sneha.patil@kipi.bi,Lead Engineer,Data Engineering,CM,2022-11-06,Anita Pillai,Noida,On Notice,Billable,16.5,2026-03-20 06:48:52.462
+1498,Rajesh Menon,rajesh.menon@kipi.bi,Lead Engineer,Data Science,CM,2021-04-26,Manoj Gupta,Dallas,Active,Billable,8.4,2026-03-20 06:48:52.462
+1506,Rajesh Thakur,rajesh.thakur@kipi.bi,Sr. Software Engineer,Data Engineering,FSEM,2025-05-26,Sanjay Reddy,Noida,Active,Billable,12.3,2026-03-20 06:48:52.462
+1513,Ravi Krishnan,ravi.krishnan@kipi.bi,Sr. Solutions Architect,Data Engineering,HT,2018-03-15,Arun Nair,Bangalore,Active,Billable,14.2,2026-03-21 04:04:19.023
+1514,Sneha Patil,sneha.patil@kipi.bi,Sr. Solutions Architect,Data Science,CM,2017-06-20,Kavitha Rao,Pune,Active,Billable,15.5,2026-03-21 04:04:19.023
+1515,Arjun Mehta,arjun.mehta@kipi.bi,Sr. Solutions Architect,Data Engineering,FSEM,2019-01-10,Manoj Gupta,Chicago,Active,Billable,12.8,2026-03-21 04:04:19.023
+1516,Meera Iyer,meera.iyer@kipi.bi,Sr. Solutions Architect,Data Science,HT,2016-11-05,Arun Nair,Hyderabad,Active,Non-Billable,16.3,2026-03-21 04:04:19.023
+1517,Karan Desai,karan.desai@kipi.bi,Sr. Solutions Architect,Data Engineering,CM,2018-08-22,Kavitha Rao,Bangalore,Active,Billable,13.7,2026-03-21 04:04:19.023
+1518,Ananya Reddy,ananya.reddy@kipi.bi,Sr. Solutions Architect,Data Science,FSEM,2017-04-18,Manoj Gupta,Pune,Active,Billable,15.0,2026-03-21 04:04:19.023
+1519,Vikram Saxena,vikram.saxena@kipi.bi,Principle Solutions Architect,Data Engineering,HT,2014-02-10,Arun Nair,Bangalore,Active,Billable,19.5,2026-03-21 04:04:19.023
+1520,Priya Menon,priya.menon@kipi.bi,Principle Solutions Architect,Data Science,CM,2013-09-15,Kavitha Rao,Hyderabad,Active,Billable,20.1,2026-03-21 04:04:19.023
+1521,Siddharth Joshi,siddharth.joshi@kipi.bi,Principle Solutions Architect,Data Engineering,FSEM,2015-05-20,Manoj Gupta,Chicago,Active,Billable,18.3,2026-03-21 04:04:19.023
+1522,Deepa Nair,deepa.nair@kipi.bi,Principle Solutions Architect,Data Science,HT,2012-07-12,Arun Nair,Pune,Active,Non-Billable,21.0,2026-03-21 04:04:19.023
+1523,Rahul Sharma,rahul.sharma@kipi.bi,Principle Solutions Architect,Data Engineering,CM,2014-11-30,Kavitha Rao,Bangalore,Active,Billable,19.8,2026-03-21 04:04:19.023
+1524,Kavya Bhat,kavya.bhat@kipi.bi,Principle Solutions Architect,Data Science,FSEM,2013-03-25,Manoj Gupta,Hyderabad,Active,Billable,20.5,2026-03-21 04:04:19.023
+1525,Aditya Kulkarni,aditya.kulkarni@kipi.bi,Project Manager,Data Engineering,HT,2019-04-10,Arun Nair,Bangalore,Active,Billable,11.5,2026-03-21 06:40:27.625
+1526,Nisha Verma,nisha.verma@kipi.bi,Project Manager,Data Science,CM,2020-01-15,Kavitha Rao,Pune,Active,Billable,10.2,2026-03-21 06:40:27.625
+1527,Rohit Srinivasan,rohit.srinivasan@kipi.bi,Project Manager,Data Engineering,FSEM,2019-07-22,Manoj Gupta,Chicago,Active,Billable,12.0,2026-03-21 06:40:27.625
+1528,Swati Chauhan,swati.chauhan@kipi.bi,Project Manager,Data Science,HT,2020-06-18,Arun Nair,Hyderabad,Active,Non-Billable,9.8,2026-03-21 06:40:27.625
+1529,Ganesh Iyer,ganesh.iyer@kipi.bi,Sr. Project Manager,Data Engineering,CM,2016-03-05,Kavitha Rao,Bangalore,Active,Billable,16.5,2026-03-21 06:40:27.625
+1530,Lakshmi Rao,lakshmi.rao@kipi.bi,Sr. Project Manager,Data Science,FSEM,2015-09-12,Manoj Gupta,Pune,Active,Billable,18.0,2026-03-21 06:40:27.625
+1531,Sunil Pillai,sunil.pillai@kipi.bi,Sr. Project Manager,Data Engineering,HT,2016-11-20,Arun Nair,Chicago,Active,Billable,17.2,2026-03-21 06:40:27.625
+1532,Pooja Sharma,pooja.sharma@kipi.bi,Sr. Project Manager,Data Science,CM,2015-05-08,Kavitha Rao,Hyderabad,Active,Billable,19.0,2026-03-21 06:40:27.625
